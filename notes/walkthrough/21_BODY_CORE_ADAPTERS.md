@@ -1,6 +1,6 @@
 # Chapter 21 — The carrier is not the judge
 
-Previous: [When earned parts do not yet make an earned whole](20_BODY_0_COMPOSITION.md) · [Walkthrough index](README.md) · Next: [Current whole-body orientation](../BODY_MAP.md)
+Previous: [When earned parts do not yet make an earned whole](20_BODY_0_COMPOSITION.md) · [Walkthrough index](README.md) · Next: [The instrument waits for work](22_FIELD_USE_PILOT.md)
 
 **Status: provisional wire/integration engineering; X2, M2, shared
 source-binding, and M3 adapter surfaces cold-endorsed. No new memory finding.**
@@ -214,8 +214,19 @@ Body Core v0.2 established three independently reviewed client pressure tests.
 Body Core v0.3 then split the structural kernel from the literal v0.2 policy
 projector: cognitive replay and view claims now require explicit selection,
 while the same closed ledgers return to unchanged scorers without changing the
-prior results. The v0.3 post-build review remains pending; the historical v0.2
-review manifests continue to attest only to the bytes they froze.
+prior results. Two independent reviewers
+[endorsed](../BODY_CORE_EXPLICIT_PROJECTION_REVIEW.md) the exact v0.3
+implementation without repair; the historical v0.2 review manifests continue
+to attest only to the bytes they froze.
+
+The first ordinary-work consumer is now a manual
+[field-use capture layer](../FIELD_USE_CAPTURE_V0.md), governed by a separately
+[endorsed observation ruler](../FIELD_USE_PROTOCOL_V0_REVIEW.md). It freezes
+lineage supply before action and records native consequences without treating
+shadow and consulted work as forks. Two independent reviewers
+[endorsed](../FIELD_USE_CAPTURE_V0_REVIEW.md) the exact implementation without
+repair. The bounded pilot is armed but has zero eligible invocations; this is
+instrumentation, not field evidence.
 
 It does not show that the three properties compose causally. Body-0 remains
 `not_engaged`. It does not show that Core creates earned trust, closes M3's
@@ -229,4 +240,4 @@ rule, scorer oracle, loses-condition, and bounded review.
 
 ---
 
-Previous: [When earned parts do not yet make an earned whole](20_BODY_0_COMPOSITION.md) · [Walkthrough index](README.md) · Next: [Current whole-body orientation](../BODY_MAP.md)
+Previous: [When earned parts do not yet make an earned whole](20_BODY_0_COMPOSITION.md) · [Walkthrough index](README.md) · Next: [The instrument waits for work](22_FIELD_USE_PILOT.md)

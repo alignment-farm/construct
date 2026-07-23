@@ -35,6 +35,7 @@ Open only when the task requires it:
 | Epistemic-frame check candidate — Part I sealed | [notes/SPEC_EPISTEMIC_FRAME_CHECK_V0.md](notes/SPEC_EPISTEMIC_FRAME_CHECK_V0.md) |
 | Passive anomaly capture / frontier review      | [notes/FRONTIER_PAUSE.md](notes/FRONTIER_PAUSE.md), then [notes/ANOMALY_LOG.md](notes/ANOMALY_LOG.md) |
 | Provisional whole-body core runtime             | [notes/NEXT_SUBSTRATE.md](notes/NEXT_SUBSTRATE.md), [notes/BODY_MAP.md](notes/BODY_MAP.md), then [sketches/next_substrate/README.md](sketches/next_substrate/README.md) |
+| Operational field-use capture                  | [notes/FIELD_USE_PROTOCOL_V0.md](notes/FIELD_USE_PROTOCOL_V0.md), then [notes/FIELD_USE_CAPTURE_V0.md](notes/FIELD_USE_CAPTURE_V0.md) |
 | Previous lab history (retrospective)           | [notes/previous/README.md](notes/previous/README.md)                           |
 | Closed research arc (2026-06-11–12)            | [.substrate/threads/research/README.md](.substrate/threads/research/README.md) |
 
@@ -151,7 +152,9 @@ Body Core v0.3 explicit-projection wire checks (no model, no scientific claim):
 `make body-core-x2-test`; the paired M2 pressure test is
 `make body-core-m2-test`; the M3 authority-boundary pressure test is
 `make body-core-m3-test`. The composed walking skeleton remains
-`make body-sketch-test`.
+`make body-sketch-test`. The endorsed field-use capture ruler is exercised by
+`make body-field-use-test`; it creates no field data and does not create or
+advance a pilot invocation.
 
 ## Working on code
 

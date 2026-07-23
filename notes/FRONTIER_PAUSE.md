@@ -25,6 +25,13 @@ mechanism at capture time.
 The log lets reality nominate a future episode without turning daily work into
 continuous frontier search.
 
+The separately [endorsed field-use ruler](FIELD_USE_PROTOCOL_V0_REVIEW.md) may
+record independently necessary cold reorientation or handoff work through the
+manual [capture layer](FIELD_USE_CAPTURE_V0.md). Those ledgers remain
+`wire_integration_only`; shadow, consultation, refusal, and non-use do not become
+findings or alter this review cadence. The bounded pilot is armed but has zero
+eligible invocations; its calendar bound has not started.
+
 ## Review cadence
 
 Review the log:

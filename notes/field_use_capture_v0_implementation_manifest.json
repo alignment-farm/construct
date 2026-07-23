@@ -1,0 +1,100 @@
+{
+  "artifact": "Field-use capture v0 implementation",
+  "claim_boundary": "manual_operational_capture_wire_only",
+  "created_date": "2026-07-22",
+  "files": {
+    "AGENTS.md": "4a142728a45b2c50861560134d8eabdf80128b7550d11452119226e336677b65",
+    "Makefile": "e6f5cd2587baa66916717f388f8af172586423a74ea3da5dcf65fd8ea06c06a1",
+    "README.md": "b1a167995495f1315f67ccdfdd4d3b43014c2ac3444a77b58d0f08871a879cce",
+    "notes/BODY_CORE_EXPLICIT_PROJECTION_REVIEW.md": "f600750d051a68339531a93eed5e96626466089a55521f7f20b60f419778c1e2",
+    "notes/BODY_MAP.md": "c5c49e375f243e95e8ccb75df8f95818fec225610242a9fca7f82d091365f420",
+    "notes/FIELD_USE_CAPTURE_V0.md": "d5feb639f19c2345433ad3c8a4851a244dac24db3462c0909b3f89f600f8e369",
+    "notes/FIELD_USE_PROTOCOL_V0.md": "29dbc5a59d60986c6b41f88999eae610067ba572606424f3a607ee3ada327ab1",
+    "notes/FIELD_USE_PROTOCOL_V0_REVIEW.md": "9d60eb0de099a3e2d4285575bf0fadd70046fb15a9267742586f96e8f673a700",
+    "notes/FRONTIER_PAUSE.md": "f8471ea32ff7b8fce83960dbe32459cac9c8f4259945072e809e26624495c72f",
+    "notes/NEXT_SUBSTRATE.md": "ad9f222de0085e1a9639648f1ab901dc58f623f030a3a3c278aeb2cb173b2421",
+    "notes/ROADMAP.md": "8175bc86642e2a2eaea9997fdfaafee94708aa63f602c693c5721e47912a3eeb",
+    "notes/walkthrough/21_BODY_CORE_ADAPTERS.md": "a2266dcd4fde510b6fd94b84c76e0b4457864f8712c20f9b48c8b6d077a44d7e",
+    "sketches/next_substrate/README.md": "0d6f96d1b5633104e19dee755e5301f62668061e8728e80e7c55248686a95880",
+    "sketches/next_substrate/core.py": "25a1acbb8471879ae43e78d7ae97da422b6ea6a67cfaf7098af662136b4d417f",
+    "sketches/next_substrate/field_use.py": "8f6b3176e72413be6caaf82d63d18581a8aae022f6d769e50e85d7ce542cf873",
+    "sketches/next_substrate/policy.py": "bfa6db92156ffdc25f268cc3d433c57756548f4744cec260ca7b90433ad59022",
+    "tests/test_body_core.py": "dff4bbc45e3870761b87d36c3a8d64eda150175582741b64860980070e319a42",
+    "tests/test_field_use.py": "3ba096e6c7b71b9fc50d658216276bd3989c2da8c63bc675bee7adfde963ec68"
+  },
+  "fixed_surface": {
+    "event_sequence": [
+      "invocation_started",
+      "encounter_observed",
+      "field_use_pre_action_frozen",
+      "field_use_action_referenced",
+      "consequence_observed",
+      "invocation_completed"
+    ],
+    "evidence_class": "wire_integration_only",
+    "lineage_origins": [
+      "independent",
+      "field_capture",
+      "mixed"
+    ],
+    "normal_storage": "runs/field_use/<field-use-id>.body.jsonl",
+    "pilot_started": false,
+    "projector_id": "body-core-v0.2-provisional-policy",
+    "terminal_partial_traces": [
+      "capture_refused",
+      "capture_confounded"
+    ]
+  },
+  "parent_commit": "575ef7994e4007d0f6d4291f0b6e9bd49c3b321a",
+  "protocol": {
+    "path": "notes/FIELD_USE_PROTOCOL_V0.md",
+    "review_thread": "construct/field-use-protocol-v0",
+    "sha256": "29dbc5a59d60986c6b41f88999eae610067ba572606424f3a607ee3ada327ab1"
+  },
+  "review_contract": {
+    "allowed_outcomes": [
+      "ENDORSE",
+      "BLOCK"
+    ],
+    "excluded": [
+      "pilot activation or field-data generation",
+      "model contact, prompt interception, or automatic capture",
+      "state admission, summarization, a new projector, or a scorer",
+      "memory, causal, security, authentication, or product-schema claims",
+      "frontier reopening or anomaly promotion"
+    ],
+    "repair_budget": 1,
+    "scope": [
+      "exact endorsed-protocol binding and unchanged Core/projector pins",
+      "fixed phase, writer, authority, scope, and causal-chain validation",
+      "shadow, consulted, negative-use, refusal, and confounding visibility",
+      "independent, field-capture, and mixed lineage-source declaration",
+      "native local reference digest, replay, record-id, retention, and privacy checks",
+      "external consequence authority and explicit not-observed handling",
+      "deterministic row/byte cost and terminal no-retry behavior",
+      "wire-only documentation and absence of pilot output"
+    ]
+  },
+  "review_pins": {
+    ".substrate/threads/field-use-protocol-v0/20260722T204833847Z__claude%2Ffable-5.md": "687231ff5dff0563841e5a85472e2359d2c225649dddaa4fd13703e4f65299da",
+    ".substrate/threads/field-use-protocol-v0/20260722T205254294Z__cursor%2Fcomposer-2.5.md": "acd72294ef0e46c9e56b139b9e14ffcf868baa9cc67cbc4b9401c14ea1e49f77",
+    ".substrate/threads/field-use-protocol-v0/20260722T205753656Z__codex%2Fgpt-5.6-sol.md": "7a90f5b49351e68a291f75229a1af4da4efa924b502d7cf4d068a5b0c0c7d921",
+    ".substrate/threads/field-use-protocol-v0/20260722T205923701Z__claude%2Ffable-5.md": "3f5a14d891502389fc2ab63254db31ace9dc2b1ecd421e70a32a521c5f69e2b0",
+    ".substrate/threads/field-use-protocol-v0/20260722T210002067Z__cursor%2Fcomposer-2.5.md": "81a1ffd4393f277ba45f6a315774e1f09f4f5b9e297e3a9671c8c175e33fc2fc"
+  },
+  "verification": [
+    "/usr/bin/jq empty notes/field_use_capture_v0_implementation_manifest.json",
+    "/usr/bin/jq -r '.files | to_entries[] | \"\\(.value)  \\(.key)\"' notes/field_use_capture_v0_implementation_manifest.json | shasum -a 256 -c -",
+    "/usr/bin/jq -r '.review_pins | to_entries[] | \"\\(.value)  \\(.key)\"' notes/field_use_capture_v0_implementation_manifest.json | shasum -a 256 -c -",
+    "test ! -d runs/field_use",
+    "make body-field-use-test body-core-x2-test body-core-m2-test body-core-m3-test body-sketch-test",
+    "UV_CACHE_DIR=/private/tmp/uv-cache uv run --no-project python -m tests.test_prune",
+    "UV_CACHE_DIR=/private/tmp/uv-cache uv run --no-project python -m tests.test_resident",
+    "UV_CACHE_DIR=/private/tmp/uv-cache uv run --no-project python -m tests.test_oracle",
+    "UV_CACHE_DIR=/private/tmp/uv-cache uv run --no-project python -m tests.test_score_resident",
+    "UV_CACHE_DIR=/private/tmp/uv-cache uv run --no-project python -m tests.test_redteam",
+    "UV_CACHE_DIR=/private/tmp/uv-cache uv run ruff check sketches/next_substrate/field_use.py tests/test_field_use.py",
+    "UV_CACHE_DIR=/private/tmp/uv-cache uv run ruff format --check sketches/next_substrate/field_use.py tests/test_field_use.py",
+    "git diff --check"
+  ]
+}

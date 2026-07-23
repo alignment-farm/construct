@@ -516,6 +516,18 @@ lineage and reconstructable state. It does not license semantic geometry,
 conflict representation, general consolidation, multi-disposition composition,
 or a new engine search.
 
+The next pressure comes from use rather than another organ. The endorsed
+[field-use protocol v0](FIELD_USE_PROTOCOL_V0.md) permits only independently
+necessary cold reorientation or handoff work. Its manual
+[capture implementation](FIELD_USE_CAPTURE_V0.md) freezes raw-lineage,
+projected-view, or non-use state before action; distinguishes independent,
+field-capture, and mixed supply; points to native actions and external
+consequences; and preserves refusal or confounding as terminal partial traces.
+The exact implementation is [cold-endorsed](FIELD_USE_CAPTURE_V0_REVIEW.md).
+Every row remains `wire_integration_only`. The pilot is armed but has zero
+eligible invocations; field volume or a persuasive anecdote cannot promote this
+engineering into a memory finding.
+
 ---
 
 ## The offices I would actually build

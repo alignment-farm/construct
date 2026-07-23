@@ -1,6 +1,6 @@
 # Body Core v0.3 — explicit projection boundary
 
-Status: **implementation built 2026-07-22; post-build cold review pending**.
+Status: **implementation cold-endorsed 2026-07-22**.
 
 Milestone: **none scientific**. This is provisional whole-body engineering
 while active frontier search remains paused. It creates no memory, security,
@@ -9,9 +9,10 @@ composition, or reconstruction-cost finding.
 The design target was reviewed in substrate thread
 `explicit-projection-boundary`. Two independent reviewers endorsed the seam;
 the convergence entry incorporated their acceptance pins before implementation.
-The exact post-build code, test, and living-document surface is frozen in
+The exact reviewed code, test, and then-current living-document surface is
+historically frozen in
 [`body_core_v03_implementation_manifest.json`](body_core_v03_implementation_manifest.json)
-for the pending review.
+and closed by the [implementation review](BODY_CORE_EXPLICIT_PROJECTION_REVIEW.md).
 
 ## Claim boundary
 

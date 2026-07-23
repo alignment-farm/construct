@@ -310,11 +310,35 @@ The L3 behavior: after answering, the engine is asked to classify how it used
 offered records. These claims are useful audit material but do not control
 which records the engine saw.
 
+### Consultation Surface
+
+<a id="consultation-surface"></a>
+
+The exact `raw_lineage`, `projected_view`, or explicit `none` made available
+before consequential action in a [field-use](#field-use) invocation. The
+surface, exposed record ids, and [lineage origin](#lineage-origin) are frozen
+before action so a later consequence cannot rewrite what was available.
+
+See: [FIELD_USE_PROTOCOL_V0.md](FIELD_USE_PROTOCOL_V0.md), Capture boundary.
+
 ### Eligibility
 
 The first governed offer-boundary gate. In this harness, eligibility combines
 relevance, trust, and authority. Records below threshold are withheld before
 the answer.
+
+### Field Use
+
+<a id="field-use"></a>
+
+Outcome-blind operational capture of independently necessary repository work
+across an admitted [invocation seam](#invocation-seam). Field use is not an
+experiment, treatment branch, or memory finding. Its Body Core rows remain
+`wire_integration_only`, and the acting model cannot nominate its own
+invocation.
+
+See: [FIELD_USE_PROTOCOL_V0.md](FIELD_USE_PROTOCOL_V0.md) and
+[walkthrough chapter 22](walkthrough/22_FIELD_USE_PILOT.md).
 
 ### Foreground Data
 
@@ -330,6 +354,28 @@ Mechanism A.
 Pre-answer control over what reaches the engine. If a mechanism only labels or
 explains behavior after the answer, it is audit or annotation, not governance.
 
+### Invocation Seam
+
+<a id="invocation-seam"></a>
+
+A boundary where already-authorized work continues through cold reorientation
+or handoff. This is the only workflow admitted by field-use protocol v0; another
+workflow requires an amendment rather than an informal analogy.
+
+See: [FIELD_USE_PROTOCOL_V0.md](FIELD_USE_PROTOCOL_V0.md), Reality criterion.
+
+### Lineage Origin
+
+<a id="lineage-origin"></a>
+
+The pre-action provenance class of a consulted surface: `independent` when all
+sources would exist without field capture, `field_capture` when all sources
+came from prior field-use ledgers, and `mixed` when both are present. Origin is
+derived from declared source provenance, not path heuristics.
+
+See: [FIELD_USE_PROTOCOL_V0_REVIEW.md](FIELD_USE_PROTOCOL_V0_REVIEW.md),
+Blocker and repair.
+
 ### Live-Input Yield
 
 Offer-boundary mechanism that withholds older records when they contend with
@@ -340,6 +386,17 @@ when similarity mistakes complementary detail for contradiction.
 
 One branch in the experiment's comparison set, such as L0, L1, L2, L2y, L2s,
 or L3.
+
+### Native Consequence
+
+<a id="native-consequence"></a>
+
+Evidence produced under the ordinary task's own authority, such as a test
+result, review verdict, accepted artifact, user correction, or external system
+response. It remains authoritative for what happened; a field ledger carries a
+pinned reference rather than replacing it with model narration.
+
+See: [FIELD_USE_PROTOCOL_V0.md](FIELD_USE_PROTOCOL_V0.md), Capture boundary.
 
 ### Offer Boundary
 

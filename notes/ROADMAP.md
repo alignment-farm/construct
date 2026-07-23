@@ -55,7 +55,22 @@ literal `body-core-v0.2-provisional-policy` canonical profile and every prior
 scorer result. Unowned rows remain inert to policy state but still advance the
 canonical lineage cursor. No new kind-to-authority rule, adapter registry,
 schema, client, or replay optimization entered. The implementation is built;
-post-build cold review is pending.
+two independent reviewers [endorsed](BODY_CORE_EXPLICIT_PROJECTION_REVIEW.md)
+the exact implementation without repair.
+
+The next bounded engineering pressure is the endorsed
+[field-use protocol v0](FIELD_USE_PROTOCOL_V0.md): independently necessary
+repository work may produce shadow, consulted, refused, abandoned, and non-use
+traces without becoming an experiment. Its manual
+[capture layer](FIELD_USE_CAPTURE_V0.md) now binds the exact protocol, existing
+Core envelope, explicit projector, lineage-source origin, pre-action freeze,
+native action/consequence references, terminal partial traces, and deterministic
+row/byte costs. Two independent reviewers
+[endorsed](FIELD_USE_CAPTURE_V0_REVIEW.md) the exact implementation without
+repair. The pilot is armed but awaits its first independently necessary
+invocation; no field data or calendar clock exists yet. No state admission,
+scorer, engine contact, or scientific claim is licensed by this build.
+The reader-facing route is [walkthrough chapter 22](walkthrough/22_FIELD_USE_PILOT.md).
 
 The completed M2 review named one prerequisite before any third adapter. That
 [Core-adjacent source-binding helper](BODY_CORE_SOURCE_BINDING.md) is now

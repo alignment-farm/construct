@@ -1,4 +1,4 @@
-.PHONY: smoke smoke-local smoke-ollama smoke-claude stage-b stage-b-local suite suite-local conformance route-watch route-watch-test x4-base-rate occlusion-watch occlusion-watch-test m1-wire m2-wire m2-test m3-test x1-test x2-test x2-fixture-check body0-check body0-test body1-check body1-test body1-wire body1-score obligation-admission-check obligation-admission-test obligation-admission-wire prf-test prf-gate prf-smoke prf2-test prf2-gate prf2-smoke prf3-test prf3-gate prf3-family-gate prf3-smoke body-core-test body-core-x2-test body-core-m2-test body-core-m3-test body-sketch body-sketch-test efc-test
+.PHONY: smoke smoke-local smoke-ollama smoke-claude stage-b stage-b-local suite suite-local conformance route-watch route-watch-test x4-base-rate occlusion-watch occlusion-watch-test m1-wire m2-wire m2-test m3-test x1-test x2-test x2-fixture-check body0-check body0-test body1-check body1-test body1-wire body1-score obligation-admission-check obligation-admission-test obligation-admission-wire prf-test prf-gate prf-smoke prf2-test prf2-gate prf2-smoke prf3-test prf3-gate prf3-family-gate prf3-smoke body-core-test body-core-x2-test body-core-m2-test body-core-m3-test body-field-use-test body-sketch body-sketch-test efc-test
 
 # SPEC_EPISTEMIC_FRAME_CHECK v0 Part I §14 wire tests (no model, never evidence):
 # shared interval functions (scipy-goldened), the §10.4 N-rule planner + §6
@@ -36,6 +36,12 @@ body-core-m2-test: body-core-test
 
 body-core-m3-test: body-core-test
 	UV_CACHE_DIR=/private/tmp/uv-cache uv run --no-project python -m tests.test_body_core_m3_adapter
+
+# Endorsed field-use ruler: manual, outcome-blind operational capture over the
+# existing Core envelope. Wire tests only; creates no field data and starts no
+# pilot, scorer, model contact, or memory finding.
+body-field-use-test: body-core-test
+	UV_CACHE_DIR=/private/tmp/uv-cache uv run --no-project python -m tests.test_field_use
 
 body-sketch-test: body-core-test
 	UV_CACHE_DIR=/private/tmp/uv-cache uv run --no-project python -m tests.test_next_substrate_sketch

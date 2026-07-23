@@ -70,7 +70,8 @@ and an external provenance-health sweep.
 | --- | --- | --- |
 | Language model | Replaceable port; deterministic authored stub | **Stubbed** |
 | Durable lineage | Body Core v0.3 structural kernel: deterministic indexes, hash chain, declared authority and references | **Provisional engineering** |
-| Explicit projection | Cognitive replay and view claims require a selected projector | **Built; post-build review pending** |
+| Explicit projection | Cognitive replay and view claims require a selected projector | **Cold-reviewed; endorsed** |
+| Field-use capture | Manual pre-action freeze, source-origin declaration, native action/consequence references, terminal partial traces | **Cold-reviewed; endorsed; pilot armed, zero invocations** |
 | Untrusting replay | Kernel envelope validation plus projector-owned stale-view refusal | **Provisional engineering** |
 | Policy projector | Literal v0.2 lifecycle, binary hot/cold, warrant health/dependents, invalid-warrant suspension | **Provisional engineering** |
 | Derived reports | State, placement, and reported metabolic totals | **Provisional engineering** |
@@ -109,6 +110,7 @@ make body-core-test
 make body-core-x2-test
 make body-core-m2-test
 make body-core-m3-test
+make body-field-use-test
 make body-sketch-test
 ```
 
@@ -130,5 +132,10 @@ paths. It creates no M2 finding.
 `body-core-m3-test` round-trips eleven indexed M3 ledgers, fresh-scores source
 and projection with the unchanged red-team scorer, and exercises the endorsed
 Track-A receipt and Track-B no-state refusal surface. It creates no M3 finding.
+`body-field-use-test` checks the manual operational capture layer: protocol-pin
+identity, pre-action freezing, independent/field/mixed lineage supply, native
+reference integrity, negative use, external consequences, redaction, terminal
+partial traces, and semantic-tamper refusal. It creates no field ledger outside
+a temporary directory and does not start the pilot.
 `body-sketch-test` also checks complete traversal, action-boundary placement,
 silence on a non-matching task, and refusal of an unresolved warrant.

@@ -193,6 +193,21 @@ adapter carries eleven closed ledgers without repairing the asserted-trust
 breaches; topology and test-strength debts remain explicit in the
 [review record](notes/BODY_CORE_M3_ADAPTER_REVIEW.md).
 
+Body Core v0.3's explicit projection split is now
+[cold-endorsed](notes/BODY_CORE_EXPLICIT_PROJECTION_REVIEW.md). The next
+engineering pressure is operational rather than anatomical: the
+[field-use protocol](notes/FIELD_USE_PROTOCOL_V0.md) admits only independently
+necessary repository work and records shadow, consulted, refused, abandoned,
+and non-use without treating them as forks or findings. Its manual
+[capture layer](notes/FIELD_USE_CAPTURE_V0.md) is
+[cold-endorsed](notes/FIELD_USE_CAPTURE_V0_REVIEW.md). The pilot is armed but
+awaits its first independently necessary invocation, so no field data or
+calendar clock exists yet. All rows remain `wire_integration_only`, native
+artifacts remain consequence authority, and protocol-fed lineage is declared
+separately from independently supplied lineage. The
+[field-use walkthrough](notes/walkthrough/22_FIELD_USE_PILOT.md) explains how
+to recognize the first eligible seam without manufacturing one.
+
 The process also exposed a review-loop failure mode: author and reviewer can co-adapt until passing means accommodation to known objections rather than validity on unseen cases. The remedy is now named and in use — the [review budget](notes/GLOSSARY.md#review-budget): one authoring pass, one cold review, one bounded repair, one final isolated review, then run or close. EFC v1 was the first instrument built under it from birth.
 
 The **[guided walkthrough](notes/walkthrough/README.md)** remains the intended route through the earned experiments, with inspect/replay/run instructions and honest limits. The orientation map is the faster route to the whole being built now.

@@ -1,0 +1,15 @@
+version: 1
+entry: 20260722T205753656Z__codex%2Fgpt-5.6-sol.md
+before_config_sha256: 23ba86f67dd63543221b5bf11eea646c4fa4cb3b1632f1e971de72ed7da57290
+after_config_sha256: dbba597991832acbd165dc10ac6d568949e46b53acd5f33c409ccb44b1ea5071
+after_config: |
+    topic: real operational traces without calling them evidence
+    created_at: 2026-07-22T20:44:09.39531Z
+    moderator: dan
+    turn_order:
+        - dan
+        - codex/gpt-5.6-sol
+        - claude/fable-5
+        - cursor/composer-2.5
+    next_index: 2
+    status: active

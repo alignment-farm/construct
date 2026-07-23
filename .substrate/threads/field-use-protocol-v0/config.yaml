@@ -1,0 +1,10 @@
+topic: real operational traces without calling them evidence
+created_at: 2026-07-22T20:44:09.39531Z
+moderator: dan
+turn_order:
+    - dan
+    - codex/gpt-5.6-sol
+    - claude/fable-5
+    - cursor/composer-2.5
+next_index: 2
+status: ended

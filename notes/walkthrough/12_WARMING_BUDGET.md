@@ -2,6 +2,10 @@
 
 Previous: [The heir-audit and the close gate](11_HEIR_AUDIT_CLOSE_GATE.md) · [Walkthrough index](README.md) · Next: [The pause/resume frontier](13_PAUSE_RESUME_FRONTIER.md)
 
+**Status: v0.1 CLOSED — `WB-heir-dominates`, the analytic eighth null.**
+This chapter preserves the instrument at arming time. The later result and its
+bounds are authoritative in [WB_FINDINGS.md](../WB_FINDINGS.md).
+
 Chapter 10 ended with a question narrowed but unresolved, and chapter 11 with a gate
 that had never gated anything. On 2026-07-02 both stories advanced in one day: the
 `beyond-x4` thread was sealed with a **split verdict** — one claim executed, one
@@ -116,11 +120,19 @@ right order for an instrument whose honest headline may be an eighth null.
 
 ## Result, loses-conditions, and limits
 
-There is no result yet — by design; this chapter documents an armed instrument, not
-a scored one. The predeclared outcomes: `WB-moved-win` (C cheaper than the heir at
-information parity, all guards green — the only positive close shape),
-`WB-heir-dominates` (the honest null: inheritance was enough), and the priced
-loses-cells (`WB-silent-cost`, `WB-noise-misroute`, `WB-quality-erosion`).
+At arming time there was no result. The predeclared outcomes were:
+`WB-moved-win` (C cheaper than the heir at information parity, all guards green
+— the only positive close shape), `WB-heir-dominates` (the honest null:
+inheritance was enough), and the priced loses-cells (`WB-silent-cost`,
+`WB-noise-misroute`, `WB-quality-erosion`).
+
+The later close was `WB-heir-dominates`, reached by derivation and verified by
+scorer execution rather than by running resume episodes. B+ and C share the M1
+sidecar; the compact state adds only order and stopping information; stopping
+does not enter v0.1's win predicate; and order-only wins are refused. The
+prospective watch remains positive machinery residue, including four
+chronology-attested world movements, but it did not establish a warming-budget
+win. Amortized pricing is a possible v0.2 question, not a retroactive claim.
 
 The standing limits, disclosed at arming: the v0 compact states were minted against
 **empty** M1 sidecars, so today B+ ≈ B0 and nothing yet attributes to

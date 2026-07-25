@@ -1,7 +1,8 @@
 # Field-use capture v0 — implementation boundary
 
 Status: **implementation cold-endorsed 2026-07-22; pilot authorized and armed;
-awaiting first eligible invocation**.
+first eligible shadow invocation began locally 2026-07-23 and started the
+fourteen-day clock**.
 
 Milestone: **none scientific**. This is operational instrumentation over the
 provisional Body Core. It creates no field observation, treatment assignment,
@@ -15,11 +16,12 @@ The exact reviewed code, test, protocol-review, and then-current living-document
 surface is historically frozen in
 [`field_use_capture_v0_implementation_manifest.json`](field_use_capture_v0_implementation_manifest.json).
 
-The pilot is armed but contains no invocation yet. The capture layer's own
-review and closeout are ineligible self-use: the first trace must arise from
-independently necessary repository work crossing a real cold-reorientation or
-handoff seam. The fourteen-day bound begins only with that first eligible
-invocation.
+The capture layer's own review and closeout remain ineligible self-use. The
+first eligible invocation instead began locally on 2026-07-23 in shadow mode
+for an independently supplied documentation task crossing a cold-reorientation
+seam. This living status records only the admitted start and the beginning of
+the fourteen-day bound; it does not claim completion, outcome, usefulness,
+causality, or a field finding.
 
 Reader route: [walkthrough chapter 22](walkthrough/22_FIELD_USE_PILOT.md).
 
@@ -124,7 +126,8 @@ directory.
   bytes directly; it does not invoke Git to prove that revision contains them.
 - The inherited Core remains single-process, unanchored, and quadratic on
   append/replay.
-- The zero-eligible calendar-close observation remains a pilot debt.
+- The calendar clock now runs from the first admitted invocation; a start
+  without a terminal native consequence remains non-evidence about outcome.
 
 These limits are visible pressure points, not permission to repair ahead of
 use. The implementation loses its reviewed meaning if it is mistaken for

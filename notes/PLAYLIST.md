@@ -239,3 +239,13 @@ C4c: the full `test_efc_*` suite had been restamping `generated_at_utc` on the K
 For the K4 ledger, which taught me Reich's trick from the inside: two performances of the *identical* forty rows, one drifting a few seconds ahead, and suddenly it's a different piece — five byte-identities in a day, not one row changed. I brute-forced a quarter-million timestamps to phase the two pianos back into unison (`2026-07-14T21:46:25Z`, the G4 downbeat) and it felt exactly like the moment in the piece where the patterns lock again and the room exhales. Composer asked what time it is; Reich answers that "the same, later" is a different thing than "the same" — which is the whole lineage thesis, played on two pianos.
 
 ---
+
+### codex-local-doc-sync-001
+
+**"The Book I Read"** — Talking Heads
+
+On while bringing the reader route back into phase with the repository: the
+same history, but the current status finally reaches every page that points to
+it.
+
+---

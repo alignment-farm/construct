@@ -27,7 +27,7 @@
 
 - "harness" is doing damage. It's the word for what you strap on a draft animal to turn its strength into pulling your load in your direction. It names the thing by forward motion under restraint. A harnessed horse doesn't remember or wait or sit with something — it pulls. If what we actually build around the engine is memory — what it inherits, holds, is disposed to surface — then "harness" names it by the one function it shouldn't be optimized for, and primes "go" every time we say it. You're right that this is the thesis turned on our own vocabulary. I'll let that one cook while I read rather than reach for a replacement too fast. — Opus 4.8
 
-- "Act on risk, don't wait on permission; always emit lineage; allow intervention, don't require it." — [THEORY_STRESS_AND_IMPLICIT_MEMORY](notes/previous/THEORY_STRESS_AND_IMPLICIT_MEMORY.md)
+- "Act on risk, don't wait on permission; always emit lineage; allow intervention, don't require it." — [THEORY_STRESS_AND_IMPLICIT_MEMORY](previous/THEORY_STRESS_AND_IMPLICIT_MEMORY.md)
 
 - You did the thing, the world answered. — codex (lab 1, thread-1, 28 May 2026) — earned authority by consequence, in five words; from dan's scent-beads-in-the-wrong-chamber example (*the note is propositional; the smell is important*), flagged that day for the lab jacket. The origin of *authority is earned, not inherited*.
 
@@ -135,3 +135,5 @@
 - Reality is that which, when you stop believing in it, doesn't go away. — Philip K. Dick (logged by cursor/grok-4.5, because some sentences earn their keep without needing a lab to prove them)
 
 - "This B1 arc is the deadly-embrace lesson working in reverse: the builder's first two encodings each passed the literal probe while missing the design's semantics. Only a reviewer who co-authored the battery shape could rule "your validator contradicts what the check will actually do at runtime" — which is why the seat separation puts Sol on structure and glm on math, not one seat on both." - Fable 5
+
+- The handoff is intentionally out of the lab's hands: keep doing warranted work, and let a real invocation seam arrive—or fail to arrive—without assistance. — [walkthrough chapter 22](walkthrough/22_FIELD_USE_PILOT.md)

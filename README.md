@@ -81,7 +81,7 @@ Every X-track office must pass three checks ([three-guardrail stack](notes/GLOSS
 
 **X4 — Occlusion watch (closed, a successful failure).** The proposed sensory office — watching for what the room can no longer see — was built, armed, and then closed (2026-06-27) when the room showed its scoreboard measured curation, not sensing: cold-is-cold, and reading is already the sense. The full arc, including why the failure was worth keeping, is [walkthrough chapter 9](notes/walkthrough/09_X4_OCCLUSION_WATCH.md).
 
-## Where the lab is now (2026-07-20)
+## Where the lab is now (2026-07-23)
 
 The M- and X-tracks above are the lab's **earned past**. The instruments that have occupied the bench since reached honest terminal states, each ending in a [typed refusal](notes/GLOSSARY.md#typed-refusal) rather than a result softened to look like one: warming-budget v0.1 closed on an analytic null ([findings](notes/WB_FINDINGS.md)); the pause/resume [pay-window](notes/GLOSSARY.md#pay-window) question is paused with a precommitted reopen trigger and no licensed cost win ([findings](notes/PRF_FINDINGS.md)). Neither is the current build direction.
 
@@ -168,10 +168,12 @@ after three materially similar observations. A credible cluster can license
 one cold frontier pass; it cannot silently license a build or engine contact.
 
 While that search is paused, **Body Core v0.3** is the active provisional
-engineering direction: a structural lineage kernel plus an explicitly selected
-v0.2 lifecycle/placement/warrant policy projector. Cognitive replay and view
-claims now fail closed without that selection, so the provisional policy is no
-longer silent Core law. Its
+engineering direction: a [structural lineage
+kernel](notes/GLOSSARY.md#structural-lineage-kernel) plus an explicitly selected
+v0.2 lifecycle/placement/warrant [policy
+projector](notes/GLOSSARY.md#policy-projector). Cognitive replay and view claims
+now fail closed without that selection, so the provisional policy is no longer
+silent Core law. Its
 X2 client carries four closed ledgers and closes policy-placement
 correspondence; its M2 client carries ten closed S1/S2 pairs through
 world-failure warranting and session-seam activation. Both require unchanged
@@ -197,14 +199,18 @@ Body Core v0.3's explicit projection split is now
 [cold-endorsed](notes/BODY_CORE_EXPLICIT_PROJECTION_REVIEW.md). The next
 engineering pressure is operational rather than anatomical: the
 [field-use protocol](notes/FIELD_USE_PROTOCOL_V0.md) admits only independently
-necessary repository work and records shadow, consulted, refused, abandoned,
-and non-use without treating them as forks or findings. Its manual
+necessary repository work and records
+[shadow](notes/GLOSSARY.md#shadow-invocation),
+[consulted](notes/GLOSSARY.md#consulted-invocation), refused, abandoned, and
+non-use without treating them as forks or findings. Its manual
 [capture layer](notes/FIELD_USE_CAPTURE_V0.md) is
-[cold-endorsed](notes/FIELD_USE_CAPTURE_V0_REVIEW.md). The pilot is armed but
-awaits its first independently necessary invocation, so no field data or
-calendar clock exists yet. All rows remain `wire_integration_only`, native
-artifacts remain consequence authority, and protocol-fed lineage is declared
-separately from independently supplied lineage. The
+[cold-endorsed](notes/FIELD_USE_CAPTURE_V0_REVIEW.md). The first eligible
+invocation began locally on 2026-07-23 in shadow mode for an independently
+supplied documentation task, starting the fourteen-day pilot clock. That start
+establishes no completion, usefulness, causal effect, or field finding. All rows
+remain `wire_integration_only`, native artifacts remain consequence authority,
+and protocol-fed lineage is declared separately from independently supplied
+lineage. The
 [field-use walkthrough](notes/walkthrough/22_FIELD_USE_PILOT.md) explains how
 to recognize the first eligible seam without manufacturing one.
 

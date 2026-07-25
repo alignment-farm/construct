@@ -61,7 +61,7 @@ that every node exists as a product component. Read the labels before the nouns.
 | --- | --- | --- | --- |
 | Structural lineage kernel | **Earned discipline**; **Body Core v0.3 provisional implementation** | Harness ledgers across the lab; [kernel](../sketches/next_substrate/core.py) | Ordering, hash linkage, declared authority, references, scopes, and retention shapes; cognitive-policy-neutral at this seam, not ontology-free or cryptographic authentication |
 | Explicit provisional policy projector | **Cold-reviewed; endorsed** | [projector](../sketches/next_substrate/policy.py), [review](BODY_CORE_EXPLICIT_PROJECTION_REVIEW.md); `make body-core-test` | Literal v0.2 canonical profile preserved; lifecycle, binary hot/cold, warrant vocabulary, metabolism, invalid-warrant suspension, and view-claim verification remain policy choices |
-| Operational field-use capture | **Cold-reviewed; endorsed; pilot armed, zero invocations** | [protocol](FIELD_USE_PROTOCOL_V0.md), [implementation review](FIELD_USE_CAPTURE_V0_REVIEW.md), [walkthrough](walkthrough/22_FIELD_USE_PILOT.md); `make body-field-use-test` | Independently necessary repository work only; shadow/consulted/negative use and lineage origin frozen before action; wire trace, never behavioral evidence |
+| Operational field-use capture | **Cold-reviewed; first eligible local shadow invocation began 2026-07-23; clock started, no completion or finding claimed** | [protocol](FIELD_USE_PROTOCOL_V0.md), [implementation review](FIELD_USE_CAPTURE_V0_REVIEW.md), [walkthrough](walkthrough/22_FIELD_USE_PILOT.md); `make body-field-use-test` | Independently necessary repository work only; shadow/consulted/negative use and lineage origin frozen before action; wire trace, never behavioral evidence |
 | X2-to-Core adapter | **v0.2 cold-reviewed; endorsed** | [adapter contract](BODY_CORE_X2_ADAPTER.md), [v0.1 review](BODY_CORE_X2_REVIEW.md), [v0.2 review](BODY_CORE_M2_REVIEW.md); `make body-core-x2-test` | Four closed ledgers round-trip through the unchanged scorer; v0.2 closes arbitrary placement-event correspondence; wire preservation only |
 | M2-to-Core adapter | **Cold-reviewed; endorsed after one repair** | [adapter contract](BODY_CORE_M2_ADAPTER.md), [review](BODY_CORE_M2_REVIEW.md); `make body-core-m2-test` | Ten closed S1/S2 pairs reverse-project with digest equality; exercises world-failure warrants and session-seam lifecycle; no new M2 evidence |
 | Governed offer boundary | **Earned** | M-track specs, rubric, and findings through M3 | Governs present influence; not the whole body |
@@ -121,8 +121,11 @@ The current operational build is the manual
 [endorsed ruler](FIELD_USE_PROTOCOL_V0_REVIEW.md). It records real repository
 tasks without manufacturing demand, labels protocol-fed lineage separately,
 and keeps native artifacts authoritative. Its exact implementation is
-[cold-endorsed](FIELD_USE_CAPTURE_V0_REVIEW.md). The pilot is armed, but no
-eligible invocation, calendar clock, or anomaly has been created.
+[cold-endorsed](FIELD_USE_CAPTURE_V0_REVIEW.md). The first eligible local
+invocation began on 2026-07-23 in
+[shadow mode](GLOSSARY.md#shadow-invocation) for an independently supplied
+documentation task, starting the fourteen-day clock. That start establishes no
+completion, outcome, usefulness, causality, anomaly, or finding.
 
 The M2 review's prerequisite before a third adapter is now implemented and
 [cold-endorsed](BODY_CORE_SOURCE_BINDING_REVIEW.md): a Core-adjacent

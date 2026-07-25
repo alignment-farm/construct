@@ -27,15 +27,14 @@ Two tracks branch from the **M-1 bootstrap contract**, the common entry point:
 
 Both tracks end at the open questions beyond the completed work.
 
-The recommended reading order follows the lab's chronology: the chapter-0 primer if
-research vocabulary is new to you, then M-1, M0, M1, M1.5, M2, M3, X1, X2, X4, the
-narrowed frontier beyond X4, the lab's audit of itself, the two instruments
-(the warming budget and the pause/resume frontier), the fourth-family day that
-paused the pay-window question, and the epistemic-frame experiment that its
-oracle refused before contact, followed by the whole-body composition attempt
-that exposed why individually earned properties do not compose by assumption,
-then the shared Body Core carrier that preserves the three closed client
-surfaces without promoting them into a new finding, and finally the armed
+The recommended reading order follows the lab's chronology: the chapter-0 primer
+if research vocabulary is new to you, then M-1, M0, M1, M1.5, M2, M3, X1, X2,
+X4, the narrowed frontier beyond X4, and the lab's audit of itself. The warming
+budget and pause/resume chapters then show how prospective watches, admission
+gates, and typed refusals narrowed the pay-window question. The three
+epistemic-frame chapters carry that discipline from a failed free-text oracle
+through the menu ceiling to the unoccupied admission band. The route ends with
+the whole-body composition attempt, the shared Body Core carrier, and the armed
 field-use instrument that waits for ordinary work rather than authoring demand.
 
 | Chapter | Guiding question | Status |
@@ -49,10 +48,10 @@ field-use instrument that waits for ordinary work rather than authoring demand.
 | [M3 — The adversarial air gap](06_M3_AIR_GAP.md) | Which trust offices hold, and which can be spoofed? | Available |
 | [X1 — Temperature at the boundary](07_X1_TEMPERATURE.md) | Does temperature move behavior the offer gate cannot? | Available |
 | [X2 — Prune, then recover](08_X2_PRUNE_REMATERIALIZE.md) | Can pruning reduce hot state at matched quality? | Available |
-| [X4 — The sensor that did not earn itself](09_X4_OCCLUSION_WATCH.md) | Why did the proposed sensory office fail? | Available; closed in ROADMAP; README promotion still pending |
-| [Beyond X4 — the frontier, narrowed](10_BEYOND_X4.md) | What survived the room's review of the open directions? | Open direction; updated for the beyond-x4 thread (2026-07-02) |
+| [X4 — The sensor that did not earn itself](09_X4_OCCLUSION_WATCH.md) | Why did the proposed sensory office fail? | Closed — successful failure; promoted to README |
+| [Beyond X4 — the frontier, narrowed](10_BEYOND_X4.md) | What survived the room's review of the open directions? | Historical frontier map; later instruments and the frontier pause supersede its open-state wording |
 | [The heir-audit and the close gate](11_HEIR_AUDIT_CLOSE_GATE.md) | Was the lab's own process still sound — and what gate now guards it? | Available |
-| [The warming budget: 101 bets the lab wrote down first](12_WARMING_BUDGET.md) | Does consequence-earned ranking under-serve an unresolved frontier enough to measure? | Armed — awaiting the world |
+| [The warming budget: 101 bets the lab wrote down first](12_WARMING_BUDGET.md) | Does consequence-earned ranking under-serve an unresolved frontier enough to measure? | v0.1 closed — `WB-heir-dominates`; analytic null, prospective watch preserved |
 | [The pause/resume frontier](13_PAUSE_RESUME_FRONTIER.md) | Does a compact frontier artifact ever pay for its own carry? | Question PAUSED (2026-07-09) — see ch15 and [PRF_FINDINGS](../PRF_FINDINGS.md) |
 | [Greenreach: the close](14_GREENREACH_CLOSE.md) | What happened when the detectable pay-window family met its engine | Closed — confounded (A2); "third consecutive negative" shorthand later superseded (ch15) |
 | [The fourth family: bounded from both sides](15_FOURTH_FAMILY.md) | Can an engine be admitted into the pay-window study at all? | Paused — `admission_refused`; window bounded from both sides, band unoccupied; precommitted reopen trigger |
@@ -62,7 +61,7 @@ field-use instrument that waits for ordinary work rather than authoring demand.
 | [Six pins, four runs, and the band nobody lives in](19_EFC_V2_UNOCCUPIED_BAND.md) | Does any small engine occupy the admission band? | Closed — `confounded(admission_band)`; two engines formally typed; third unoccupied-band sighting |
 | [When earned parts do not yet make an earned whole](20_BODY_0_COMPOSITION.md) | Do the earned M2, M3, and X2 properties remain causally legible when composed? | Closed — `not_engaged`; integration machinery held, causal need absent |
 | [The carrier is not the judge](21_BODY_CORE_ADAPTERS.md) | Can one integrity kernel preserve X2, M2, and M3 without changing their claims? | Provisional wire engineering; three client adapters cold-endorsed |
-| [The instrument waits for work](22_FIELD_USE_PILOT.md) | Can ordinary repository work pressure Body Core without the lab manufacturing demand? | Capture cold-endorsed; pilot armed at zero eligible invocations |
+| [The instrument waits for work](22_FIELD_USE_PILOT.md) | Can ordinary repository work pressure Body Core without the lab manufacturing demand? | First eligible shadow invocation began 2026-07-23; clock started, no completion or finding claimed |
 
 The living thesis and short milestone summaries remain in the project [README](../../README.md#the-journey). Current status and gates remain in the [ROADMAP](../ROADMAP.md#milestones).
 

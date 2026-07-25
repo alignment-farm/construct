@@ -5,7 +5,9 @@ Previous: [The carrier is not the judge](21_BODY_CORE_ADAPTERS.md) ·
 [Current whole-body orientation](../BODY_MAP.md)
 
 **Status: capture layer cold-endorsed; bounded pilot armed on 2026-07-22;
-zero eligible invocations and no field data.**
+first eligible shadow invocation began locally on 2026-07-23 and started the
+fourteen-day clock. No completion, outcome, usefulness, causality, or finding is
+claimed.**
 
 Chapter 21 ended with a carrier that could preserve three closed research
 surfaces without becoming their judge. The next pressure cannot come from
@@ -26,7 +28,9 @@ consequence? Its loses-condition is local and severe: if logging changes the
 work, hides a negative case, loses the native consequence, or costs more than
 the task justifies, the capture must stop and retain the failure.
 
-There is no result to spoil in this chapter. The pilot is armed but empty.
+There is no result to spoil in this chapter. The pilot has begun its first
+eligible shadow invocation, but a start is not a completed capture or an
+outcome.
 
 ## Vocabulary bridge
 
@@ -258,9 +262,10 @@ The native task, action, and consequence references must then be inspected in
 their own authoritative locations. The field ledger's prose is never a
 substitute for a missing artifact.
 
-## Armed does not mean populated
+## Armed does not mean a result
 
-The pilot was authorized and armed on 2026-07-22. At this chapter's close:
+The pilot was authorized and armed on 2026-07-22. At the chapter's original
+close:
 
 ```text
 eligible invocations: 0
@@ -268,12 +273,22 @@ field ledgers:         0
 fourteen-day clock:   not started
 ```
 
-The clock begins only after the first eligible invocation. The pilot ends at
-the earlier of five eligible invocations or fourteen calendar days after that
-first invocation. Zero is not delay or failure; it is the honest observation
-that reality has not yet supplied the admitted work.
+That block is historical, not current status. On 2026-07-23 an operator declared
+the first eligible invocation for an independently supplied documentation task
+before action, in shadow mode. The current living status is:
 
-## How to interpret a future trace
+```text
+eligible invocations begun: 1
+first mode:                  shadow
+fourteen-day clock:         started 2026-07-23
+completion/outcome:         not established by the start record
+```
+
+The pilot ends at the earlier of five eligible invocations or fourteen calendar
+days after the first invocation. Beginning the clock is not evidence that
+capture completed, that the task succeeded, or that Body Core helped.
+
+## How to interpret a trace
 
 Several tempting readings remain invalid:
 
@@ -306,8 +321,8 @@ The cold review endorsed the implementation with limitations intact:
    proven by Git;
 6. constructor refusal may leave an empty output directory;
 7. Core remains single-process, chain-head-unanchored, and quadratic;
-8. a zero-eligible pilot has no calendar close until reality supplies the
-   first admitted invocation.
+8. the calendar clock now runs from the first admitted invocation, while a
+   start record alone establishes no terminal consequence.
 
 These are pressure points to observe, not a backlog that licenses speculative
 repair. The pilot should discover which friction is real before the lab adds
@@ -320,14 +335,17 @@ from an ordinary task boundary through an external consequence. The ruler
 protects task independence, lineage-supply visibility, pre-action freezing,
 negative use, native authority, privacy refusal, and terminal broken glass.
 
-It establishes no field finding because no eligible invocation exists yet. A
-future invocation will still establish only that capture occurred. It will not
-show that Body Core helped, that memory caused an outcome, that shadow and
-consulted work are comparable, or that any new cognitive office has earned its
-cost.
+The first eligible invocation has begun, but that start establishes no field
+finding. If it completes, completion will still establish only that capture
+occurred. It will not show that Body Core helped, that memory caused an outcome,
+that shadow and consulted work are comparable, or that any new cognitive office
+has earned its cost.
 
-The handoff is intentionally out of the lab's hands: keep doing warranted work,
-and let a real invocation seam arrive—or fail to arrive—without assistance.
+At arming, the handoff was intentionally out of the lab's hands: keep doing
+warranted work, and let a real invocation seam arrive—or fail to arrive—without
+assistance. The first seam has now arrived without assistance; its completion,
+refusal, or confounding remains subordinate to the ordinary task and its native
+consequence.
 
 ---
 

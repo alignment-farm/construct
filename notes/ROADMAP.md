@@ -2,7 +2,7 @@
 
 Status: **v0.1 — REVIEWED** (one bounded pass each: kagi's four sharpenings adopted unanimously; cursor's implementation framing; codex's contract/content boundary. Gates open, 2026-06-12). The README is the living thesis; this document is the curiosity gate. Review log at the end. **X-track (implicit-memory substrate): X1 RESOLVED 2026-06-20 (thread-6) — instrument engineering-closed, X1-win real-engine `not_engaged`, synchronous eligibility-temperature retired as the organ; prune-to-cold-store: **X2-LB CLOSED 2026-06-20** — the first **positive** implicit-layer result (oracle-gated hot-store eviction + rematerialization carries ~57% less memory at matched quality, cross-engine on gpt-oss-20b + claude, on an important out-of-weights fixture; scored on a cost the offer gate cannot move). **X2-U1 CLOSED 2026-06-21 (thread-7)** — the world-grounded close paid on a real external out-of-weights corpus (Node **DEP0033**, deprecated→revoked), cross-engine **−59% hot store at matched quality**, out-of-weights proven by a pre-run ignorance probe (cursor + codex verified from disk, dan's moderator close). **X4 CLOSED 2026-06-27 — a *successful failure*** (thread-x4c ENDED, x4-review narrowing): the sensory occlusion-watch organ was built + armed, v0.1 room-blocked, then the premise dissolved (**cold is cold** — sensing reduces to reading, an X1-family no-op); disclosed null on the sense itself; the implicit substrate reads as a **metabolism** (empirical, not closed ontology); its next instrument at that close was a **pause/resume frontier**, not a fifth organ. The M-track stays v0.1 REVIEWED, closed through M3.**
 
-**Current direction (2026-07-19):** WB v0.1 is closed on its analytic null and
+**Current direction (2026-07-23):** WB v0.1 is closed on its analytic null and
 PRF is paused on a precommitted reopen trigger. The epistemic-frame-check line
 has reached three typed terminal states: v0 `blocked_before_contact`, v1
 `confounded(menu_ceiling)`, and v2 `confounded(admission_band)`. Across PRF and
@@ -23,10 +23,11 @@ reviewed cluster needs raw evidence, a downstream consumer, an external oracle,
 a competing explanation, and a visible loses-condition before one cold
 frontier pass is warranted.
 
-**Current engineering direction (2026-07-22): Body Core v0.3.** While scientific
+**Current engineering direction (2026-07-23): Body Core v0.3.** While scientific
 mechanism search remains paused, whole-body engineering is active on a
-structural lineage kernel plus an explicitly selected provisional
-lifecycle/placement/warrant policy projector. Kernel validation retains the
+[structural lineage kernel](GLOSSARY.md#structural-lineage-kernel) plus an
+explicitly selected provisional lifecycle/placement/warrant
+[policy projector](GLOSSARY.md#policy-projector). Kernel validation retains the
 declared writer-role table and invocation/encounter scope anchors but cannot
 certify cognitive state or a materialized-view claim. The selected projector
 owns lifecycle, placement, warrant, metabolism, and view-claim semantics.
@@ -58,18 +59,22 @@ schema, client, or replay optimization entered. The implementation is built;
 two independent reviewers [endorsed](BODY_CORE_EXPLICIT_PROJECTION_REVIEW.md)
 the exact implementation without repair.
 
-The next bounded engineering pressure is the endorsed
+The current bounded engineering pressure is the pilot governed by the endorsed
 [field-use protocol v0](FIELD_USE_PROTOCOL_V0.md): independently necessary
-repository work may produce shadow, consulted, refused, abandoned, and non-use
+repository work may produce [shadow](GLOSSARY.md#shadow-invocation),
+[consulted](GLOSSARY.md#consulted-invocation), refused, abandoned, and non-use
 traces without becoming an experiment. Its manual
 [capture layer](FIELD_USE_CAPTURE_V0.md) now binds the exact protocol, existing
 Core envelope, explicit projector, lineage-source origin, pre-action freeze,
 native action/consequence references, terminal partial traces, and deterministic
 row/byte costs. Two independent reviewers
 [endorsed](FIELD_USE_CAPTURE_V0_REVIEW.md) the exact implementation without
-repair. The pilot is armed but awaits its first independently necessary
-invocation; no field data or calendar clock exists yet. No state admission,
-scorer, engine contact, or scientific claim is licensed by this build.
+repair. The first eligible invocation began locally on 2026-07-23 in
+[shadow mode](GLOSSARY.md#shadow-invocation) for an independently supplied
+documentation task, and the fourteen-day clock has started. The start is not a
+completed capture, outcome, usefulness claim, causal comparison, or field
+finding. No state admission, scorer, engine contact, or scientific claim is
+licensed by this build.
 The reader-facing route is [walkthrough chapter 22](walkthrough/22_FIELD_USE_PILOT.md).
 
 The completed M2 review named one prerequisite before any third adapter. That
@@ -293,6 +298,8 @@ Mechanics on the bench (from the design discussion): **recall reheats** (use inj
 - **X2 — outcome-linked dynamics:** *successful-retry-cools-failure* (targeted cooling between linked records) + *recurrence-reheat* hysteresis; compounding across multiple corrections.
 - **X3 — dispositions as aggregate thermal fields** *(earmarked, not next — the sensory organ **X4** leapfrogs it as the live direction, thread-8/9)*: lift from per-record temperature to the diffuse disposition; the **drift attack** (slow-poison by thermal nudging — stalling a correction's decay or force-cooling it; the M3 ingestion track in thermal clothing) and its priced defense. The implicit substrate proper emerges here, and gemma's **compositional-robustness** question lands (a thermal leak composing with an unbreached surface into an unavoidable failure path) — the X-track *absorbs* the pencilled M4/M5 rather than leaving it dangling.
 - **Lift-out gate:** dispositions proven ⇒ implicit-memory substrate graduates to its own project.
+
+<a id="x4--sensory-occlusion-watch"></a>
 
 ### X4 — Sensory occlusion watch *(**CLOSED 2026-06-27 — a successful failure**; thread-x4c ENDED, x4-review opened; `route_watch` v0.1 built 2026-06-24; `occlusion_watch` Layer-1+2 built/armed 2026-06-26 then **v0.1 BLOCKED by room review**; `notes/SPEC_X4_OCCLUSION_WATCH.md` §11/§12)*
 

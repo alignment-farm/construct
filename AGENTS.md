@@ -34,7 +34,7 @@ Open only when the task requires it:
 | Cold orientation / guided tour of the lab      | [notes/walkthrough/README.md](notes/walkthrough/README.md)                     |
 | Epistemic-frame check candidate — Part I sealed | [notes/SPEC_EPISTEMIC_FRAME_CHECK_V0.md](notes/SPEC_EPISTEMIC_FRAME_CHECK_V0.md) |
 | Passive anomaly capture / frontier review      | [notes/FRONTIER_PAUSE.md](notes/FRONTIER_PAUSE.md), then [notes/ANOMALY_LOG.md](notes/ANOMALY_LOG.md) |
-| Provisional whole-body core runtime             | [notes/NEXT_SUBSTRATE.md](notes/NEXT_SUBSTRATE.md), [notes/BODY_MAP.md](notes/BODY_MAP.md), then [sketches/next_substrate/README.md](sketches/next_substrate/README.md) |
+| Provisional whole-body core runtime             | [notes/NEXT_SUBSTRATE.md](notes/NEXT_SUBSTRATE.md), [notes/BODY_MAP.md](notes/BODY_MAP.md), [notes/BODY_CORE_EXPLICIT_PROJECTION.md](notes/BODY_CORE_EXPLICIT_PROJECTION.md), then [sketches/next_substrate/README.md](sketches/next_substrate/README.md) |
 | Operational field-use capture                  | [notes/FIELD_USE_PROTOCOL_V0.md](notes/FIELD_USE_PROTOCOL_V0.md), then [notes/FIELD_USE_CAPTURE_V0.md](notes/FIELD_USE_CAPTURE_V0.md) |
 | Previous lab history (retrospective)           | [notes/previous/README.md](notes/previous/README.md)                           |
 | Closed research arc (2026-06-11–12)            | [.substrate/threads/research/README.md](.substrate/threads/research/README.md) |
@@ -110,7 +110,7 @@ construct/
 ├── corpus/                ← world-oracle corpora (retraction; fictional out-of-weights fixtures)
 ├── runs/                  ← append-only ledgers and authority sidecars (generated)
 ├── notes/                 ← specs, rubric, roadmap, glossary
-├── notes/walkthrough/     ← guided route for cold readers (ch 0–13)
+├── notes/walkthrough/     ← guided route for cold readers (ch 0–22)
 ├── notes/previous/        ← prior memory lab (read for inheritance, not by default)
 └── .substrate/threads/    ← turn-based group conversations (substrate MCP)
 ```

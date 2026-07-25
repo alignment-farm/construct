@@ -26,12 +26,18 @@ client policy, or authority routing while still appearing to pass.
 ## Vocabulary bridge
 
 An **integrity kernel** validates a small common envelope: ordering, hashes,
-writer-role claims, backward references, retention shapes, and reconstructable
-views. It does not decide whether a memory claim is true.
+writer-role claims, backward references, and retention shapes, then exposes
+validated rows for replay. It does not decide whether a memory claim is true or
+certify a cognitive view.
 
 An **adapter** carries one existing instrument's rows through that envelope and
 projects them back. A correct adapter translates representation without
 quietly inventing policy.
+
+A **[policy projector](../GLOSSARY.md#policy-projector)** is the explicitly
+selected semantic fold over validated lineage. The current v0.2 projector owns
+lifecycle, placement, warrant, metabolism, and view-claim meaning; the
+[structural kernel](../GLOSSARY.md#structural-lineage-kernel) does not.
 
 A **source binding** connects an adapter-owned receipt to the exact carried row
 that warranted it. Binding establishes provenance, not authorization. The
@@ -68,9 +74,12 @@ authority, it is no longer preserving the experiment.
 
 Start with the shared runtime and correspondence helper:
 
-- [core.py](../../sketches/next_substrate/core.py) implements the provisional
-  lineage envelope, replay, state views, warrant health, placement, and
-  reported metabolism;
+- [core.py](../../sketches/next_substrate/core.py) implements the structural
+  lineage envelope, validation, and explicit projector seam;
+- [policy.py](../../sketches/next_substrate/policy.py) implements the literal
+  v0.2 lifecycle, placement, warrant, metabolism, and view fold;
+- [BODY_CORE_EXPLICIT_PROJECTION.md](../BODY_CORE_EXPLICIT_PROJECTION.md)
+  records the v0.3 split and its fail-closed selection rule;
 - [correspondence.py](../../sketches/next_substrate/correspondence.py) checks
   source kind, causal parenthood, declared coordinates, and client item scope;
 - [BODY_CORE_SOURCE_BINDING.md](../BODY_CORE_SOURCE_BINDING.md) records the
@@ -225,8 +234,10 @@ The first ordinary-work consumer is now a manual
 lineage supply before action and records native consequences without treating
 shadow and consulted work as forks. Two independent reviewers
 [endorsed](../FIELD_USE_CAPTURE_V0_REVIEW.md) the exact implementation without
-repair. The bounded pilot is armed but has zero eligible invocations; this is
-instrumentation, not field evidence.
+repair. The first eligible invocation began locally on 2026-07-23 in
+[shadow mode](../GLOSSARY.md#shadow-invocation) for an independently supplied
+documentation task, starting the pilot clock. Its start alone is not completion,
+field evidence, or a claim that the instrumentation helped.
 
 It does not show that the three properties compose causally. Body-0 remains
 `not_engaged`. It does not show that Core creates earned trust, closes M3's

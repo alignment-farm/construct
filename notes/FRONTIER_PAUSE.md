@@ -29,8 +29,11 @@ The separately [endorsed field-use ruler](FIELD_USE_PROTOCOL_V0_REVIEW.md) may
 record independently necessary cold reorientation or handoff work through the
 manual [capture layer](FIELD_USE_CAPTURE_V0.md). Those ledgers remain
 `wire_integration_only`; shadow, consultation, refusal, and non-use do not become
-findings or alter this review cadence. The bounded pilot is armed but has zero
-eligible invocations; its calendar bound has not started.
+findings or alter this review cadence. The first eligible local invocation began
+on 2026-07-23 in [shadow mode](GLOSSARY.md#shadow-invocation) for an
+independently supplied documentation task, starting the fourteen-day clock.
+That start establishes no completion, outcome, usefulness, causality, anomaly,
+or finding and does not alter this review cadence.
 
 ## Review cadence
 

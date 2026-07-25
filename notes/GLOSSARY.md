@@ -310,6 +310,33 @@ The L3 behavior: after answering, the engine is asked to classify how it used
 offered records. These claims are useful audit material but do not control
 which records the engine saw.
 
+### Structural Lineage Kernel
+
+<a id="structural-lineage-kernel"></a>
+
+Body Core v0.3's policy-neutral seam: validation of durable envelope structure,
+ordering, hashes, declared writer-role authority, backward references, scope
+anchors, and retention shapes. Kernel validation alone cannot certify cognitive
+state or a materialized-view claim; those require an explicitly selected
+[policy projector](#policy-projector).
+
+See:
+[BODY_CORE_EXPLICIT_PROJECTION.md](BODY_CORE_EXPLICIT_PROJECTION.md),
+Implemented split.
+
+### Policy Projector
+
+<a id="policy-projector"></a>
+
+An explicitly selected semantic fold over kernel-validated lineage. The current
+literal `body-core-v0.2-provisional-policy` projector owns lifecycle, placement,
+warrant, metabolism, and view-claim semantics. Rows it does not own still
+advance the canonical cursor but do not silently enter policy state.
+
+See:
+[BODY_CORE_EXPLICIT_PROJECTION.md](BODY_CORE_EXPLICIT_PROJECTION.md),
+Implemented split and Cursor ownership.
+
 ### Consultation Surface
 
 <a id="consultation-surface"></a>
@@ -339,6 +366,27 @@ invocation.
 
 See: [FIELD_USE_PROTOCOL_V0.md](FIELD_USE_PROTOCOL_V0.md) and
 [walkthrough chapter 22](walkthrough/22_FIELD_USE_PILOT.md).
+
+### Shadow Invocation
+
+<a id="shadow-invocation"></a>
+
+A [field-use](#field-use) observational mode that captures the independently
+necessary task boundary and [native consequence](#native-consequence) without
+exposing a Body Core projection to the acting model. A shadow trace is not a
+randomized control or a treatment branch.
+
+### Consulted Invocation
+
+<a id="consulted-invocation"></a>
+
+A [field-use](#field-use) observational mode in which existing raw lineage or an
+explicit projection is frozen before action and made available because the work
+calls for it. Consultation is not proof that the surface influenced the outcome,
+and consulted and [shadow](#shadow-invocation) traces do not share fork identity.
+
+See: [FIELD_USE_PROTOCOL_V0.md](FIELD_USE_PROTOCOL_V0.md), Two observational
+modes.
 
 ### Foreground Data
 

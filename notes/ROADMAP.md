@@ -69,12 +69,14 @@ Core envelope, explicit projector, lineage-source origin, pre-action freeze,
 native action/consequence references, terminal partial traces, and deterministic
 row/byte costs. Two independent reviewers
 [endorsed](FIELD_USE_CAPTURE_V0_REVIEW.md) the exact implementation without
-repair. The first eligible invocation began locally on 2026-07-23 in
-[shadow mode](GLOSSARY.md#shadow-invocation) for an independently supplied
-documentation task, and the fourteen-day clock has started. The start is not a
-completed capture, outcome, usefulness claim, causal comparison, or field
-finding. No state admission, scorer, engine contact, or scientific claim is
-licensed by this build.
+repair. The first attempted local shadow trace,
+`fu-20260723-doc-sync-001`, reached wire-level completion but was
+[adjudicated `capture_confounded`](FIELD_USE_INVOCATION_001_ADJUDICATION.md):
+the documentation action changed the pilot-status surfaces used to count it as
+invocation zero. The append-only trace remains, but it is excluded from the
+eligible count. The pilot is armed at zero eligible invocations and its
+fourteen-day clock has not started. No state admission, scorer, engine contact,
+or scientific claim is licensed by this build.
 The reader-facing route is [walkthrough chapter 22](walkthrough/22_FIELD_USE_PILOT.md).
 
 The completed M2 review named one prerequisite before any third adapter. That

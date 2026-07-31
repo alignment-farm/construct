@@ -5,9 +5,9 @@ Previous: [The carrier is not the judge](21_BODY_CORE_ADAPTERS.md) ·
 [Current whole-body orientation](../BODY_MAP.md)
 
 **Status: capture layer cold-endorsed; bounded pilot armed on 2026-07-22;
-first eligible shadow invocation began locally on 2026-07-23 and started the
-fourteen-day clock. No completion, outcome, usefulness, causality, or finding is
-claimed.**
+zero eligible invocations; fourteen-day clock not started. One completed local
+shadow trace was adjudicated `capture_confounded` and excluded from the pilot
+count.**
 
 Chapter 21 ended with a carrier that could preserve three closed research
 surfaces without becoming their judge. The next pressure cannot come from
@@ -28,9 +28,9 @@ consequence? Its loses-condition is local and severe: if logging changes the
 work, hides a negative case, loses the native consequence, or costs more than
 the task justifies, the capture must stop and retain the failure.
 
-There is no result to spoil in this chapter. The pilot has begun its first
-eligible shadow invocation, but a start is not a completed capture or an
-outcome.
+There is no result to spoil in this chapter. The capture machinery has completed
+one end-to-end shadow trace, but the protocol's non-interference condition did
+not survive the work. The pilot remains armed at zero eligible invocations.
 
 ## Vocabulary bridge
 
@@ -273,25 +273,36 @@ field ledgers:         0
 fourteen-day clock:   not started
 ```
 
-That block is historical, not current status. On 2026-07-23 an operator declared
-the first eligible invocation for an independently supplied documentation task
-before action, in shadow mode. The current living status is:
+On 2026-07-23 an operator declared a documentation task eligible before action
+and began a shadow trace. The six-row ledger reached
+`invocation_completed` on 2026-07-25 with a content-pinned native patch and
+external consequence. Structural completion did not settle eligibility.
+
+The specific
+[adjudication](../FIELD_USE_INVOCATION_001_ADJUDICATION.md) ruled the trace
+`capture_confounded`: the action changed the pilot-status surfaces used to
+count it as invocation zero. The append-only ledger remains, but the current
+pilot status is:
 
 ```text
-eligible invocations begun: 1
-first mode:                  shadow
-fourteen-day clock:         started 2026-07-23
-completion/outcome:         not established by the start record
+eligible invocations:       0
+excluded completed traces:  1 (capture_confounded)
+consulted invocations:      0
+fourteen-day clock:         not started
+scientific findings:        0
 ```
 
 The pilot ends at the earlier of five eligible invocations or fourteen calendar
-days after the first invocation. Beginning the clock is not evidence that
-capture completed, that the task succeeded, or that Body Core helped.
+days after the first eligible invocation. A pre-action eligibility declaration
+does not override a later observed loses-condition. The next invocation that
+survives the reality and non-interference gates becomes invocation one and
+starts the clock.
 
 ## How to interpret a trace
 
 Several tempting readings remain invalid:
 
+- a structurally completed trace is not necessarily pilot-eligible;
 - a completed capture is not a successful task;
 - a successful native consequence is not a memory win;
 - consultation is not proof of influence;
@@ -321,8 +332,9 @@ The cold review endorsed the implementation with limitations intact:
    proven by Git;
 6. constructor refusal may leave an empty output directory;
 7. Core remains single-process, chain-head-unanchored, and quadratic;
-8. the calendar clock now runs from the first admitted invocation, while a
-   start record alone establishes no terminal consequence.
+8. wire-level completion cannot adjudicate the ordinary-work counterfactual or
+   cure observed non-interference failure; pilot eligibility remains a
+   separate protocol judgment.
 
 These are pressure points to observe, not a backlog that licenses speculative
 repair. The pilot should discover which friction is real before the lab adds
@@ -335,17 +347,18 @@ from an ordinary task boundary through an external consequence. The ruler
 protects task independence, lineage-supply visibility, pre-action freezing,
 negative use, native authority, privacy refusal, and terminal broken glass.
 
-The first eligible invocation has begun, but that start establishes no field
-finding. If it completes, completion will still establish only that capture
-occurred. It will not show that Body Core helped, that memory caused an outcome,
-that shadow and consulted work are comparable, or that any new cognitive office
-has earned its cost.
+The first attempted invocation completed at the wire layer but was excluded
+from the pilot as `capture_confounded`. That establishes both that the capture
+path works and that its reality gate can still lose after a pre-action
+declaration. It does not show that Body Core helped, that memory caused an
+outcome, that shadow and consulted work are comparable, or that any new
+cognitive office has earned its cost.
 
 At arming, the handoff was intentionally out of the lab's hands: keep doing
 warranted work, and let a real invocation seam arrive—or fail to arrive—without
-assistance. The first seam has now arrived without assistance; its completion,
-refusal, or confounding remains subordinate to the ordinary task and its native
-consequence.
+assistance. The first attempted seam became entangled with the instrument's own
+status and was excluded. The pilot waits again at zero rather than converting
+that entanglement into demand.
 
 ---
 

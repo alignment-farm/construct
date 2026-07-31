@@ -524,12 +524,14 @@ projected-view, or non-use state before action; distinguishes independent,
 field-capture, and mixed supply; points to native actions and external
 consequences; and preserves refusal or confounding as terminal partial traces.
 The exact implementation is [cold-endorsed](FIELD_USE_CAPTURE_V0_REVIEW.md).
-Every row remains `wire_integration_only`. The first eligible local invocation
-began on 2026-07-23 in [shadow mode](GLOSSARY.md#shadow-invocation) for an
-independently supplied documentation task, starting the fourteen-day clock.
-That start establishes no completion, outcome, usefulness, causality, or
-finding; field volume or a persuasive anecdote cannot promote this engineering
-into a memory finding.
+Every row remains `wire_integration_only`. The first attempted local shadow
+trace completed structurally but was
+[adjudicated `capture_confounded`](FIELD_USE_INVOCATION_001_ADJUDICATION.md)
+because its action changed the pilot-status surfaces used to count it as
+invocation zero. It remains as raw trace but does not count. The pilot is armed
+at zero eligible invocations, and its fourteen-day clock has not started; field
+volume or a persuasive anecdote cannot promote this engineering into a memory
+finding.
 
 ---
 

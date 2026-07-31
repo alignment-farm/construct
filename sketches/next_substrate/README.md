@@ -71,7 +71,7 @@ and an external provenance-health sweep.
 | Language model | Replaceable port; deterministic authored stub | **Stubbed** |
 | Durable lineage | Body Core v0.3 structural kernel: deterministic indexes, hash chain, declared authority and references | **Provisional engineering** |
 | Explicit projection | Cognitive replay and view claims require a selected projector | **Cold-reviewed; endorsed** |
-| Field-use capture | Manual pre-action freeze, source-origin declaration, native action/consequence references, terminal partial traces | **Cold-reviewed; first eligible local shadow invocation began 2026-07-23; clock started, no completion or finding claimed** |
+| Field-use capture | Manual pre-action freeze, source-origin declaration, native action/consequence references, terminal partial traces | **Cold-reviewed; armed at zero eligible invocations; one completed shadow trace adjudicated `capture_confounded`; clock not started** |
 | Untrusting replay | Kernel envelope validation plus projector-owned stale-view refusal | **Provisional engineering** |
 | Policy projector | Literal v0.2 lifecycle, binary hot/cold, warrant health/dependents, invalid-warrant suspension | **Provisional engineering** |
 | Derived reports | State, placement, and reported metabolic totals | **Provisional engineering** |

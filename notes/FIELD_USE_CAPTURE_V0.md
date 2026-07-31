@@ -1,8 +1,7 @@
 # Field-use capture v0 — implementation boundary
 
 Status: **implementation cold-endorsed 2026-07-22; pilot authorized and armed;
-first eligible shadow invocation began locally 2026-07-23 and started the
-fourteen-day clock**.
+zero eligible invocations; fourteen-day clock not started**.
 
 Milestone: **none scientific**. This is operational instrumentation over the
 provisional Body Core. It creates no field observation, treatment assignment,
@@ -17,11 +16,13 @@ surface is historically frozen in
 [`field_use_capture_v0_implementation_manifest.json`](field_use_capture_v0_implementation_manifest.json).
 
 The capture layer's own review and closeout remain ineligible self-use. The
-first eligible invocation instead began locally on 2026-07-23 in shadow mode
-for an independently supplied documentation task crossing a cold-reorientation
-seam. This living status records only the admitted start and the beginning of
-the fourteen-day bound; it does not claim completion, outcome, usefulness,
-causality, or a field finding.
+first attempted local shadow trace, `fu-20260723-doc-sync-001`, reached
+wire-level `invocation_completed` on 2026-07-25. Its
+[eligibility adjudication](FIELD_USE_INVOCATION_001_ADJUDICATION.md) found the
+capture confounded because the action changed the pilot-status surfaces used to
+count it as invocation zero. The append-only ledger remains a valid
+instrumentation trace, but it is excluded from the pilot count and did not
+start the clock.
 
 Reader route: [walkthrough chapter 22](walkthrough/22_FIELD_USE_PILOT.md).
 
@@ -126,8 +127,9 @@ directory.
   bytes directly; it does not invoke Git to prove that revision contains them.
 - The inherited Core remains single-process, unanchored, and quadratic on
   append/replay.
-- The calendar clock now runs from the first admitted invocation; a start
-  without a terminal native consequence remains non-evidence about outcome.
+- The calendar clock begins only with the first invocation that survives
+  eligibility and non-interference review. A structurally completed trace can
+  still be excluded at the pilot layer.
 
 These limits are visible pressure points, not permission to repair ahead of
 use. The implementation loses its reviewed meaning if it is mistaken for

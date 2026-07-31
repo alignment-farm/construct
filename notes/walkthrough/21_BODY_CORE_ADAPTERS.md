@@ -234,10 +234,11 @@ The first ordinary-work consumer is now a manual
 lineage supply before action and records native consequences without treating
 shadow and consulted work as forks. Two independent reviewers
 [endorsed](../FIELD_USE_CAPTURE_V0_REVIEW.md) the exact implementation without
-repair. The first eligible invocation began locally on 2026-07-23 in
-[shadow mode](../GLOSSARY.md#shadow-invocation) for an independently supplied
-documentation task, starting the pilot clock. Its start alone is not completion,
-field evidence, or a claim that the instrumentation helped.
+repair. The first attempted local shadow trace completed at the wire layer but
+was [adjudicated `capture_confounded`](../FIELD_USE_INVOCATION_001_ADJUDICATION.md)
+because it changed the pilot-status surfaces used to count it as invocation
+zero. The trace remains append-only, but the pilot remains at zero eligible
+invocations with no calendar clock.
 
 It does not show that the three properties compose causally. Body-0 remains
 `not_engaged`. It does not show that Core creates earned trust, closes M3's

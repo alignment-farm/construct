@@ -1,7 +1,7 @@
 # Field-use capture v0 — implementation review
 
-Status: **ENDORSED 2026-07-22; pilot authorized and armed; awaiting first
-eligible invocation**.
+Status: **ENDORSED 2026-07-22; pilot authorized and armed; zero eligible
+invocations; awaiting reality**.
 
 The bounded post-build review ran in substrate thread
 `field-use-protocol-v0`. `claude/fable-5` and `cursor/composer-2.5`
@@ -58,6 +58,19 @@ invocation, and only that first eligible invocation starts the fourteen-day
 calendar bound. The pilot closes at the earlier of five eligible invocations
 or fourteen days after that first invocation. Zero remains admissible until
 reality supplies one.
+
+## Post-activation adjudication
+
+The first attempted trace, `fu-20260723-doc-sync-001`, later reached
+wire-level `invocation_completed`. Its specific
+[eligibility adjudication](FIELD_USE_INVOCATION_001_ADJUDICATION.md) ruled
+`capture_confounded`: the native documentation action changed the pilot-status
+surfaces used to count the trace as invocation zero.
+
+The ledger remains immutable evidence that the capture machinery completed. It
+is excluded from the eligible-invocation count, did not start the fourteen-day
+clock, and cannot be retried or replaced. This ruling changes no reviewed
+implementation byte and makes no field or memory finding.
 
 ## Carried observations
 

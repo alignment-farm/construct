@@ -204,13 +204,15 @@ necessary repository work and records
 [consulted](notes/GLOSSARY.md#consulted-invocation), refused, abandoned, and
 non-use without treating them as forks or findings. Its manual
 [capture layer](notes/FIELD_USE_CAPTURE_V0.md) is
-[cold-endorsed](notes/FIELD_USE_CAPTURE_V0_REVIEW.md). The first eligible
-invocation began locally on 2026-07-23 in shadow mode for an independently
-supplied documentation task, starting the fourteen-day pilot clock. That start
-establishes no completion, usefulness, causal effect, or field finding. All rows
-remain `wire_integration_only`, native artifacts remain consequence authority,
-and protocol-fed lineage is declared separately from independently supplied
-lineage. The
+[cold-endorsed](notes/FIELD_USE_CAPTURE_V0_REVIEW.md). The first attempted
+invocation, `fu-20260723-doc-sync-001`, completed its six-row shadow capture but
+was later [adjudicated `capture_confounded`](notes/FIELD_USE_INVOCATION_001_ADJUDICATION.md):
+its action changed the pilot-status surfaces used to count it as invocation
+zero. It is retained as wire trace but excluded from the eligible count. The
+pilot therefore remains armed at zero eligible invocations, and its
+fourteen-day clock has not started. All rows remain `wire_integration_only`,
+native artifacts remain consequence authority, and protocol-fed lineage is
+declared separately from independently supplied lineage. The
 [field-use walkthrough](notes/walkthrough/22_FIELD_USE_PILOT.md) explains how
 to recognize the first eligible seam without manufacturing one.
 

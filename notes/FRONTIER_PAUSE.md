@@ -11,7 +11,7 @@ bands those candidates require.
 The pause applies to deliberate frontier reconnaissance, candidate authoring,
 admission-packet design, and frontier engine contact. It does not block work
 with independent engineering value on earned or explicitly provisional parts
-of the whole described in [BODY_MAP.md](BODY_MAP.md). Such work must preserve
+of the whole described in the root [README](../README.md#where-the-lab-is-now). Such work must preserve
 its maturity label and may not promote an unlicensed office by implication.
 
 ## What remains active
@@ -25,17 +25,11 @@ mechanism at capture time.
 The log lets reality nominate a future episode without turning daily work into
 continuous frontier search.
 
-The separately [endorsed field-use ruler](FIELD_USE_PROTOCOL_V0_REVIEW.md) may
-record independently necessary cold reorientation or handoff work through the
-manual [capture layer](FIELD_USE_CAPTURE_V0.md). Those ledgers remain
-`wire_integration_only`; shadow, consultation, refusal, and non-use do not become
-findings or alter this review cadence. The first attempted local shadow trace
-completed structurally but was
-[adjudicated `capture_confounded`](FIELD_USE_INVOCATION_001_ADJUDICATION.md):
-it changed the pilot-status surfaces used to count it as invocation zero. The
-trace remains, but the pilot has zero eligible invocations and its
-fourteen-day clock has not started. This disposition does not alter the
-frontier-review cadence.
+The separately endorsed field-use ruler may record independently necessary
+cold reorientation or handoff work. Its current operational disposition and
+authority chain are resolved by the [field-use index](field-use/README.md).
+Those ledgers remain `wire_integration_only`; shadow, consultation, refusal,
+and non-use do not become findings or alter this review cadence.
 
 ## Review cadence
 

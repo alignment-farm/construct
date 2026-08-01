@@ -33,7 +33,7 @@ completion. It does not require a semantic trigger classifier.
 ## Milestone served
 
 The candidate serves the whole-body direction in
-[NEXT_SUBSTRATE.md](NEXT_SUBSTRATE.md):
+[the current whole-body direction](../README.md#where-the-lab-is-now):
 
 - durable lineage records the action that opened the obligation;
 - governed materialization carries its current state across a cold wake;

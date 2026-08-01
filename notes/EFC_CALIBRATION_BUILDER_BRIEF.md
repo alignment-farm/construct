@@ -12,7 +12,8 @@ Read in order:
 
 1. `AGENTS.md`
 2. `README.md`
-3. `notes/ROADMAP.md`
+3. Root `README.md` for current state; use
+   `.archive/documentation-v1/MANIFEST.json` if the historical ROADMAP wording is required
 4. relevant entries in `notes/GLOSSARY.md`
 5. sealed `notes/SPEC_EPISTEMIC_FRAME_CHECK_V0.md`
 6. accepted `notes/EFC_CALIBRATION_PACKET_DESIGN.md`

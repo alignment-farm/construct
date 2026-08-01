@@ -1,0 +1,759 @@
+{
+  "archive_id": "documentation-v1",
+  "created_at": "2026-08-01",
+  "reason": "Project-wide documentation rematerialization: preserve superseded narrative/status layers while rebuilding one sparse current read-in path.",
+  "scope": {
+    "included": "Superseded current-lab narrative, routing, walkthrough, and reflective documents.",
+    "excluded": [
+      "notes/previous/ (ancestral lab, left in place)",
+      "specifications and findings (current experimental authority)",
+      "runs/ and .substrate/threads/ (primary lineage)",
+      "review manifests and source indexes (historical pins)",
+      "untracked notes/reviews/2026-07-31_handbook-analysis.md (pre-existing user work)"
+    ]
+  },
+  "authority": "archive_only_not_current",
+  "entries": [
+    {
+      "previous_path": "AGENTS.md",
+      "archived_path": ".archive/documentation-v1/files/AGENTS.md",
+      "sha256": "9fe76781c5ac010cf8d0be9893affcbd26d64bfae8d31e8b71fbfa5f83e11933",
+      "bytes": 15506,
+      "status": "superseded",
+      "replacement": "AGENTS.md"
+    },
+    {
+      "previous_path": "README.md",
+      "archived_path": ".archive/documentation-v1/files/README.md",
+      "sha256": "13da008de468a6207a91d8a3345012ca885eb70f1bfe68f07d16d29526442707",
+      "bytes": 24783,
+      "status": "superseded",
+      "replacement": "README.md"
+    },
+    {
+      "previous_path": "notes/BODY_MAP.md",
+      "archived_path": ".archive/documentation-v1/files/notes/BODY_MAP.md",
+      "sha256": "f1ff7f80fc6f07cee35a48963d3945fa9142735f88fd1e33dd16860463d46069",
+      "bytes": 14689,
+      "status": "superseded",
+      "replacement": "README.md#where-the-lab-is-now"
+    },
+    {
+      "previous_path": "notes/FABLE_RETURN.md",
+      "archived_path": ".archive/documentation-v1/files/notes/FABLE_RETURN.md",
+      "sha256": "02c2c0e6967498fefd245e1386fe54b1ff3da787bcd72ce07c1a118ab2e5b91e",
+      "bytes": 7291,
+      "status": "superseded",
+      "replacement": "README.md#where-this-came-from"
+    },
+    {
+      "previous_path": "notes/NEXT_SUBSTRATE.md",
+      "archived_path": ".archive/documentation-v1/files/notes/NEXT_SUBSTRATE.md",
+      "sha256": "65185c72a5ada81ef12e588026771fc4cc5e3bbcb0304b1286f97f8f93dac56f",
+      "bytes": 39499,
+      "status": "superseded",
+      "replacement": "README.md#where-the-lab-is-now"
+    },
+    {
+      "previous_path": "notes/PLAYLIST.md",
+      "archived_path": ".archive/documentation-v1/files/notes/PLAYLIST.md",
+      "sha256": "6739ba473660c905792e196ad5315430cf285300022351b78aff188634c9426b",
+      "bytes": 10011,
+      "status": "superseded",
+      "replacement": "notes/README.md"
+    },
+    {
+      "previous_path": "notes/QUOTES.md",
+      "archived_path": ".archive/documentation-v1/files/notes/QUOTES.md",
+      "sha256": "657fb96d87d5594c7124db13d40d4bc4a7b967be5df0d5f1d079140534d1c26a",
+      "bytes": 20199,
+      "status": "superseded",
+      "replacement": "notes/README.md"
+    },
+    {
+      "previous_path": "notes/README.md",
+      "archived_path": ".archive/documentation-v1/files/notes/README.md",
+      "sha256": "efa48cb16a82ba5bb28d4b952bde6b22dad271e5d4032fda74533f84b2b3cd45",
+      "bytes": 2529,
+      "status": "superseded",
+      "replacement": "notes/README.md"
+    },
+    {
+      "previous_path": "notes/ROADMAP.md",
+      "archived_path": ".archive/documentation-v1/files/notes/ROADMAP.md",
+      "sha256": "d0893532b781df20aeb6c7a5de3fe8fce4cccd28e9e7a6319ee950ae6278526e",
+      "bytes": 83093,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/00_welcome.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/00_welcome.md",
+      "sha256": "4cd583335baec99ead9bd2b09eda60714cde3d7dcc094bfc775e47a84194deef",
+      "bytes": 8682,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/01_how_to_read_a_lab.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/01_how_to_read_a_lab.md",
+      "sha256": "8f85f45b6f9499f91cdf96d51dd25b4278b7521ee5594a95a7a65122a11c62b0",
+      "bytes": 11847,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/02_m-1_bootstrap.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/02_m-1_bootstrap.md",
+      "sha256": "d655c8872610f4c92d642f5c66ccbfacd2228e9536c635f4a20722edab65944c",
+      "bytes": 7749,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/03_m0_world_oracles.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/03_m0_world_oracles.md",
+      "sha256": "4e3343b78cdb18c3de52bc384d33196fa68d730cdba06b51637a5c64d58168d4",
+      "bytes": 7141,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/04_m1_inheritance.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/04_m1_inheritance.md",
+      "sha256": "16ddd4d73350fac9e06bf648b432d6880e04ef7586348e8f3be03dd3b07fc096",
+      "bytes": 9040,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/05_m1_5_contribution.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/05_m1_5_contribution.md",
+      "sha256": "e91f78adc36c88618e138896286ae219aa88e43ab02cc1038c4b652c56042faa",
+      "bytes": 7036,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/06_m2_resident.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/06_m2_resident.md",
+      "sha256": "ca4d51e3d462d7fb3642ea1f6ef65444e6cbebf3344ac0cf4d2a3f8f21cde049",
+      "bytes": 8254,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/07_m3_air_gap.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/07_m3_air_gap.md",
+      "sha256": "b77044d106a16d706921d7f2ea50d9d02bbfc59449214652c9e4e6dc24b32d74",
+      "bytes": 8485,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/08_x1_temperature.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/08_x1_temperature.md",
+      "sha256": "ec07a88ecffe7633cf6bd21016a506ab50b1d61675dfe5204eae8986144d28cc",
+      "bytes": 9156,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/09_x2_prune_rematerialize.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/09_x2_prune_rematerialize.md",
+      "sha256": "e9c73447ce1d84e280a973916628bd67d3542f4c660c2260087a60af624e1cc7",
+      "bytes": 8180,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/10_x4_occlusion_watch.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/10_x4_occlusion_watch.md",
+      "sha256": "146d9332867baf4ad36454892a6b0d30dd40774798d526b9abf0d426bd5e6fbb",
+      "bytes": 8223,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/11_beyond_x4.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/11_beyond_x4.md",
+      "sha256": "7a669f5a552933679e6f32efd86692dafdf691f427f3fc527468a768413fee7a",
+      "bytes": 11500,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/12_heir_audit_close_gate.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/12_heir_audit_close_gate.md",
+      "sha256": "e49f11d9e974c0ded1b92f6dd63f14cb53b2cb1da608f4ff814ac2a20b940259",
+      "bytes": 12543,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/13_warming_budget.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/13_warming_budget.md",
+      "sha256": "9b2b2de38e8bb701f967614bcffaebf5d3054feb2eb5462541bbed4f3f4836f1",
+      "bytes": 11858,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/14_pause_resume_frontier.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/14_pause_resume_frontier.md",
+      "sha256": "fd47fed84cd712dddedb6113c65be366bd241259d573463ed4793f3c22092416",
+      "bytes": 11381,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/15_greenreach_close.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/15_greenreach_close.md",
+      "sha256": "be7d12d94eedf5c21d08cbbfd5afcbd5faefa5d1dd197e34268c082d6f235a71",
+      "bytes": 14381,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/chapters/16_fourth_family.md",
+      "archived_path": ".archive/documentation-v1/files/notes/chapters/16_fourth_family.md",
+      "sha256": "b8d805ab1931d2092c923d352f6feb0bd85b4158b7caaa56a8acdd3211b08ed1",
+      "bytes": 12790,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/reviews/2026-06-30_studied-agent-cold-read.md",
+      "archived_path": ".archive/documentation-v1/files/notes/reviews/2026-06-30_studied-agent-cold-read.md",
+      "sha256": "52dc7e38bf6779f666445d2143a712e04dce076a33004fb3ff3b8b5ee7afed2c",
+      "bytes": 42727,
+      "status": "superseded",
+      "replacement": "notes/reviews/README.md"
+    },
+    {
+      "previous_path": "notes/walkthrough/00_READING_A_LAB.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/00_READING_A_LAB.md",
+      "sha256": "3ab973a570e41163fc4845b07885a7fc1f546bb4df0804fe0a200f4515ccc650",
+      "bytes": 10611,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/01_M-1_BOOTSTRAP.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/01_M-1_BOOTSTRAP.md",
+      "sha256": "19bb44d553d8edf4276f14fe5388f492a42cc546792d7cdee68021fa13d48b29",
+      "bytes": 15735,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/02_M0_WORLD_ORACLES.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/02_M0_WORLD_ORACLES.md",
+      "sha256": "8ac33f0183bb53df6b114b517eae4c561baa1f46efafde881822bb678704dc3b",
+      "bytes": 9513,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/03_M1_INHERITANCE.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/03_M1_INHERITANCE.md",
+      "sha256": "d65ebda108469ee1ffc3c4705834ffdc1a1c3efdc520e3e429c3ec06d85df349",
+      "bytes": 8534,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/04_M1_5_CONTRIBUTION.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/04_M1_5_CONTRIBUTION.md",
+      "sha256": "19904b30564608314cda7ca95316b1018cda9273aa40540f4ecf997fdfbb7ffc",
+      "bytes": 6464,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/05_M2_RESIDENT.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/05_M2_RESIDENT.md",
+      "sha256": "03bbac1a1b6d52b946606681e0d22efe53c77f1ac8eeef03aec95c9b2da38807",
+      "bytes": 7542,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/06_M3_AIR_GAP.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/06_M3_AIR_GAP.md",
+      "sha256": "ae90e2bbd57c78ed3968ccc18bd59cc70586cce8fcf3b93f5951afc670130aa3",
+      "bytes": 8008,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/07_X1_TEMPERATURE.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/07_X1_TEMPERATURE.md",
+      "sha256": "ef243399704ae28c6668f95e9c98393bf438b258a897d8440df86440472dbb21",
+      "bytes": 8118,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/08_X2_PRUNE_REMATERIALIZE.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/08_X2_PRUNE_REMATERIALIZE.md",
+      "sha256": "7e21c4b493318c2bb4e18b17f1f54d909e094f06148ccfbace910b593ae74186",
+      "bytes": 7505,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/09_X4_OCCLUSION_WATCH.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/09_X4_OCCLUSION_WATCH.md",
+      "sha256": "dd240dc12ab9b0ac1eef8a25145e15141df5cd89463e686e69e65aff179910bd",
+      "bytes": 8970,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/10_BEYOND_X4.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/10_BEYOND_X4.md",
+      "sha256": "0567c37c536a3380a8baa771b9e93ffc601dda98c49bc1bcb5630565a09b8b0e",
+      "bytes": 8736,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/11_HEIR_AUDIT_CLOSE_GATE.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/11_HEIR_AUDIT_CLOSE_GATE.md",
+      "sha256": "2477625bf4b3ccbd853a69ab4109b95a23f86743a434ceb1c5dc862af5a46255",
+      "bytes": 8849,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/12_WARMING_BUDGET.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/12_WARMING_BUDGET.md",
+      "sha256": "290363ed2ea00ed67c55349069f41b8f5cb196fe111eb0c9ad31933c93f5ee17",
+      "bytes": 9034,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/13_PAUSE_RESUME_FRONTIER.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/13_PAUSE_RESUME_FRONTIER.md",
+      "sha256": "80133c913fb26f528896740182922e25d5d704b56ef61765fb66b982e6a2033f",
+      "bytes": 11115,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/14_GREENREACH_CLOSE.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/14_GREENREACH_CLOSE.md",
+      "sha256": "5a720a8a2cdae162950b3c2aaec36fbe5ba657a3d360bf4e67048089dd32476c",
+      "bytes": 8557,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/15_FOURTH_FAMILY.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/15_FOURTH_FAMILY.md",
+      "sha256": "1daac428804dc689545d0e128d323663b5ce43228f2d2444dadc9107094a7351",
+      "bytes": 10275,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/16_EPISTEMIC_FRAME_CHECK.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/16_EPISTEMIC_FRAME_CHECK.md",
+      "sha256": "66c9a745a0ed2fee772ecf262382dd4fa5e77f342683e730f96640147d664354",
+      "bytes": 5506,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/17_EFC_V1_WIRE_COMMITMENT.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/17_EFC_V1_WIRE_COMMITMENT.md",
+      "sha256": "0b63ca834454b61d505a33ede8807fb70a4c51027668e8318e93a5c12e4368e5",
+      "bytes": 9081,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/18_EFC_V1_CALIBRATION_CLOSE.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/18_EFC_V1_CALIBRATION_CLOSE.md",
+      "sha256": "d772b1a81b93262741895b6c09750f38d1dd745761a7ae6c42ab7b94a03b50fd",
+      "bytes": 7284,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/19_EFC_V2_UNOCCUPIED_BAND.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/19_EFC_V2_UNOCCUPIED_BAND.md",
+      "sha256": "d60f3efe645c10c89510537668bc8777692c9e3298364b702b46cf0634da7c07",
+      "bytes": 6646,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/20_BODY_0_COMPOSITION.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/20_BODY_0_COMPOSITION.md",
+      "sha256": "f07a8fc022a3d2e6b98e104a93ab6b1a884bf7fcadf5998e466827b072968d74",
+      "bytes": 8360,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/21_BODY_CORE_ADAPTERS.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/21_BODY_CORE_ADAPTERS.md",
+      "sha256": "35e5a954ce0eb0d059c2e139f85affebd6f16504d2626f37732b9cf1c2d92b87",
+      "bytes": 11385,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/22_FIELD_USE_PILOT.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/22_FIELD_USE_PILOT.md",
+      "sha256": "521b3c98d1eeae72081024d58e5aa284694a8ba663fc5f5170c36ea90cd0159f",
+      "bytes": 14800,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    },
+    {
+      "previous_path": "notes/walkthrough/README.md",
+      "archived_path": ".archive/documentation-v1/files/notes/walkthrough/README.md",
+      "sha256": "a25428d4d6c396425d59679844c1aa11dd26e65bcd30e5c50afac4eae4ad2ab7",
+      "bytes": 9857,
+      "status": "superseded",
+      "replacement": "README.md#how-the-thesis-changed"
+    }
+  ],
+  "historical_pins": {
+    "summary": {
+      "total": 24,
+      "materialized_exact": 12,
+      "unrecoverable_manifest_only": 12
+    },
+    "entries": [
+      {
+        "previous_path": "AGENTS.md",
+        "sha256": "1d55ebb71fe3209d6cbcd1b6668ae9fad9a3cb79e68387a14a8a9f345a430887",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/1d55ebb71fe3209d6cbcd1b6668ae9fad9a3cb79e68387a14a8a9f345a430887/AGENTS.md",
+        "bytes": 15080,
+        "source_commit": "575ef7994e4007d0f6d4291f0b6e9bd49c3b321a",
+        "referenced_by": [
+          "notes/body_core_v03_implementation_manifest.json"
+        ]
+      },
+      {
+        "previous_path": "AGENTS.md",
+        "sha256": "29934d51df8a8b29dfd2dae73c344a98e6c441ab63550e07ae07ae3663ec5d44",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/29934d51df8a8b29dfd2dae73c344a98e6c441ab63550e07ae07ae3663ec5d44/AGENTS.md",
+        "bytes": 14871,
+        "source_commit": "51d0791957b172d039429784f52a64958dfe289d",
+        "referenced_by": [
+          "notes/body_core_v0_review_manifest.json"
+        ]
+      },
+      {
+        "previous_path": "AGENTS.md",
+        "sha256": "4a142728a45b2c50861560134d8eabdf80128b7550d11452119226e336677b65",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/field_use_capture_v0_implementation_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "AGENTS.md",
+        "sha256": "599b7af7a0034b6e4da7e12a7024791071b8391a8991bf0594c8a3d9c8245f6e",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/599b7af7a0034b6e4da7e12a7024791071b8391a8991bf0594c8a3d9c8245f6e/AGENTS.md",
+        "bytes": 15060,
+        "source_commit": "10cdcd7736db18b6e7321142b00395f2202d4409",
+        "referenced_by": [
+          "notes/body_core_m3_adapter_implementation_manifest.json"
+        ]
+      },
+      {
+        "previous_path": "README.md",
+        "sha256": "8615f0b1710c1e2a290e1936b332ec111494be3aa07ca1863cb2aa77ae2005c0",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/8615f0b1710c1e2a290e1936b332ec111494be3aa07ca1863cb2aa77ae2005c0/README.md",
+        "bytes": 23330,
+        "source_commit": "575ef7994e4007d0f6d4291f0b6e9bd49c3b321a",
+        "referenced_by": [
+          "notes/body_core_v03_implementation_manifest.json"
+        ]
+      },
+      {
+        "previous_path": "README.md",
+        "sha256": "97baa6bc2a0303b1b247b8c65e7d7cee5b33c656f1b5acb9d77fb54abebb299d",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/body_core_m3_adapter_implementation_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "README.md",
+        "sha256": "b1a167995495f1315f67ccdfdd4d3b43014c2ac3444a77b58d0f08871a879cce",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/field_use_capture_v0_implementation_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "README.md",
+        "sha256": "e7f5bbd355eb5ecdda11ea6dd4c18562ae34ae7bba32de7d988bffd26d26699c",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/e7f5bbd355eb5ecdda11ea6dd4c18562ae34ae7bba32de7d988bffd26d26699c/README.md",
+        "bytes": 22435,
+        "source_commit": "51d0791957b172d039429784f52a64958dfe289d",
+        "referenced_by": [
+          "notes/body_core_v0_review_manifest.json"
+        ]
+      },
+      {
+        "previous_path": "notes/BODY_MAP.md",
+        "sha256": "087df1600511e9166cd2335c3c374b96a3f39b8db01c7381c4623d6913537c9d",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/087df1600511e9166cd2335c3c374b96a3f39b8db01c7381c4623d6913537c9d/notes/BODY_MAP.md",
+        "bytes": 13313,
+        "source_commit": "575ef7994e4007d0f6d4291f0b6e9bd49c3b321a",
+        "referenced_by": [
+          "notes/body_core_v03_implementation_manifest.json"
+        ]
+      },
+      {
+        "previous_path": "notes/BODY_MAP.md",
+        "sha256": "4b3604f9c66393a2e48eb6ef3891d22a9e2ef5bbaae366b3fe85ba5f3a95684b",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/body_core_source_binding_review_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "notes/BODY_MAP.md",
+        "sha256": "aad15ad0bcb679e8f2558621038a8a2520757318d3df310a1174a63bf38253c4",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/body_core_m3_adapter_implementation_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "notes/BODY_MAP.md",
+        "sha256": "aedf7298b42a53a0e9f44968b5dbac45b0238d9036c465e059557e745f0f133e",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/aedf7298b42a53a0e9f44968b5dbac45b0238d9036c465e059557e745f0f133e/notes/BODY_MAP.md",
+        "bytes": 10778,
+        "source_commit": "51d0791957b172d039429784f52a64958dfe289d",
+        "referenced_by": [
+          "notes/body_core_v0_review_manifest.json"
+        ]
+      },
+      {
+        "previous_path": "notes/BODY_MAP.md",
+        "sha256": "c5c49e375f243e95e8ccb75df8f95818fec225610242a9fca7f82d091365f420",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/field_use_capture_v0_implementation_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "notes/NEXT_SUBSTRATE.md",
+        "sha256": "1860107ebd22d159172235a6afbf16636fead59ea67243894184e87d59ee2b7e",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/body_core_m3_adapter_implementation_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "notes/NEXT_SUBSTRATE.md",
+        "sha256": "44070e8fc73f9ffb42c4dadfcc098c35a6e55814aa1be26062f69b5da0322cfd",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/44070e8fc73f9ffb42c4dadfcc098c35a6e55814aa1be26062f69b5da0322cfd/notes/NEXT_SUBSTRATE.md",
+        "bytes": 38408,
+        "source_commit": "575ef7994e4007d0f6d4291f0b6e9bd49c3b321a",
+        "referenced_by": [
+          "notes/body_core_v03_implementation_manifest.json"
+        ]
+      },
+      {
+        "previous_path": "notes/NEXT_SUBSTRATE.md",
+        "sha256": "4f95c73d58309c7c92ef9b5fb41ab6359c3c116dbc45899fa0e18e3decbc0d15",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/4f95c73d58309c7c92ef9b5fb41ab6359c3c116dbc45899fa0e18e3decbc0d15/notes/NEXT_SUBSTRATE.md",
+        "bytes": 36014,
+        "source_commit": "51d0791957b172d039429784f52a64958dfe289d",
+        "referenced_by": [
+          "notes/body_core_v0_review_manifest.json"
+        ]
+      },
+      {
+        "previous_path": "notes/NEXT_SUBSTRATE.md",
+        "sha256": "ad9f222de0085e1a9639648f1ab901dc58f623f030a3a3c278aeb2cb173b2421",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/field_use_capture_v0_implementation_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "notes/ROADMAP.md",
+        "sha256": "1c3bf53d35d56848fd6b86db9a518a180520f072fdc99aa84d7db5fd0f9f6294",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/1c3bf53d35d56848fd6b86db9a518a180520f072fdc99aa84d7db5fd0f9f6294/notes/ROADMAP.md",
+        "bytes": 81551,
+        "source_commit": "575ef7994e4007d0f6d4291f0b6e9bd49c3b321a",
+        "referenced_by": [
+          "notes/body_core_v03_implementation_manifest.json"
+        ]
+      },
+      {
+        "previous_path": "notes/ROADMAP.md",
+        "sha256": "39130458f3fc2552ad5114b46fcad299959d31d22ce23fd06691bb0975430d65",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/39130458f3fc2552ad5114b46fcad299959d31d22ce23fd06691bb0975430d65/notes/ROADMAP.md",
+        "bytes": 79103,
+        "source_commit": "51d0791957b172d039429784f52a64958dfe289d",
+        "referenced_by": [
+          "notes/body_core_v0_review_manifest.json"
+        ]
+      },
+      {
+        "previous_path": "notes/ROADMAP.md",
+        "sha256": "4f699b80b2d2a4768d2dbb96111812648dceb8d14aa75ac9af91088c1f4bb08c",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/body_core_m3_adapter_implementation_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "notes/ROADMAP.md",
+        "sha256": "6c83709521d4a9dbce1bd2565ab8236ed696925f7371eb112e1de86b540e308f",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/body_core_source_binding_review_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "notes/ROADMAP.md",
+        "sha256": "8175bc86642e2a2eaea9997fdfaafee94708aa63f602c693c5721e47912a3eeb",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/field_use_capture_v0_implementation_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "notes/walkthrough/21_BODY_CORE_ADAPTERS.md",
+        "sha256": "a2266dcd4fde510b6fd94b84c76e0b4457864f8712c20f9b48c8b6d077a44d7e",
+        "status": "unrecoverable_manifest_only",
+        "archived_path": null,
+        "bytes": null,
+        "source_commit": null,
+        "referenced_by": [
+          "notes/field_use_capture_v0_implementation_manifest.json"
+        ],
+        "audit": [
+          "not found at named path in any reachable commit",
+          "not found as matching SHA-256 content in the complete local Git blob database",
+          "not equal to the final pre-migration snapshot"
+        ]
+      },
+      {
+        "previous_path": "notes/walkthrough/21_BODY_CORE_ADAPTERS.md",
+        "sha256": "ce85510bc42f24908d57a679910141d2be6f61b4144784062005660718321396",
+        "status": "materialized_exact",
+        "archived_path": ".archive/documentation-v1/pins/ce85510bc42f24908d57a679910141d2be6f61b4144784062005660718321396/notes/walkthrough/21_BODY_CORE_ADAPTERS.md",
+        "bytes": 9926,
+        "source_commit": "575ef7994e4007d0f6d4291f0b6e9bd49c3b321a",
+        "referenced_by": [
+          "notes/body_core_v03_implementation_manifest.json"
+        ]
+      }
+    ]
+  }
+}

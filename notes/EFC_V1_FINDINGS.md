@@ -5,9 +5,8 @@ second live pilot's runner-typed verdict. The sealed Part I protocol is
 [SPEC_EPISTEMIC_FRAME_CHECK_V1.md](SPEC_EPISTEMIC_FRAME_CHECK_V1.md)
 (`part_i_spec_hash 2d37f6bf0cd4aab830cb1dcf5eb9576f13b9acff65b63cd7d5b5fe0ea5b6097d`).
 Predecessor: [EFC_V0_FINDINGS.md](EFC_V0_FINDINGS.md) (closed
-`blocked_before_contact`, 2026-07-15). Narrative: walkthrough chapters
-[17](walkthrough/17_EFC_V1_WIRE_COMMITMENT.md) and
-[18](walkthrough/18_EFC_V1_CALIBRATION_CLOSE.md).
+`blocked_before_contact`, 2026-07-15). Project-level placement:
+[root thesis history](../README.md#how-the-thesis-changed).
 
 ## One-line result
 

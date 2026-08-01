@@ -1,7 +1,7 @@
 # Field-use capture v0 — implementation boundary
 
-Status: **implementation cold-endorsed 2026-07-22; pilot authorized and armed;
-zero eligible invocations; fourteen-day clock not started**.
+Status: **implementation cold-endorsed 2026-07-22**. Current pilot disposition
+and authority route: [field-use index](field-use/README.md).
 
 Milestone: **none scientific**. This is operational instrumentation over the
 provisional Body Core. It creates no field observation, treatment assignment,
@@ -24,7 +24,7 @@ count it as invocation zero. The append-only ledger remains a valid
 instrumentation trace, but it is excluded from the pilot count and did not
 start the clock.
 
-Reader route: [walkthrough chapter 22](walkthrough/22_FIELD_USE_PILOT.md).
+Reader route: [field-use index](field-use/README.md).
 
 ## Built surface
 

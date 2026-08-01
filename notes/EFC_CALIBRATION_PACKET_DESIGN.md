@@ -22,7 +22,8 @@ carries no mechanism evidence. Nothing in it amends sealed Part I.
 
 ## 1. Authority, seals, and endpoints
 
-- Governing authority: `AGENTS.md` → `README.md` → `notes/ROADMAP.md` →
+- Governing authority at authoring time: `AGENTS.md` → `README.md` → archived
+  `notes/ROADMAP.md` (resolve through `.archive/documentation-v1/MANIFEST.json`) →
   `notes/GLOSSARY.md` → sealed `notes/SPEC_EPISTEMIC_FRAME_CHECK_V0.md` (Part I,
   v0.3 + closure round). Sealed-spec SHA-256, disk-verified by the author seat:
 

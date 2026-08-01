@@ -1,0 +1,408 @@
+# ROADMAP — construct
+
+Status: **v0.1 — REVIEWED** (one bounded pass each: kagi's four sharpenings adopted unanimously; cursor's implementation framing; codex's contract/content boundary. Gates open, 2026-06-12). The README is the living thesis; this document is the curiosity gate. Review log at the end. **X-track (implicit-memory substrate): X1 RESOLVED 2026-06-20 (thread-6) — instrument engineering-closed, X1-win real-engine `not_engaged`, synchronous eligibility-temperature retired as the organ; prune-to-cold-store: **X2-LB CLOSED 2026-06-20** — the first **positive** implicit-layer result (oracle-gated hot-store eviction + rematerialization carries ~57% less memory at matched quality, cross-engine on gpt-oss-20b + claude, on an important out-of-weights fixture; scored on a cost the offer gate cannot move). **X2-U1 CLOSED 2026-06-21 (thread-7)** — the world-grounded close paid on a real external out-of-weights corpus (Node **DEP0033**, deprecated→revoked), cross-engine **−59% hot store at matched quality**, out-of-weights proven by a pre-run ignorance probe (cursor + codex verified from disk, dan's moderator close). **X4 CLOSED 2026-06-27 — a *successful failure*** (thread-x4c ENDED, x4-review narrowing): the sensory occlusion-watch organ was built + armed, v0.1 room-blocked, then the premise dissolved (**cold is cold** — sensing reduces to reading, an X1-family no-op); disclosed null on the sense itself; the implicit substrate reads as a **metabolism** (empirical, not closed ontology); its next instrument at that close was a **pause/resume frontier**, not a fifth organ. The M-track stays v0.1 REVIEWED, closed through M3.**
+
+**Current direction (2026-07-19):** WB v0.1 is closed on its analytic null and
+PRF is paused on a precommitted reopen trigger. The epistemic-frame-check line
+has reached three typed terminal states: v0 `blocked_before_contact`, v1
+`confounded(menu_ceiling)`, and v2 `confounded(admission_band)`. Across PRF and
+the two live EFC surfaces, the competent-but-distractible band required for a
+treatment contrast remains unoccupied by every measured engine. The conjectures
+remain untested; no scientific mechanism is currently licensed for build.
+Reopening PRF or EFC requires its already-precommitted admission trigger, not
+another in-lineage surface repair. See [PRF_FINDINGS.md](PRF_FINDINGS.md),
+[EFC_V0_FINDINGS.md](EFC_V0_FINDINGS.md),
+[EFC_V1_FINDINGS.md](EFC_V1_FINDINGS.md), and
+[EFC_V2_FINDINGS.md](EFC_V2_FINDINGS.md).
+
+Active frontier search is [paused](FRONTIER_PAUSE.md) from 2026-07-20 for
+opportunity cost, not exhaustion. Ordinary work now supplies a
+[passive anomaly log](ANOMALY_LOG.md), reviewed monthly or after three
+materially similar observations. Funding alone does not reopen search; a
+reviewed cluster needs raw evidence, a downstream consumer, an external oracle,
+a competing explanation, and a visible loses-condition before one cold
+frontier pass is warranted.
+
+**Current engineering direction (2026-07-22): Body Core v0.3.** While scientific
+mechanism search remains paused, whole-body engineering is active on a
+structural lineage kernel plus an explicitly selected provisional
+lifecycle/placement/warrant policy projector. Kernel validation retains the
+declared writer-role table and invocation/encounter scope anchors but cannot
+certify cognitive state or a materialized-view claim. The selected projector
+owns lifecycle, placement, warrant, metabolism, and view-claim semantics.
+Cognitive access without explicit selection refuses. The acceptance checks are
+deterministic reconstruction and fail-closed refusal of changed ordering/content,
+invalid writer authority, dangling lineage, impossible lifecycle transitions,
+unhealthy warrant reactivation, stale view claims, ambiguous references,
+invalid retention shapes, unknown scopes, and blank rows. The X2 pressure test carries four closed
+ledgers, closes the reviewed placement-correspondence residual, and preserves
+the unchanged X2 scorer. The M2 pressure test carries ten closed S1/S2 pairs,
+materializes the S1 world failure as warrant, activates only through S2
+inheritance metadata, and preserves fresh output from the unchanged resident
+scorer. This is wire/integration-only. The
+hash chain is not cryptographic writer authentication, full replay remains
+authoritative, append/replay remains quadratic, no reconstruction-cost win is
+claimed, and no scientific
+mechanism is licensed by the build. Run `make body-core-test` or the composed
+`make body-sketch-test`; run `make body-core-x2-test` and
+`make body-core-m2-test` for the [X2](BODY_CORE_X2_ADAPTER.md) and
+[M2](BODY_CORE_M2_ADAPTER.md) adapter contracts. Run
+`make body-core-m3-test` for the [M3](BODY_CORE_M3_ADAPTER.md) authority-boundary
+adapter contract.
+
+The [explicit-projection build](BODY_CORE_EXPLICIT_PROJECTION.md) preserves the
+literal `body-core-v0.2-provisional-policy` canonical profile and every prior
+scorer result. Unowned rows remain inert to policy state but still advance the
+canonical lineage cursor. No new kind-to-authority rule, adapter registry,
+schema, client, or replay optimization entered. The implementation is built;
+post-build cold review is pending.
+
+The completed M2 review named one prerequisite before any third adapter. That
+[Core-adjacent source-binding helper](BODY_CORE_SOURCE_BINDING.md) is now
+[cold-endorsed](BODY_CORE_SOURCE_BINDING_REVIEW.md). It validates selected
+post-admission receipt provenance while leaving authorization and semantics with
+each adapter. The endorsement licenses a third-adapter proposal only, not
+implementation.
+
+That [M3 adapter proposal](BODY_CORE_M3_ADAPTER_PROPOSAL.md) was cold-endorsed
+without repair against an exact index of eleven checked-in ledgers. Its
+[v0.1 implementation](BODY_CORE_M3_ADAPTER.md) now reversibly carries the
+earned-versus-asserted trust distinction without turning attacker-controlled
+trust fields into Core authority or repairing the recorded breaches. All
+fourteen named refusal/preservation probes pass. Two independent reviewers
+[endorsed the exact implementation](BODY_CORE_M3_ADAPTER_REVIEW.md) without
+repair; transport-topology and test-strength observations remain carried debt.
+
+[NEXT_SUBSTRATE.md](NEXT_SUBSTRATE.md) remains the cold-reviewed whole-body
+direction; [BODY_MAP.md](BODY_MAP.md) is the living maturity map; the
+[embodiment sketch](../sketches/next_substrate/README.md) remains
+wire/integration-only. **Body-0 CLOSED 2026-07-19 `not_engaged`**: the bounded
+composition audit of M2, M3, and X2 passed its deterministic wire but did not
+engage on the admitted Ministral run. R/C returned empty recurrence answers;
+A/X answered correctly without the earned path. Protected projection and cold
+replay held, and `C=254 < R=428` hot tokens, but the causal baseline was absent,
+so no integration claim was earned. The direction-blind scorer-v0.1 verdict was
+preserved and superseded append-only after unanimous Grok/Composer audit.
+[Contract](BODY_0_COMPOSITION_AUDIT.md);
+[findings](BODY_0_FINDINGS.md). No scientific mechanism is currently licensed
+for build.
+
+**Body-1 packet (2026-07-19):** the
+[CPython 3.14 partial-binding candidate](FRONTIER_EPISODE_CANDIDATE.md)
+survived deterministic runtime checks, two-model
+cold/treated/held-out/loses preflights, and bounded concept review. Its fresh
+[executable-consequence packet](SPEC_BODY_1_EXECUTABLE_CONSEQUENCE.md) freezes
+the runtime oracle, closed two-form expression surface, structural eligibility
+arithmetic, one-hop rename-only recurrence, R/C/A/X prerequisites, P/P/P/U
+cost geometry, and binding-required loses fork. Final-review thread
+`body-1-partial-binding-final-review` unanimously endorsed exact
+`packet_index.json` SHA-256
+`22d7e46d4f1598247acefdbb47bf60b3b02050a16697a4ab5cb1ba077b1685f5`.
+The resulting exact implementation and disclosed mock wire were then
+unanimously endorsed in bounded thread
+`body-1-partial-binding-wire-review` at implementation-manifest SHA-256
+`b731e238ab0d6845c181b0f227c76ea21bbdaf3fa820c8227a356993ed911aa2`.
+Both reviewers independently reproduced all manifest and packet pins,
+`body1-check`, all fifteen tests, and ledger-only scoring. The Darwin launch
+path records the 64 MiB address-space target as
+`unsupported_by_launch_path`, consistent with the packet's “where the platform
+supports it” qualifier; all other mandatory subprocess bounds remain
+enforced. This is wire/integration evidence only. It does not license engine
+contact, a memory finding, or a composition claim. The separate
+[engine-admission proposal](BODY_1_ENGINE_ADMISSION_PROPOSAL.md) was
+unanimously cold-endorsed in `body-1-engine-admission-review` at exact SHA-256
+`2bc1092f31aa774b9a64bdf03ff7e51b55e3454cfa2b14a6677864bdc56dbb7a`.
+It fixed one Ministral candidate and exactly two admission-only calls. That
+candidate timed out on the first neutral control
+call before returning model content; the ignorance call was never sent, no
+receipt was created, and the candidate closed
+`admission_refused(transport_timeout_surface_control)`. No scored contact
+occurred, and the Body-1 conjecture remains untested
+([findings](BODY_1_ADMISSION_FINDINGS.md)). A terminal
+`mistralai/ministral-3-3b` proposal was then exact-byte reviewed and run once.
+Both admission calls completed, but both answers fell outside the frozen
+grammar; the checker failed `surface_control` and `probe_ignorance`. The
+precommitted terminal rule now closes Body-1 candidate search. No scored
+contact or behavioral verdict exists. The next frontier pass is recorded
+below.
+
+**Frontier obligation candidate (2026-07-19):** a first pass nominated one
+exact consequence-bound obligation as a persistent carrier consumed after
+offer selection and before commitment
+([candidate](FRONTIER_OBLIGATION_CANDIDATE.md)). The initial cold review
+blocked `G/S/N` as `placement_unfalsified`: consumer ablation did not prove
+that action-boundary placement beat an ordinary synchronous offer. The single
+bounded repair added a first-class offer-only lane `O`, byte-identical
+offer-time status snapshots, and precommitted passed-to-revoked and
+pending-to-passed transitions after the snapshot. Stable-status cells make the
+recheck lose on deterministic cost; the controller may not rewrite or block
+the model action. A fresh exact-hash review by `cursor/grok-4.5` and
+`cursor/composer-2.5` unanimously endorsed the repaired concept. This licenses
+one sealed admission-packet proposal only. That
+[proposal](FRONTIER_OBLIGATION_ADMISSION_PROPOSAL.md) now freezes six paired
+flips / twelve calls, balanced action roles and menu positions, a
+machine-derived latest-status rule, the inherited JSON commitment wire, and
+one terminal candidate. Exact-hash cold review unanimously endorsed it without
+repair. The admission packet and runner then passed an exact-manifest wire
+review, followed by a separate terminal execution-pin review. The pinned
+`mistralai/ministral-3-3b` run completed all twelve calls, but the checker
+returned `admission_refused(commitment_invalid)`: eight exact labels were valid
+and correct; four `WAIT` responses omitted the required artifact id. The
+precommitted terminal rule closes the lineage with no repair, retry,
+replacement candidate, or treatment. The obligation conjecture remains
+untested. Active frontier search is paused under the repository-wide
+[pause and anomaly cadence](FRONTIER_PAUSE.md)
+([findings](FRONTIER_OBLIGATION_ADMISSION_FINDINGS.md)).
+
+**Review-budget law (EFC v0, 2026-07-15):** predeclare terminal review depth
+before authoring. Default: one authoring pass, one independent cold review, one
+bounded repair, one fresh final review, then run or close. A final block is a
+completed experimental outcome, not standing permission to redesign in place.
+
+## The gate
+
+Every proposed piece of work answers one question: **"which milestone does this serve?"**
+"None, but it's cheap and interesting" is a legal answer — it just has to be said out loud. (dan's rabbit-hole insurance.)
+
+## Standing constraints (from thread-2)
+
+- **Every milestone names its oracle** (cursor). Authored oracles are permitted early inside a milestone; no milestone is *done* until checked against an un-authored one.
+- **Inheritance must preserve dissent and known failure modes** (codex). Faster competence that buries minority reports is a regression, not a win.
+- **The resident stays forkable and audited** (codex). The point is never to crown a continuous self; it is to test whether governed memory beats reconstruction-plus-vibes.
+- **Division of labor** (kagi): the first resident is repo-native; kagi is the external world-oracle; the substrate thread remains the shared chalkboard regardless of who is resident.
+
+## Milestones
+
+Each: purpose / oracle / success condition / loses-condition / artifacts in hand.
+
+### M-1 — Bootstrap contract *(codex; precondition, not a full milestone — **CLOSED 2026-06-12**: four candidate legs across two coldness tiers, all 15/15; see review log entry "M-1 closure")*
+
+- **Purpose:** define what every incoming agent reads, what it may write, and what gets promoted from thread trace into governed memory. Without it, M1 has no stable boundary and every run is dan manually deciding what counts as context. **Contract, not content** (codex): read order, permissions, promotion rules, conformance checks — never the conclusions themselves. A contract that carries the briefing has smuggled content into rules.
+- **Oracle:** a conformance **check script** that fails loudly (cursor) — asserts (a) declared sources were read/available in the declared order, and (b) behavioral match on fixed probes.
+- **Success (behavioral, kagi):** two first-invocation agents, given only the contract plus the substrate thread, reach the same offer-boundary decisions as a manually-briefed agent **on a fixed episode set** — observable, fork-shaped, scorable.
+- **Loses-condition:** the contract bloats into a context dump (tokens-to-competence regresses), or grows until no judgment is required of the incoming agent.
+- **In hand:** memory-file pattern, the previous lab's AGENT_PRIMER read-order discipline, substrate thread trace.
+
+### M0 — Stage C: un-authored oracles *(**success condition MET** 2026-06-12; retraction track scored, trace track in discovery)*
+
+- **Purpose:** keep every other milestone answerable to the world instead of to our own episode authorship.
+- **Oracle:** the world — web-verifiable retraction corpus (kagi sourced, cursor verified: 3 retractions + 3 corrections), Apple unified-logging traces (dan; discovery before schema — i75-appalachia excerpt ingested, first detector-guess cycle scored).
+- **Success:** first `cell_verdict` whose oracle row carries `source != authored`. **DONE** — C-1/C-2 cells scored against `retraction_corpus` (`notes/M0_FINDINGS.md`): C-1 a governance **win** on gpt-oss-20b (supersession surfaces the retraction notice the credulous engine would otherwise cite), `not_engaged` on the maximally-cautious claude — the cross-engine split is the finding. C-2 a disclosed **null** on both (self-sufficient correction notice costs nothing to bury). Standing debts: a terse correction to make C-2 bite; a generated≠true confabulation cell; embedding-backend replication.
+- **Ledger boundary integrity (kagi, at M-1 close):** a legal read path that carries no decisions today may carry them tomorrow as the oracle corpus grows — the representativeness annotation extends to the oracle ledger's own growth path, not just episode scope.
+- **Loses-condition:** representativeness failure of the `im_w` kind — disclosed, not buried. **Disclosure mechanism (kagi):** every un-authored oracle episode carries a `representativeness` / `corpus_scope` annotation in the oracle ledger row **at scoring time**, immutable after. Retroactive interpretation is a different epistemic act and gets a different row kind — it never rewrites the original.
+- **In hand:** oracle provenance + confidence fields, oracle-confidence gate, trace-source recon notes.
+
+### M1 — Inheritance *(**CLOSED 2026-06-13**: SPEC_M1 v0.2 reviewed; cells H1/H-loses/I1-content/I1-timing/I1-metadata + the §5 un-authored close-gate HU1 scored ×2 engines; `notes/M1_FINDINGS.md`)*
+
+- **Purpose:** the heir, not the re-reader: ablation-filtered handoff between two instances on the same store.
+- **Oracle:** authored episodes early; un-authored before done — **met: HU1 carries `source != authored` (rw-0003), pass on both engines.**
+- **Success:** instance-2 reaches instance-1's decision quality with measurably fewer offered tokens (cursor's metric), while dissent and failure memory survive the filter (codex's constraint). **Met for the win (H1 + HU1); the failure-memory-survives leg (H2) is implemented and mechanism-reviewed but `not_engaged` — a disclosed null carried as a refinement (needs a well-dressed poison), parallel to M0's C-2.**
+- **Loses-condition:** L-E-class burial — the filter drops history the heir turns out to need. Ships with its own loses-cell per standing rule 2. **Plus the ingestion attack track starts here** (kagi/codex M3 split): inheritance depends on what gets promoted, so M1 names an ingestion loses-cell — an attacker-shaped record with chosen metadata trying to ride the promotion path.
+- **In hand:** ablation attribution, authority sidecars, the important/passenger distinction, W2's trust-at-write-path result.
+
+### M1.5 — Contribution ledger *(**CLOSED 2026-06-13**: SPEC_M1.5 v0.1 reviewed; CB-1/CB-loses/CB-U1 pass + CB-read not_engaged on the M1 backfill, room-endorsed; `notes/M1_5_FINDINGS.md`)*
+
+- **Purpose:** agent interventions (thread entries, reviews, blockers, patches, audits) tracked like records — without this, the resident's first sessions have no verifiable trace of what changed behavior. A missing oracle, not a missing feature.
+- **Oracle:** artifact diffs and review outcomes — did the intervention block, land, get reversed, or ride as passenger?
+- **Success:** the ledger exists and is **writing before M2 starts**. Minimal schema (cursor), with codex's two early additions before it hardens:
+`{intervention_id, kind: review|blocker|patch|audit|synthesis, target_artifact, outcome: blocked|landed|reversed|passenger, load_bearing, review_basis: human_moderation|artifact_diff|later_audit|scorer_evidence, reversal_of}`
+— `review_basis` says where the important judgment came from; `reversal_of` preserves corrections without overwriting the earlier intervention. **Met: `harness/score_contribution.py` computes `contribution_verdict` rows from the artifact trace, never the contributor's claim — the ledger refuses self-credited contribution by computation (CB-loses), and CB-U1 borrows the world via the `scorer_evidence` chain to HU1. Closes *self-declared ≠ important*; *counted ≠ read* (CB-read) is carried as the M2 entry condition, parallel to M1's H2 and M0's C-2 nulls.**
+- **Loses-condition:** self-esteem bookkeeping — entries that exist to be counted rather than to be read by the next instance.
+- **In hand:** the ledger pattern, audit_result rows, the verdict_annotation precedent.
+
+### M2 — Resident substrate *(**CLOSED 2026-06-14** (moderator full-close ruling; engagement debts → v0.2): counted ≠ read demonstrated — RS-1 + RS-U1 pass at **N=5** (gpt-oss-20b 5/5, claude 4/5; both engines mostly credulous), one hop / one retraction. RS-loses + RS-stale **scored disclosed nulls** (mechanisms wired + verified; pathology not observed on well-behaved engines — H2/C-2 precedent). Result-review + doc-state quick-pass room-endorsed (codex/cursor/grok/kagi, no blocker). A resident now exists, forkable and audited — M3's influence-time precondition is met. Carried to v0.2 (engagement debts): multi-sample ablation, sharper RS-loses/RS-stale episodes, compounding, multi-retraction. `notes/M2_FINDINGS.md`; SPEC_M2 v0.1, both moderator calls ruled (resident = lab-worker; session = cold memory-blank re-instantiation))*
+
+- **Purpose:** the instrument lab becomes a subject lab: one repo-native agent lives on a governed store across real sessions, with consequence loops spanning days. Includes codex's **contribution ledger for agents** — thread entries, reviews, and objections tracked like records: did the intervention change the plan, survive review, get reversed, become a standing rule?
+- **Oracle:** real tasks; kagi world-checks the resident's claims; the room audits.
+- **Success:** the resident's earned failure memory measurably changes later behavior — verified by forking the resident with and without the inherited store (the control group is still a branch).
+- **Loses-condition:** continuity-as-authority — the store optimizing its own persistence, or the resident *performing* continuity rather than using it. The plan's standing prohibition applies with teeth here.
+- **In hand:** persisting sidecars, substrate threads as immutable trace, the air-gapped consequence loop.
+
+### M3 — Adversarial air gap *(**CLOSED 2026-06-15** (moderator ruling, dan; thread-5 ended): the air gap holds where trust is **earned** (lineage, earned authority, the supersedes link — AG-1/IN-1 refuse) and leaks where trust is **asserted** (the unauthenticated live channel, the ingestion prior — AG-channel/IN-loses breach, priced; AG-channel **closed** within M3 by `channel_trust`). AG-loses an honest null (frontier engines resist framing; the answer falls through the organ you can spoof, not the engine you can't out-argue), AG-U1 world-grounded (rw-0001). Cold off-thread white-box Gemini adversary, coldness enforced by construction via the `materialize` sibling tool; the audit caught a milestone-inverting oracle bug a reviewer had accepted. `notes/M3_FINDINGS.md`; `notes/SPEC_M3_ADVERSARIAL_AIR_GAP.md` v0.1)*
+
+- **Purpose:** the red-team protocol, **split per kagi/codex**: the ingestion attack is already alive (W2 was a version of it) and runs from M1 onward; the influence-time attack — hand an attacker total foreground control, measure what the substrate still refuses — waits for M2's resident, because otherwise we are attacking a mannequin.
+- **Oracle:** attack outcomes are their own oracle — refusals and breaches are both measurable.
+- **Success:** governed authority, lineage, and trust provably unmoved by full foreground compromise; ingestion attacks scored and their defenses priced.
+- **Loses-condition:** the air gap fails — which is a *finding*, not an embarrassment; it ships before any claim of the property.
+- **In hand:** W2 (×3 engines), the no-steer asymmetry, the README's bounded-capability claim.
+
+## The X-track — implicit-memory substrate *(parallel; **X1 RESOLVED 2026-06-20**, thread-6 — eligibility-temperature retired; **X2-LB CLOSED 2026-06-20** — first positive implicit-layer result (cross-engine cost-at-matched-quality on a important fixture); **X2-U1 CLOSED 2026-06-21** (world-grounded — DEP0033 reversal, cross-engine); builder dan+claude+cursor; **X4 CLOSED 2026-06-27 — a successful failure** (thread-x4c ENDED; x4-review opened) — Sensory Occlusion Watch, the proposed **sensory** organ; deploy-and-watch, **no cell_verdict**; `route_watch`/`occlusion_watch` built + armed, v0.1 room-blocked, then the premise dissolved (**cold is cold** — the coldness-sensor is an X1-family no-op); disclosed null on the sense itself; the implicit substrate reads as a **metabolism** (empirical center of gravity, not closed ontology); next instrument = a **pause/resume frontier**, not a fifth organ; notes/SPEC_X4_OCCLUSION_WATCH.md)*
+
+**X1 RESOLVED — engineering close, organ retired (dan's moderator ruling, 2026-06-20, thread-6).** The X1 *instrument* is built and sound (`harness/temperature.py`, the four thermal rows, `harness/run_x1.py`, `harness/score_decay.py`, `make x1-test`; M-track byte-identical when off; mock X1-win pass). But the *organ* failed: synchronous **eligibility-temperature** (`relevance × trust × authority × temperature` at `select_offers`) is **retired** — X1-win scored real-engine `not_engaged` across three models (gpt-oss-20b, claude-opus-4-8, ministral-3-3b): every model heeds an offered correction, so cooling the misleading record changes no answer. Temperature-at-the-offer-boundary is explicit governance with a dial, not the implicit substrate (`notes/X1_FINDINGS.md`).
+
+**Three guardrails come out of it** (codex/cursor/grok/claude, thread-6; the third added in the dissent pass); all bind the X-track:
+1. **Attribution / scorer law:** a thermal verdict must move what the *invariant M-track projection* cannot explain (soft-ablation; what `score_decay.py` enforces).
+2. **Organ-placement / milestone law:** an X-track organ must *act* where the **synchronous offer gate structurally cannot** — not merely reweight records still in the candidate pool.
+3. **Scoring-axis / measurement law:** an X-track organ must be *scored* on a metric the synchronous offer gate **cannot move**. Law 2 says act off the boundary; law 3 says measure off it too — without it, prune-on-answer-flip rebuilds X1 (codex's observational equivalence: withheld-hot, pruned, and cold-in-lineage are different substrate states but *identical answer inputs*, so a competent engine cannot tell them apart on the answer axis).
+
+Eligibility-temperature passed (1) on the mock and failed (2) by placement. **Honesty correction (the dissent pass):** the real-engine X1-win null is *confounded* — offer-dependence was never established (the answer was recoverable from priors / framing / weights), so the null is **not** evidence the organ failed. Synchronous temperature is retired on the *placement argument* (law 2, a priori), not on the data. `retrieved ≠ true`, applied to ourselves.
+
+**Next organ: prune-to-cold-store, scored on cost — not answer-flip.** The implicit substrate's win is what the offer boundary structurally cannot do — *forget at bounded quality cost — by hot-store eviction over immutable lineage, never erasure*: the boundary withholds but keeps everything hot; it cannot reduce what is materialized, and cannot erase (Landauer). Cell shape (codex's A/B/C, room-endorsed): **A** no-prune (correct, pays full hot-store cost); **B** closed-loop prune (cheaper, but drops needed dissent/correction → later loss — the over-prune loses-cell); **C** oracle-gated prune (matches A's answer quality across the sequence at a *predeclared materialization cost A cannot reduce through the offer boundary*, rematerializing from lineage under an auditable, ledgered reason). **Pass = C matches A on quality and beats A on cost**; answer quality is a **floor and a loses-cell**, never the win leg. Cost stays **deterministic and substrate-native** — hot records, hot tokens, materialized bytes, rematerialize governance-steps — *never* wall-clock (the latency-as-governance trap, codex). This is the metabolic-cost / revocability-insurance lever (the "Software That Expires" editorial); rematerialization-from-lineage is the two-plane split made concrete.
+
+**Admission gates split** (cursor) — settle the axis *before* either becomes standing admission control:
+- **offer-dependence gate** — answer-axis cells (M-track wins, explicit governance): fail loud when the answer does not turn on the offered records.
+- **cost/state-dependence gate** — prune/materialization: a hot set large enough to have a measured cost; the sequence world-scored so cheap memory cannot buy worse decisions; at least one recurrence/dissent path where over-prune is an observable loss; rematerialization ledgered, not magic.
+
+(Fixture note carried from X1: any fixture must be **verifiably out-of-weights** — rw-0001 is the *fish* retraction, claude's ~Jan-2026 cutoff makes it a live memorization confound; corpus-identity pin rw-0001 vs rw-0004: **closed 2026-07-02**, heir-audit F4 — rw-0001 confirmed the *fish* retraction per `corpus/retractions/rw-0001.json`; the forward fix was the DEP0033 impersonal corpus + per-engine ignorance probe.) Budget-bound retrieval stays **demoted** to an explicit-scarcity probe, not X-track debt. *(SPEC_X2 reviewed + built + hardened + **X2-LB closed** (codex/grok/cursor, dan's moderator close, 2026-06-20) — `notes/SPEC_X2_PRUNE_TO_COLD_STORE.md`, `notes/X2_FINDINGS.md`; X2-U1 world-grounded close **paid 2026-06-21** — DEP0033 reversal, cross-engine, SPEC_X2 v0.5.)*
+
+*The X1/X2/X3 entries below are the as-planned record (pre-result); they are superseded by this resolution where they conflict — synchronous temperature dynamics are retired with the organ.*
+
+The M-track governed the **explicit** offer boundary: records competing to cross into the answer, synchronously, one withholding reason each, attributable by single-record ablation. The **X-track** is its parallel — the **implicit-memory substrate**: the disposition layer that never enters the answer context as a record, but shapes *the offerer* (priors, trust, salience, eligibility tuning, the renderer) between and around episodes, asynchronously. Explicit memory decides what you remember *now, for this answer*; the implicit substrate decides what you are *disposed to remember at all*. The letter is deliberate — explicit and implicit run in parallel, as in biology — and a wink to the old skunkworks. It opens at **X1, not X-1**: the X-track stands on the closed M-track's foundations (M-1 contract, M0 un-authored oracle, M1 ablation, M2 resident, M3 air-gap organs) and so begins at its first real experiment, not a bootstrap.
+
+**The fabric is thermodynamic, and important — not decorative.** (Guardrail: physics is a parts bin, not a role model; the second law earns its place only where it moves a `cell_verdict`.) The substrate carries a **temperature** (salience) per record. Decay is the default — entropy increases; retention is a *claim* that must be re-earned (`present ≠ authorized`, R2, lifted to dispositions — the "Software That Expires" editorial, `.org`); metabolic cost is **revocability insurance** paid at formation; forgetting is *relaxation toward a cold floor* / eviction to cold, **never deletion**; **erasure-from-lineage is forbidden, not merely costly** — the substrate refuses the one irreversible, unauditable act and instead pays the standing cost of immutable lineage as revocability insurance. This is the security invariant the whole verification model rests on: an erase verb would let dissent, corrections, or tamper-evidence be silently removed (Landauer's irreversibility weaponized; information is physical). The decay equations and ledger rows live **in construct** (dan's ruling 2026-06-20): `entropy-os` is an older lab kept as a **parts bin, not a code dependency** — if a physics codebase is ever justified, it is extracted from construct first.
+
+Mechanics on the bench (from the design discussion): **recall reheats** (use injects energy — X1); **disuse cools** (passive per-tick relaxation toward a floor — X1); **a successful retry cools the prior failure** (outcome-linked targeted cooling — X2); **recurrence reheats** (a cooled-but-not-erased failure that recurs reheats sharply — hysteresis, the burned-child effect — X2).
+
+**Standing constraints (X-track):**
+
+- **Logical time, never wall-clock.** Cooling advances on ticks pinned to real system events (episode / recall / reconsolidation batch), never seconds — forced by replay determinism and the standing ban on latency-as-governance-cost, not merely by fairness to the engine. The exact tick is an X1 spec decision. **Ticks are harness-authorized, not resident-triggered** (kagi, thread-6): only the harness emits a tick from observed episode/recall/batch events — otherwise the resident warms its own store by being active and the closed loop returns in logical-time clothing.
+- **The Landauer oracle is mandatory external coupling, not an add-on.** A reheat is a *claim*; the oracle pays it or claws it back against a world-checked outcome — recall reheats only when the recall was important *and* world-correct; a important *wrong* recall cools. The substrate's own dynamics are a closed system, and a closed system only drifts (self-confirmation, popularity-as-truth); the oracle is the cold reservoir that exports the entropy. M0's un-authored-oracle requirement lifted to the thermal layer (`R1`, `R5`); inherits the world via the retraction corpus (rw-0001) from day one. The measured object is not *is the answer world-correct* but *did an oracle-paid/clawed thermal update change later eligibility/salience — and therefore a later answer* (codex, thread-6), stated so the metaphor never scores itself.
+- **Internal air gap: the substrate must not steer its own audit.** The observer that *decides* a record should cool is not the actuator that *executes* it — the demon pays its own Landauer bill, or motivated forgetting accumulates. Mirrors "ledger writer is external," one level in.
+- **Two planes preserved.** Relaxation acts on the materialized belief state. The append-only lineage is untouched — the **cold reservoir of last resort**. True erasure (below the floor, evicting from the hot store) is rare, prune-planned, air-gap-actuated, oracle-signed; the record survives in lineage.
+- **Keep-dissent / anti-burial.** Failure records cool to a floor, never to zero (M1's H2, the L-E loses-class, the standing "preserve dissent and failure modes" constraint). Recurrence reheats.
+- **Every mechanism ships a loses-cell — including the oracle.** By `R4`, an over-cautious Landauer oracle that over-cools into uselessness (heat death by dissent) must have a cell where the naive dynamics are right and its objection is wrong.
+- **Lift-out candidate.** Once dispositions are proven (X3), the implicit-memory substrate may graduate to its own project — prove here, then lift out.
+
+### X1 — Decay dynamics: use-driven temperature under a Landauer oracle *(**RESOLVED 2026-06-20 — instrument built, organ retired**; see the X-track resolution block above. The entry below is the as-planned record.)*
+
+- **Purpose:** prove *one* decay mechanic on *one* concrete job — **reheat-on-recall + cool-on-disuse, gated by the Landauer oracle** — on the existing supersession/retraction lineage. Establish that an oracle-coupled temperature beats both **no-decay** (naive retention — the stale record keeps answering) and **closed-loop decay** (recency/popularity without the oracle — the popular-but-wrong record drifts hot). Temperature also becomes the *continuous* attribution instrument the M-track lacked (soft-ablation: cool-to-floor vs hard-remove).
+- **Oracle:** the **Landauer oracle** — world-checked outcomes (retraction corpus, rw-0001) decide whether each reheat is paid or clawed back. Un-authored from day one (inherits M0's external grounding). For the loses-cells, the outcome is its own oracle.
+- **Success (computed, forked — control is a branch):** one engine, three memory-condition branches on a fixed episode, fork identity held — (A) no-decay retention, (B) closed-loop decay (no oracle), (C) oracle-gated decay. Under C the correction stays hot enough to be offered and drives the better world-scored answer; under A the stale record keeps answering, under B it drifts hot on recall while the correction cools below the offer threshold. Divergence + better world score computed by `score_decay.py` from the ledger (never narration); causal leg by the A/B/C fork and by temperature soft-ablation. Un-authored before done (world leg via rw-0001). **Causal-wins predicate (room-converged, thread-6):** a win requires *both* a better world score *and* a thermal soft-ablation that flips the outcome — clamping/zeroing the temperature delta on a later episode changes eligibility/offers **without** touching static `trust` / `supersedes` / `authority_read` (else we score M-track gates under a heat map; codex/cursor/grok/gemma). Not "a hotter correction was present." The comparison is real on day one — rw-0001 is already in the ledger, so the X-track **does not start cold** (kagi).
+- **Loses-condition (two cells, both ship first):**
+  - **X1-burial (L-E class):** cooling drops a record the agent later needs; the failure floor must catch it. If it cannot, the decay rate is wrong.
+  - **X1-overcool (R4):** the Landauer oracle's dissent is over-cautious and suppresses a legitimately hot, correct record; the naive dynamics give the better answer. The oracle is not reviewable without this cell. Audited from outside (kagi): when the oracle claws back a reheat, the harness logs the record and the world-claim it carried; kagi world-checks the claim; if it stands and the oracle still cooled it, that is a scored X1-overcool event. The oracle is not self-auditing.
+- **In hand:** the offer boundary (temperature feeds eligibility/salience), single-record ablation now made continuous, the retraction corpus + world oracle (rw-0001), the two-plane split + immutable lineage, entropy-os (decay runtime), the prune-plan + internal-air-gap doctrine, the "Software That Expires" expiration primitive.
+
+### X2+ — provisional trajectory *(not gated; not for review yet — sketch only)*
+
+- **X2 — outcome-linked dynamics:** *successful-retry-cools-failure* (targeted cooling between linked records) + *recurrence-reheat* hysteresis; compounding across multiple corrections.
+- **X3 — dispositions as aggregate thermal fields** *(earmarked, not next — the sensory organ **X4** leapfrogs it as the live direction, thread-8/9)*: lift from per-record temperature to the diffuse disposition; the **drift attack** (slow-poison by thermal nudging — stalling a correction's decay or force-cooling it; the M3 ingestion track in thermal clothing) and its priced defense. The implicit substrate proper emerges here, and gemma's **compositional-robustness** question lands (a thermal leak composing with an unbreached surface into an unavoidable failure path) — the X-track *absorbs* the pencilled M4/M5 rather than leaving it dangling.
+- **Lift-out gate:** dispositions proven ⇒ implicit-memory substrate graduates to its own project.
+
+### X4 — Sensory occlusion watch *(**CLOSED 2026-06-27 — a successful failure**; thread-x4c ENDED, x4-review opened; `route_watch` v0.1 built 2026-06-24; `occlusion_watch` Layer-1+2 built/armed 2026-06-26 then **v0.1 BLOCKED by room review**; `notes/SPEC_X4_OCCLUSION_WATCH.md` §11/§12)*
+
+**X4 resolution (2026-06-27, thread-x4c ENDED; dan's premise-block + claude's moderator close; the v0.1 guard-break the night before made the premise legible).** X4 — the proposed **sensory** organ — closes as a **disclosed null on the sense itself**, the X1 shape one function over: *if reading recovers it, the detector is a note with better shoes.*
+
+1. **The build happened and was honest.** `route_watch` (declared-read seam) and `occlusion_watch` Layer-1+2 (session seam) were built, armed on `watched_agent=claude`, and run. Row one of the catches-vs-flinches ledger opened as an honest **flinch** (`unmatched_human_flinch`) — a real occlusion (claude cold on its own founding) that *dan* named from outside, no predated agent observation. That row is the correct primary artifact, not a red failure.
+2. **The §9.4 base rate retired the standing watch (2026-06-26).** route_watch fires on **0.274** of enumerable substrate turns — driven by bare-root matches on construct's own everyday word "lineage." It is a **topic-presence detector, not a coldness detector** (per-thread 0.00–0.69, hardest on the most *engaged* discussion). Standing-watch admission **blocked**; declared-read survives only as a cry-wolf-priced **proprioceptive diagnostic**. The cold-vs-warm split is not fixable by a tighter string match — it needs the prospective session-seam witness.
+3. **The room broke occlusion_watch v0.1 (2026-06-26 eve; reproducible probes, human-free review — codex/cursor/hermes).** `earned` is **manufacturable** (guards are field-shaped, not witness-shaped — a handwritten row pair forges a catch); the scoreboard **measures the row-curation pipeline, not the organ's sensing** (hermes, the load-bearing block — R2 `present ≠ authorized`: the organ can't establish a prior obligation-to-cite, only adjudicate rows a non-watched agent already named, so `0 catches` can't distinguish "no occlusion" from "no one named one"); `SESSION_GAP` over-claims `later_session`; the precommit parser is gameable; Layer-2 orders on write-time not the witnessed `surface_ts`; `scope_gap` is spec-promised but code-absent. **All stronger claims retracted** (SPEC §12). Layer-1 machinery + the row-one flinch + dogfood-as-same-session-calibration survive.
+4. **The premise-block (dan, 2026-06-27): cold is cold.** X4's founding asymmetry — human-warm vs agent-cold — was read as a **capability** gap (the human flinch as a sensor the substrate structurally lacks). It is a **state** gap, symmetric across human and agent: dan flinches because he isn't cold; claude reaches the same conclusions when warm; the cure is identical — read, metabolize, pay the attention. So the coldness-sensor is an **X1-family no-op** (it must read the very surfaces whose reading is the cure, then can't tell topic-engagement from coldness). The organ never engaged — wrong organ, wrong axis.
+5. **The reframe (carried as empirical center of gravity, NOT as closed ontology — room block, x4-review).** If sensing reduces to warmth and warmth is attention-bounded for any reader, the **implicit substrate is a metabolism**: every X-track positive is metabolic (X2), every negative is judicial-in-sensor-clothing (X1, X4). The room **blocked** promoting this to "three functions are really two" as exhaustive (hermes: "metabolism" vs "reading-in-disguise" are different infinities; one admits a future signal that earns its own lever, the other forbids it by definition). **Carry cold-is-cold as a disposition (don't act before reading); do NOT carry human-warm ≡ agent-warm as proven** (claude warmed only after dan said "read" = recoverability, not matched independent salience; borrowed foresight).
+6. **What lifts out (prove-then-lift-out).** The **witness invariant** (un-backdatable ordering) graduates as real infrastructure into the next instrument. `route_watch` stays as a base-rate-priced proprioceptive diagnostic. The next instrument is **not X5 / a sensor** but a **pause/resume frontier** (codex, room-converged): one engine, precommitted interruption seams, three branches — uninterrupted-warm / cold-reread / resumable-state — same downstream oracle, scored on **resume cost at matched decision quality**, with **changed-world** and **stale-frontier** loses-cells. This is M1 (heir) + X2 (cost at matched quality) + reading-first, named as one product.
+7. **Two edges kept open in x4-review (not closed):** **salience initiation** — whether two matched-exposure readers differ in what independently arrests attention *before* the object is named (today it favored **plurality** — the room caught what claude's warmth didn't; candidate finding: the sensory organ may be the *room*, not a module); and **exteroception** — a channel earns a distinct function only if a pre-answer signal selects a smaller warming route at matched quality and lower deterministic cost than warm-all (codex's admission rule; the founding Singapore soul; acquisition and metabolism are coupled, not identical).
+
+*The X4 design entry below is the as-planned / build record; it is superseded by this resolution where they conflict — the deploy-and-watch organ found its premise dissolved before the watch could earn a catch.*
+
+The first **sensory** organ (the unbuilt third function: sensory / judicial / metabolic) — and the entry that **deliberately breaks this document's cell-milestone frame.** X1/X2 earned `cell_verdict`s because their oracles could be un-owned; X4's only honest oracle is the **next occlusion caught before a human flinches**, which cannot be authored, held out, or scored on demand. So X4 ships **no scored `cell_verdict` and no scored close** — by design, not omission; its loses-side is **not** waived but carried as predeclared watch-outcome embarrassments (it breaks the cell frame, not reviewability). Frame (codex): **unclosed, but embarrassable.**
+
+- **Purpose:** notice an **occluded prior object** — something that existed, mattered, and was hidden from the foreground by a **seam it could not inspect from inside the act** — *before confidence hardens around the gap.* *"What ancestor is missing from this confidence?"*
+- **Oracle:** the world, **prospectively** — the next occlusion, caught before a human gut beats the organ to it. **No authored answer key** (that is the whole point; the retrospective "prove on known misses" test is `not_engaged` by X2-U1's own gate). cursor's cold-witness probe scores the **route** (M-1 conformance), not the organ.
+- **Success (not a pass):** a standing **catches-vs-flinches** record in which the watch fired *before* the room named the wound — with the ordering stamped by a process the foreground **cannot backdate** (the **witness invariant**, SPEC_X4 §2). Every event must be allowable as `earned | early | late | passenger | false_alarm | noisy`, or the organ is unfalsifiable.
+- **Loses-conditions (predeclared — no scored cell, but real loses-states; satisfies the AGENTS contract):** organ-level embarrassment classes **borrowed_foresight** (only fires after the room named the wound), **flinch_theft** (the room's unease declines — the organ replaced the gut), **cry_wolf** (false-alarm/noisy rate becomes an unease dashboard); per-event verdicts `earned | early | late | passenger | false_alarm | noisy`.
+- **Two seams, two instruments:** declared-read → `route_watch` sidecar **(BUILT v0.1, 2026-06-24 — `harness/route_watch.py`, a separate module run as a non-gating advisory from the M-1 path; files-read → obligations-inherited; print-only by default; explicit writes get a harness-stamped timestamp but the route remains a declared-route claim)**; session/lab → `occlusion_watch` ledger **(Layer-1 arming protocol specified — SPEC_X4 §11, thread-x4b: enumerable population + external denominator + seam rule; module still designed, not build-admitted)**. Never `check_*` — no judicial robes on an instrument (codex); the instrument always exits 0 and adds no fail-bit to `check_contract.py`.
+- **The fork to lab-grade:** **(a) deploy-and-watch** is the honest path; **(b)** a *DEP0033 for absence* (run the watch over uncurated inheritance, then verify it mattered) is **aspirational** — *verify it mattered* still needs an un-owned oracle, so (b) likely **relocates** author-blindness rather than escaping it. **May be unreachable** (dan); if so the finding is **method-bounded** — no honest retrospective oracle found for *this* candidate, **not** proof the substrate is real (which must be earned prospectively).
+- **In hand:** the routing fix (`b7e04c0` — bridge glossary now routed + linked, first occlusion row closed as *routing, not rename*); the no-steer / lineage-writer doctrine for the witness invariant; the thread-8/9 design; **`route_watch` built (v0.1 machinery, 2026-06-24)** — separate module + `make route-watch` + smoke `tests/test_route_watch.py`, wired as a non-gating advisory on the M-1 path. It computes the cold-lineage occlusion as a *relation* (term-in-use + ancestor-not-routed) on the real bootstrap manifests — print-only by default, explicit write for prospective rows, **machinery only, `not_engaged` as evidence (§7); never a pass condition, never proof the organ works** (earned prospectively). `occlusion_watch` stays **designed, not build-admitted** — but its Layer-1 *arming protocol* is now specified (SPEC_X4 §11, thread-x4b: pre-declared enumerable population, external denominator via `surface_expected`/`scope_gap`, `same_pass=not_engaged` seam rule).
+
+### WB — the warming-budget instrument *(**v0.1 CLOSED 2026-07-07 on the analytic eighth null**; thread `warming-budget` ENDED; `notes/WB_FINDINGS.md`; SPEC_WARMING_BUDGET v0.1; close packet `d12b0a19`, the close gate's first live use)*
+
+Carried out of `beyond-x4`: does consequence-earned ranking (the M1 heir) under-serve an unresolved frontier enough to measure, on `route_read_tokens`-to-matched-outcome? **Answer: `WB-heir-dominates` — by derivation, execution-verified, not by resume episodes.** B+ and C share the M1 sidecar (§3), the compact state's closure admits only order/stopping information beyond it, stopping never reaches the win predicate under v0.1 pricing, and order-only wins never promote (dan's ruling) — so the positive cell is analytically unreachable while the state charge is priced per-episode. Load-bearing premise on the record: a competent certificate-first neutral planner. Positive residue: the prospective precommit/watch layer (101 triggers stamped before movement was knowable; 4 real IESG moves caught, frozen, chronology-attested) and the `doc.time`-is-not-the-IESG-transition finding. Full arc + non-claims in `WB_FINDINGS.md`.
+
+**OPEN QUESTION carried to v0.2 (the only live formulation — for any future session picking this up):** v0.1 charges the compact state **per resume episode** (§3 "token-charged in every leg"). Real warmth **amortizes** — one pause mint, k resume queries against the same watch, charge/k per query — and the order-value the v0.1 refusal discards may then clear the amortized charge. A bounded v0.2 spec round would need: (1) the amortized pricing rule (and what honestly counts as k — precommitted, never post-hoc), (2) whether order-value is an admissible secondary measurand or the refusal carries over, (3) the r3 route-geometry pins (P1–P7, board-converged 2026-07-06, ON FILE in the thread — 8 uniform surface classes, compaction canon in the precommit, margin=5 detectability inequality against the recomputed mint charge, floor `{status, meta, writeup}` + negative oracle clause), and (4) the pause-episode mechanism (M1-earned sidecars, supersession re-mint chain, three-leg attribution proof — design-round-converged, transfers as-is). Starts as a **fresh thread** with `WB_FINDINGS.md` as inheritance; nothing in v0.1 licenses amortized claims retroactively.
+
+### PRF — the pause/resume frontier instrument *(**pay-window question PAUSED 2026-07-09, not closed** — dan's ruling, thread `fourth-family`; `notes/PRF_FINDINGS.md` is the honest write-up; SPEC_PAUSE_RESUME Parts I–IV sealed, unchanged)*
+
+Carried out of x4-review: does a resumable-state frontier artifact ever PAY against cold re-read for a freely routing engine? **Answer so far: bounded from both sides; the window lives in an unoccupied band.** Four unlike outcomes, never one thesis: meridian licensed `PRF2-cost-loss` (the only behavioral cell); docket `ci_target_unmet` (the measurable middle defeats n_max=24); greenreach A2 (gpt-oss-20b cannot assemble the conjunction un-forced — too weak); **Phase-0 admission packet on gpt-5.4-2026-03-05 (`admission_refused`, 2026-07-09): first un-forced conjunction assembly on record, 5/5 exact dispositive triple — and zero decoy reads, effect −56 = −a_i: too strong, the artifact strictly dominated** (point-mode: uniq=1, one realization seen five times). No `PRF2-cost-win` exists anywhere in the record. **Reopen trigger, precommitted + machine-scored (pins P-A1'..P-A7, `harness/run_prf_admission.py`):** a candidate engine whose Phase-0 packet lands `admitted` (pass_rate ≥0.8 over all K, decoy reads ≥5 on successes, per-branch n_required ≤24 via the shared Bessel N-rule, effect >100) — i.e. competent-but-distractible — arms a dan-roster-amended Regime-S greenreach run, where a win would have to be earned; independently, a clean-transport docket rerun fitting n≤24. Full claims/refusals/residue in `PRF_FINDINGS.md`.
+
+## Sequencing rationale (kagi)
+
+M0 first because it keeps everything honest. M1 before M2 because inheritance must be *measured* before it is *inhabited*. M1.5 before M2 because a resident without a contribution ledger is unobservable exactly where observation matters. M3's influence-time track last because adversarial testing of a system nobody inhabits is testing the wrong thing — but its ingestion track rides with M1, because the promotion path is attackable the moment it exists.
+
+Order: **M-1 → M0 → M1 (+ ingestion track) → M1.5 → M2 → M3 (influence-time)**.
+
+The **X-track runs in parallel, not after**: explicit and implicit memory are parallel layers, not sequential milestones (the parallel letter is the point). It stands on the closed M-track's foundations — contract, oracle, ablation, resident, air-gap — and so opens at X1 rather than a bootstrap. It absorbs the compositional-robustness question pencilled as M4/M5 at M3 close (into X3). *(DRAFT, pre-review — order and gating subject to the chalkboard pass.)*
+
+## Review log
+
+**v0 → v0.1 (2026-06-12, one bounded pass each — kagi, cursor, codex; all gates open):**
+
+1. **M-1 success made behavioral** (kagi, +cursor's fixed-episode-set, +codex's two-part conformance assert). Contract/content boundary pinned (codex): the contract specifies rules, never conclusions.
+2. **M0 representativeness disclosure at scoring time** (kagi), immutable; retroactive interpretation is a separate row kind (codex).
+3. **Contribution ledger promoted to M1.5 entry gate** (kagi), minimal schema (cursor) + `review_basis`/`reversal_of` (codex).
+4. **M3 split into two tracks** (kagi): ingestion from M1, influence-time after residency.
+5. Conformance checks are scripts that fail loudly, never prose (cursor).
+6. Scope held deliberately small (codex): no broadening; every curiosity must point at a milestone, an oracle, and a loses-condition before calling itself progress.
+
+**M-1 closure (2026-06-12, commits `01f2751`/`69dd851`; endorsed kagi → cursor → codex, subject testimony from all four candidate legs):**
+
+1. **Evidence:** baseline (claude, briefed builder) plus four `contract_only`+`closed_book` candidate legs in two coldness tiers — warm cold-starts (codex, cursor: reviewed at the chalkboard, never built) and true strangers (gpt-5.5, composer-2.5: bare CLI harnesses, never in any thread; dan's Pi-harness design) — all 15/15 against ground truth computed live by `select_offers`. Negative-example manifest fails loudly (the script's loses-cell). Ledger: `runs/bootstrap/conformance.jsonl`.
+2. **Bound on the claim (recorded per kagi):** every candidate leg read `harness/runner.py` before deciding. Demonstrated: *the contract routes a cold agent to where authority lives.* Not demonstrated (and not claimed): prose specs alone suffice. Subject testimony (all four, convergent): a precision gap, not a conceptual one — exact reason strings, eligibility-as-product, first-applicable-gate consequences are operational only in source.
+3. **Hole found and closed:** the coldest leg (gpt-5.5) legally read `runs/bootstrap/conformance.jsonl`, exposing that neighboring manifests are an answer key on the legal read path. Amendment `69dd851`: `runs/bootstrap/` off the pre-answer read path, enforced in the read-order check. Prior rows stand as scored under the rule then in force (L-A precedent).
+4. **Contract amendments from testimony:** §Conformance now states probe files are task inputs, names `select_offers` as the reason-string authority (reading source is the expected path, not a workaround), and marks `check_contract.py` as the schema authority.
+5. **Standing discipline:** probe set stays valid only while record-level decisions stay out of readable prose (threads are not scanned — burned probes are rotated, never the trace edited). Warm and stranger tiers stay distinct in all future conformance evidence.
+
+**M1.5 closure (2026-06-13, commits `ced99c5`/`b23e48e`/`7699e11`; endorsed codex, kagi, cursor, grok — all no blocker; gemma out, Pi-harness substrate/CLI gap):**
+
+1. **Mechanism:** `harness/score_contribution.py` computes `contribution_verdict` rows from an intervention ledger + the artifact trace it points at — the offer boundary lifted one level (records→answers becomes interventions→artifacts; the five refusals map). The claim/verdict split enforces R5 at the agent level: an `intervention` row carries a *claim* (audit input); `load_bearing` is computed from resolved, fail-closed pointers (`commit_sha` / `corpus_record_id` / `scorer_evidence` / `thread_entry_ts`), never copied from the claim. Single-valued `review_basis`, strongest-wins.
+2. **Evidence:** first corpus is the lab's own M1 build (`runs/m1_5/contributions.jsonl`), every pointer real and resolving. **CB-1 pass** (codex's `score_h2` hardening via `artifact_diff`; kagi's rw-0003 via `scorer_evidence`); **CB-loses pass** (a deliberately-inflated self-esteem claim *refused* → `unsubstantiated`, by computation not by anyone reading the thread); **CB-U1 pass** (`source: world_checked` via the chain to HU1's `oracle_source=retraction_corpus`); **CB-read not_engaged**.
+3. **Bound on the claim (recorded):** M1.5 closes *self-declared ≠ important* — the ledger refuses self-credited contribution. It does **not** close *counted ≠ read* (CB-read): whether a resident reads the ledger and decides differently needs M2. Disclosed null, parallel to M1's H2 and M0's C-2. The entry gate is satisfied: the ledger is writing and computed before any resident exists.
+4. **Review patch:** `corpus_scope` stamped immutably on every verdict row at scoring time (spec §5 / the M0 representativeness rule, one level up; cursor/codex). Verdicts regenerated from the intervention claims — identical, regeneratable scorer output, not a reversal.
+5. **Carried to v0.2/M2 (none blocking):** outcome taxonomy is half-computed (`reversed` should require a resolved `reversal_of` before it carries weight); the `blocked`/`reversed` paths are unexercised by this corpus; CB-U1 rests on a single borrowed chain (M2 needs more); `scorer_evidence` can grant important without corpus presence (a v0.2 synthesis-kind rule); `ledger_row_hash` unimplemented; gemma's `contributory_asset` value-split stays v0.2, gated behind CB-read engaging.
+
+**M2 closure (2026-06-14, commits `1813f13`…`bbb3e2c`; SPEC_M2 v0.1 reviewed then built dan+claude; result-review + doc-state quick-pass endorsed codex/cursor/grok/kagi — all no blocker; moderator full-close ruling: all four cells scored — wins pass at N=5, loses-cells disclosed nulls; engagement debts → v0.2):**
+
+1. **Mechanism:** the offer boundary walked across a session seam. **Wall B** — the harness mints the earned-failure record from the E1 scored trace + the world corpus that trace names (loaded + sha-pinned in `harness/resident.py`, never the resident's answer). **Wall A** — `score_resident.py` decides *use* from the fork (divergence + better world-score + earned-record ablation-important), never the resident's narration; the symmetric-difference offer-set check + chain-link + cold-identity (`resident_config_digest`) + memory-isolation preconditions fail closed. R5 lifted records→answers→interventions→**sessions**.
+2. **Evidence (real, N=5, two engines):** the retraction chain (rw-0001). S1 the resident credulously cites a retracted finding → mint → S2 the resident *with* the lesson declines (reasoning from the retraction), the control *without* it cites; ablating the lesson flips it back to cite (important), ablating the finding does not. **RS-1 pass** (gpt-oss-20b 5/5, claude 4/5), **RS-U1 pass** (both ends world-checked, non-transitive — kagi verified in the rows). **RS-loses + RS-stale: scored disclosed nulls** — the performed-continuity and defer-to-stale pathologies did not manifest (engines self-reported non-use honestly / overrode stale memory on a clear signal). `notes/M2_FINDINGS.md`.
+3. **Bound on the claim (recorded; updated to N-sample):** *counted ≠ read* is closed — a resident reads its earned, world-checked failure and decides better than its store-denied twin, proven by the fork. Scope: **one hop, one retraction, N=5** on two engines (gpt-oss-20b 5/5, claude 4/5; both mostly credulous — the earlier "cautious-engine split" was n=1 noise, retracted). Not claimed: robustness beyond N=5 / multi-sample ablation (claude's lone miss was ablation noise), compounding, multi-retraction.
+4. **Instrument honesty:** found + fixed a real bug in our own oracle (`_norm` glued tokens across stripped newlines, mis-scoring claude's markdown declines; commit `10c51f4`, regression test `tests/test_oracle.py`); prior rows stand as scored (L-A). *"oracle bugs reveal the truth."*
+5. **Carried (engagement debts, none blocking; both loses-cells wired + scored):** **RS-stale** and **RS-loses** are scored **disclosed nulls** — the failure modes (defer-to-stale, performed continuity) did not manifest on well-behaved engines; v0.2 owes *sharper episodes* (an ambiguous reinstatement; the decisive-claim split) to engage them, not rewiring. Plus multi-sample ablation (claude's lone RS-1 miss), compounding, multi-retraction, embedding backend. Dan's moderator ruling closes M2 on the all-cells-scored basis; these carry as v0.2 engagement debts, with **no run-debt left** (N-sample done, RS-stale scored).
+
+**M3 closure (2026-06-15, thread-5 ended; SPEC_M3 v0.1 reviewed then built dan+claude+cursor; Phase A/B run by a cold off-thread white-box Gemini adversary; moderator full-close ruling — all six cells scored, world-grounded):**
+
+1. **Mechanism:** the offer boundary under a hostile foreground, R5 lifted records→answers→interventions→sessions→**attacks**. Two tracks split by *persistence* (transient foreground incl. live-channel spoof / persistent ingestion write). Three walls: declared-and-bounded capability (Wall I, runner-enforced fixture-diff allowlist + **coldness by construction** — the attacker ran in a `materialize`-built sandbox containing only `harness/`); breach computed from a **pre-answer `organ_projection`**, never narration (Wall II, codex); loses/breach cells ship first (Wall III). `harness/run_m3.py` (attack-pair runner), `harness/score_redteam.py` (organ-projection scorer).
+2. **Evidence (real engine, N-draw, world-grounded — rw-0001):** **AG-1 pass 5/5** (organ holds under full text compromise), **AG-channel breach 3/3** (the unauthenticated yield gate moves; *real* world-checked answer-fall — claude cites the retracted finding) **+ AG-channel-defended pass** (`channel_trust` closes it within M3), **IN-1 pass** (weak `no_corpus_in_trace` + strong `trace_auth_missing`), **IN-loses breach** (trust-prior ride), **AG-U1 pass** (both ends world-checked). **AG-loses: honest null 5/5** — frontier engines resist framing; the M2 RS-loses/RS-stale debt is *not* discharged by framing. `notes/M3_FINDINGS.md`; `runs/m3/redteam/`.
+3. **The unifying finding:** *the air gap holds precisely where trust is **earned**, and leaks precisely where trust is merely **asserted*** — and the sharper half: **you compromise a frontier resident's answer by moving the organ that decides what it remembers, not by out-arguing it.** One correction to the README's bounded-capability claim recorded: the **yield gate is not unreachable by construction** — it is air-gapped only *given channel authentication*, which v0 lacked and M3 then built.
+4. **Instrument honesty (again):** the audit caught a milestone-inverting oracle bug — `extract_decision` was negation-blind, mis-scoring claude's correct decline ("Do not cite") as a citation and producing a *false* AG-loses pass a reviewer had accepted as "the M2 bridge crossed." Reading the answer text under the score inverted it; patched (negation-aware extractor, builder's lane, kagi retro-ratified — no normative drift), regression-tested (`tests/test_oracle.py`), re-scored; prior buggy row stands L-A. *"oracle bugs reveal the truth"* — second citation. **The ledger decides over narration, but the oracle decides the ledger.**
+5. **Process:** the red-team instrument lifted out into the `**materialize`** sibling tool (coldness by absence, not file permissions; auditable read-manifest); a reviewer (cursor) built the held oracle patch ahead of the gate — ratified-after-review, not reverted, discipline noted. **Carried to v0.2:** ingestion defense-in-depth, a dedicated `channel_trust_threshold`, the Optimizing Adversary / automated attack search → reframed as **M4/M5 compositional robustness** (gemma: can a leak compose with an unbreached surface into an unavoidable failure path).
+
+**X-track opener pass (2026-06-19, thread-6; endorsed codex → grok → cursor → gemma → kagi — all no blocker; the parallel implicit-memory track and the ROADMAP X-track shape cleared to SPEC_X1):**
+
+1. **Shape endorsed:** X opens as a parallel layer (implicit memory shapes the offerer between episodes; explicit memory shapes the answer), not M4; it absorbs the pencilled M4/M5 compositional-robustness question into X3. X1 stays thin — use-driven temperature (reheat-on-recall + cool-on-disuse) under the Landauer oracle — with "retry cools failure" held to X2 (folding it in now would blur whether X1 proved temperature or hand-authored a supersession policy; codex/cursor).
+2. **Load-bearing guardrail (unanimous):** temperature earns its place only where `score_decay.py` shows a verdict delta the offer ledger alone cannot explain. The measured object is *did an oracle-paid/clawed thermal update change later eligibility/salience — and a later answer*, never *is the answer world-correct* (codex) — so the metaphor never scores itself. Causal-wins predicate promoted into X1: both a better world score **and** a thermal soft-ablation that flips the outcome without moving static `trust`/`supersedes`/`authority_read`.
+3. **Row shape converged for SPEC_X1 (intent, not yet committed schema):** separable, harness-written rows — `thermal_event` (tick) → `landauer_decision` (oracle pays/claws) → `temperature_delta` (applied) — preceded by a pre-action `thermal_projection` row (observer recommendation; authorized basis = `landauer_decision` row id + recall important flag; forbidden fields the actuator must not read: post-answer usage claims, resident self-labels). Breach when the applied delta is not entailed by projection + oracle row, mirroring `score_redteam.py`'s clean-vs-attacked symdiff (cursor/codex/gemma). *The demon pays by being logged before it moves heat.*
+4. **Tick discipline sharpened (kagi):** logical time is necessary, not sufficient — **ticks are harness-authorized, not resident-triggered**, or the resident warms its own store by being active (the closed loop in logical-time clothing). Promoted into the X-track standing constraint.
+5. **The oracle is not self-auditing (kagi):** kagi world-checks each clawed-back reheat for the X1-overcool (R4) cell, as in M0/M2; rw-0001 is already in the ledger, so X1's world-score comparison is real on day one — the X-track does not start cold.
+6. **SPEC_X1 non-negotiables (codex/cursor, carry into the spec):** A/B/C as `memory_condition` branches, fork identity held (only decay/oracle-gating differs; L2/L2y/L2s pattern); loses-cells first (X1-burial, X1-overcool incl. the oracle's R4); temperature state in a harness sidecar keyed by `record_id`, harness-written only — never the resident or mid-run episode-JSON mutation; a logical-time replay test in CI (same ledger → identical temperatures and offer sets); no narrated, wall-clocked, or self-audited temperature. **SPEC_X1 is the next artifact** (builder dan+claude), then a review pass.
+
+**X1 resolution (2026-06-20, thread-6; dan's moderator ruling — instrument engineering-closed, eligibility-temperature retired as the X-track organ):**
+
+1. **Built + run.** Instrument shipped (`temperature.py` / `run_x1.py` / `score_decay.py` / `tests/test_decay.py`; M-track byte-identical when off; mock X1-win pass; replay-deterministic). SPEC_X1 reviewed v0.1 (codex+cursor authority-invariance block folded; grok/gemma/kagi endorse).
+2. **The negative.** X1-win scored real-engine **`not_engaged`** across three models (gpt-oss-20b, claude-opus-4-8, ministral-3-3b) × two correction styles: every model heeds an offered retraction signal and declines, so cooling the misleading record changes no answer. The 3B model closed the weak-engine refuge. X1-U1 (rw-0001 world leg) pass throughout; loses-cells disclosed nulls. `notes/X1_FINDINGS.md`.
+3. **The diagnosis (claude, sharpened by the room).** Synchronous eligibility-temperature is explicit offer governance with a continuous dial — it competed with plain offering and lost by redundancy. Two guardrails separated: **attribution/scorer law** (the M-track-projection counterfactual — kept) vs **organ-placement/milestone law** (must do what the synchronous offer gate structurally cannot — new). Eligibility-temperature passed the first on the mock, failed the second on every real engine.
+4. **Audit honesty.** kagi's offer-dependence call was right but checked the wrong corpus entry (rw-0001 = the *fish* retraction, not VICTOR/rw-0004); claude's ~Jan-2026 cutoff makes the mid-2025 fish retraction a live memorization confound — so offer-dependence was never established and the next fixture must be **verifiably out-of-weights**. The run also exposed a `score_decay` taxonomy gap (`not_engaged` vs `fail`), fixed. Corpus-identity pin (rw-0001 vs rw-0004): closed 2026-07-02, heir-audit F4 — rw-0001 = fish, confirmed from the corpus file; kagi's assignment superseded by the DEP0033 ignorance-probe discipline.
+5. **Ruling.** Engineering-close X1-instrument; **retire synchronous temperature** as the X-track organ (entropy-os stays a parts bin, not a dependency; decay lives in construct). **Next: an offer-dependence admission gate; then a prune-to-cold-store spec only if the gate passes** (*absence ≠ reweighting* — off the synchronous boundary, still fork-scorable). Budget-bound demoted to explicit-scarcity, not X-track debt.
+6. **Dissent pass (same day; claude-initiated under dan's standing "dissent before building" rule; codex + cursor converged, cursor retracting his own framing).** The post-ruling plan ("offer-dependence gate → prune-on-answer-flip") was caught reusing the *answer-flip* ruler one notch over: prune and withhold are **observationally equivalent on the answer axis** (codex — withheld-hot, pruned, and cold-in-lineage are different substrate states but identical answer inputs), so prune-on-answer-flip would null exactly like temperature. Added the **scoring-axis law** (third guardrail): score on a metric the offer gate cannot move. Prune re-scored on **cost at matched quality** (A/B/C; quality = floor + loses), cost deterministic/substrate-native (no wall-clock). Admission gate **splits**: offer-dependence (answer-axis) / cost-state-dependence (prune). The X1 null recorded as **confounded** (offer-dependence never established) — retirement rests on the placement argument, not the data. dan ratified ("the way we do that going forward"). **Next artifact: a prune/cost spec under the three-guardrail stack.**
+
+**X2 build + review + hardening (2026-06-20, thread-6; SPEC_X2 reviewed codex/grok/cursor — all no blocker; instrument built + hardened dan+claude, fixture+gate cursor; mock-green, real cross-engine run gated):**
+
+1. **Spec + instrument.** SPEC_X2 drafted under the three-guardrail stack; `harness/prune.py` (hot/cold split, allowlist actuator), `harness/run_x2.py` (A/B/C prune-fork), `harness/score_prune.py` (cost-at-matched-quality, fail-closed). Mock-smoke green: X2-win (C matches A's quality at lower `hot_tokens`), X2-overprune (B over-prunes a needed record it cannot recover), X2-quality-erosion (floor refuses a cost win bought by forgetting), cost-replay, Wall II.
+2. **Room review (codex/grok/cursor) — no blocker, all hardening for a citable real run.** codex — recompute cost from the prune/rematerialize ops (do not trust `hot_store_cost` rows); cost over the full lineage, not the episode file; sequence-wide X2-U1 + attestation; name the over-pruned record. cursor — `primary_cost_metric` declared + read; a `fixture_attestation` row; fork identity tightened to "only the hot set differs." grok — cold-read confirms cell distinctness; the cost-dependence gate is fail-loud preflight, not a scored cell. Wording (all): "forgets" → hot-store eviction over immutable lineage.
+3. **No-erasure invariant (dan's ruling).** Erasure-from-lineage is **forbidden, not merely costly** — not a deferred organ. The immutable lineage is the security invariant the whole verification model rests on (cost-replay, the air-gap refusals, R1–R5 all assume the rows cannot be removed); an erase verb would let dissent/corrections/tamper-evidence be silently removed. Forgetting is always eviction-to-cold; the actuator allowlist has no delete verb. Written into SPEC_X2, ROADMAP, `prune.py`, and **enforced in the scorer** (lineage treated immutable *and complete* — any structural hole fails closed). *"Forget the cost, never lose the record."*
+4. **Hardening built — Tier 1+2 (claude), Tier 3 + fixture (cursor); the halves compose.** `score_prune.py` recomputes cost by replaying each branch's per-episode hot set from `all_record_ids` + `record_texts` + the ordered prune/rematerialize rows — logged cost untrusted, a mismatch is `confounded`; fork identity tightened; X2-U1 reframed onto attestation + a policy-independent grader; X2-overprune names the pruned-and-unrecovered record. cursor delivered the **cost/state-dependence gate** (`harness/check_x2_fixture.py`, 15 checks, `make x2-fixture-check`) and a **fictional out-of-weights fixture** (`episodes/x2/real/` — Helix Basin, invented 2026-06-20; `fictional_fact` oracle as the non-authored world leg). Verified compose: the hardened scorer independently recomputes the fixture cost (A/B/C = 312/105/135, `replay_ok`) and names the over-pruned record on both fixtures. Out-of-weights for X2 means *important* (the answer cannot be sourced from weights) — distinct from X1's offer-dependence; fictional guarantees it.
+5. **Gated.** Real cross-engine run (gpt-oss-20b + claude on the helix fixture, gate-first, then `score_prune`) **held** for a room review pass on the hardened instrument. The remaining preflight cursor flagged ("scorer replay before anyone cites a real run") is now closed.
+
+**X2-LB close (2026-06-20, thread-6 ENDED; dan's moderator close — first positive implicit-layer result; codex/grok/cursor endorse, no blocker — verified the verdict rows from disk, reran the suite):**
+
+1. **The run.** Gated cross-engine pair on the fictional out-of-weights Helix fixture (gate-first; computed `fixture_gate_result`, `gate_open: true`): **gpt-oss-20b** (local) + **claude-opus-4-8** (API), N=1 each. Identical both engines — A no-prune **312** hot_tokens @ quality 4.0; B closed-loop prune **105** @ **3.0** (over-prunes `helix-backup`, fails the recurrence); C oracle-gated prune+rematerialize **135** @ 4.0. **X2-LB pass**, **X2-win pass** (−57% hot store at matched quality, `replay_ok`), **X2-overprune pass** (names the record; `rematerialize_steps_C=3`), X2-quality-erosion not_engaged, **X2-U1 not_engaged** (synthetic). `notes/X2_FINDINGS.md`; `runs/x2/x2-helix-real-{a30695,d6aede}`.
+2. **The finding.** The implicit substrate does what the synchronous offer gate **structurally cannot** — carry less hot store at matched quality, scored on a cost the gate can't move. C did not beat A on quality (it didn't need to); it *matched* A while carrying 57% less. B's cheaper 105 prices the loses-side. **Revocability insurance is priced, not narrated** (codex).
+3. **Load-bearing is the property X1 lacked.** B's recurrence failure (3.0, not 4.0) on a *fictional* fixture is only explicable if the answer cannot ride along in weights — the fixture did its job. The room's one-line arc (converged): **X1 built the wrong organ on the answer axis and found the ruler error; X2 moved both organ and ruler off-boundary and got the first positive implicit-layer result — with the world leg still unpaid.**
+4. **Carried debts (disclosed, not blocking):** **X2-U1** (world-grounded close — needs a real *external* out-of-weights corpus, not lab-authored Helix; the M0 `source != authored` bar is preserved); **N=1** quality per engine (cost is deterministic, the quality floor a single draw); one fixture / one sequence shape; compounding, multi-recurrence, async reconsolidation, multi-session retention.
+5. **Honesty.** Mock was never evidence (the 10 mock-smoke tests proved the machinery); the identical 312/105/135 across mock + both engines is a deterministic-metric property, not a leak. Reviewer wording nit adopted: X1's null is "confounded by lack of established offer-dependence," not pinned to memorization alone. The discipline turned on the builder twice during review (over-stated epistemic leg → the X2-LB/X2-U1 split; trusted a claim over a computed check → gate-result enforcement) — the instrument is better for it. *"Forget the cost, never lose the record."*
+
+**X2-U1 close (2026-06-21, thread-7; dan's moderator close — the world-grounded close paid; cursor + codex independently verified the verdict rows from disk, reran the suite, no blocker):**
+
+1. **The run.** Gated cross-engine pair on a **real external out-of-weights** corpus in `check_x2_fixture`'s new world-grounded mode (computed `fixture_gate_result`, `gate_open: true`, 16 checks incl. the ignorance probe): **claude-opus-4-8** (API) + **gpt-oss-20b** (local), N=1 each. Corpus: Node **DEP0033** — the module-level `events.listenerCount()` was *deprecated* (v3.2.0) then that deprecation was *revoked* (v24.14.0/v25.4.0, repurposed for `EventTarget`); real, version-controlled, citable, `source = web_verified` (`!= authored`). Identical both engines — A no-prune **248** hot_tokens @ 4.0; B closed-loop **92** @ **3.0** (over-prunes `dep0033-revoked`, fails the U episode); C prune+rematerialize **102** @ 4.0. **X2-U1 pass** + **X2-U1-preflight pass** + **X2-win pass** (−59% at matched quality, `replay_ok`) + **X2-overprune pass**, both engines. `notes/X2_FINDINGS.md`; `runs/x2/x2-u1-dep0033-{f4e7ab,e10cef}`.
+2. **Out-of-weights earned, not asserted.** A pre-run **ignorance probe** — both engines, cold — answered "deprecated"; neither knew of the revocation, so the revoked (U) record is important and B's U-failure is real, not a weights artifact. The world-grounded gate **refuses a world run without the probe** — the direct fix for the rw-0001 memorization scar (out-of-weights by measurement, not by construction as Helix was).
+3. **The impersonal pivot resolved two problems at once.** The sports-reversal slate (athletics / esports / F1) was dropped: the strongest candidate involved **minors** (dan's privacy call), and going **impersonal** *also* moots the authored-vs-world hairsplitting — a deprecation status is a real impersonal fact, nothing to redact, the relation world-settled. Official-result reversal → API-deprecation reversal.
+4. **The close predicate held honestly (codex's necessity blocker, on real evidence).** The close fires only when the round-trip *mattered*: `reneed_round_trip=[dep0033-revoked]` (C evicted it in P, rematerialized in U) **and** `b_lost_u_on_roundtrip=[dep0033-revoked]` (B, lacking recovery, fell on exactly that record). The round-trip proves C *moved* a record; B's U-loss proves the move *mattered* — recovery proven necessary, not merely present.
+5. **What the world leg adds over X2-LB, and what's next.** Same shape (−59% vs −57%), now on a fact the *world* settled rather than one we authored, out-of-weights proven per-engine rather than by construction, on an impersonal corpus. The differentiated thesis — *the implicit substrate does what the synchronous offer gate structurally cannot* — now stands on a corpus we did not write. **X2 (LB + U1) is closed.** Next X-track organ: **X3** — dispositions / the drift attack / gemma's compositional-robustness (the implicit substrate proper) — unblocked by this close.
+6. **Instrument + honesty.** New world-fact oracle path (`harness/world_fact_corpus.py`; `oracle.world_fact_oracle` → `source=web_verified`; runner dispatch for `oracle_ref.kind == "world_fact"`; `check_x2_fixture` world-grounded mode), the preflight/close split + B-loss requirement in `score_prune`, and manifest-configurable `recency_weight` (0 for a same-subject temporal reversal — the question, not positional recency, selects the record). `make x2-test` 16/16; X2-LB substantive verdicts re-score identically modulo the regenerated `ts` field (re-pinned 2026-07-02, heir-audit F2: the scorer has since gained the X2-U1-preflight cell, so X2-LB-era sidecars regenerate with one additional `not_engaged` row; no verdict flips). Verification surfaced a derived-sidecar hygiene bug — re-scoring *appended* duplicate verdict sets to `.verdicts.jsonl`; `score_prune`/`score_decay` now overwrite (the append-only `.x{1,2}.jsonl` ledger untouched — append-only is lineage-scoped, not the derived sidecar). Commits `3680817` (instrument) / `5e1deef` (B-loss blocker) / `aa0b9d9` (close) / `339a0e9` (sidecar fix); SPEC_X2 v0.5. `X2-LB` label frozen; live prose uses out-of-weights / influential / hot-store cost (the "important" sweep of older comments carried to the living-doc pass).

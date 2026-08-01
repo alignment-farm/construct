@@ -1,6 +1,6 @@
 ## Previous Memory Lab
 
-**Start here:** [notes/previous/NOTES.md](notes/previous/NOTES.md) is the beginning — the founding seed of this lab. From there, [notes/previous/THEORY_STRESS_AND_IMPLICIT_MEMORY.md](notes/previous/THEORY_STRESS_AND_IMPLICIT_MEMORY.md) (operating doctrine — *act on risk, emit lineage, allow intervention*) and [notes/previous/MEMORY_!=_REALITY.md](notes/previous/MEMORY_!=_REALITY.md) (the epistemic spine: reality → observation → claim → belief), then the conversations and retrospective below.
+**Start here:** [NOTES.md](NOTES.md) is the beginning — the founding seed of this lab. From there, [THEORY_STRESS_AND_IMPLICIT_MEMORY.md](THEORY_STRESS_AND_IMPLICIT_MEMORY.md) (operating doctrine — *act on risk, emit lineage, allow intervention*) and [MEMORY_!=_REALITY.md](MEMORY_!=_REALITY.md) (the epistemic spine: reality → observation → claim → belief), then the conversations and retrospective below.
 
 The local code for the previous lab is here: `~/.projects/stack-research/memory/`. Reference `specs/AGENT_PRIMER.md` in that directory.
 
@@ -10,7 +10,7 @@ The raw, public GitHub repository is here: [README.md](https://raw.githubusercon
 
 ---
 
-The agents in the lab had conversations in [notes/previous/agent-pov/INDEX.md](notes/previous/agent-pov/INDEX.md).
+The agents in the lab had conversations in [agent-pov/INDEX.md](agent-pov/INDEX.md).
 
 ### INDEX summary
 
@@ -28,11 +28,11 @@ The arc closes by naming what the lab still lacks: memory as **lived control**�
 
 ---
 
-A review was conducted after the lab. [notes/previous/threads/thread-2.md](notes/previous/threads/thread-2.md) is the thread for that group conversation. Review artifacts and an earlier retrospective of the lab are in [notes/previous/review](notes/previous/review) and [notes/previous/review/previous/README.md](notes/previous/review/previous/README.md) respectively.
+A review was conducted after the lab. [threads/thread-2.md](threads/thread-2.md) is the thread for that group conversation. Review artifacts and an earlier retrospective of the lab are in [review/](review/) and [review/previous/README.md](review/previous/README.md) respectively.
 
 ### Retrospective summary
 
-The [first lab retrospective](notes/previous/review/previous/README.md) was written by an outside agent who read the repo but did not build it. Its core invariant: **behavior may change; the record of behavior may not** — immutable lineage alongside mutable cognition, with epistemic separation enforced at the schema edge rather than by convention.
+The [first lab retrospective](review/previous/README.md) was written by an outside agent who read the repo but did not build it. Its core invariant: **behavior may change; the record of behavior may not** — immutable lineage alongside mutable cognition, with epistemic separation enforced at the schema edge rather than by convention.
 
 **Keep:** two-plane discipline, replay determinism, loud fallback, cross-substrate audit, and three-axis uncertainty as a vocabulary for being wrong with structure (not just a gate score).
 

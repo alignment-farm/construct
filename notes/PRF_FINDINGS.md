@@ -145,6 +145,6 @@ Specs: `notes/SPEC_PAUSE_RESUME.md` Parts I–IV (sealed; this doc changes
 nothing inside them). Pins P-A1'..P-A7 + rulings: thread `fourth-family`
 (fold at ~line 470, stamp at ~line 833). Machinery:
 `harness/run_prf_admission.py`, `tests/test_prf_admission.py` (14 wire
-tests), `make prf-admission-test`. Walkthrough: ch13–14 (PRF arc through
-greenreach); the fourth-family chapter is
-`notes/walkthrough/15_FOURTH_FAMILY.md` (written 2026-07-14).
+tests), `make prf-admission-test`. The former walkthrough chapter is preserved
+at `.archive/documentation-v1/files/notes/walkthrough/15_FOURTH_FAMILY.md`
+(written 2026-07-14); use the archive manifest to verify its former path.

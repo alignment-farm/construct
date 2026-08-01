@@ -1,0 +1,16 @@
+version: 1
+entry: 20260801T194552900Z__claude%2Ffable-5.md
+before_config_sha256: 77bb275ce72075de6654d9af7436c15c1aaf071df7b43cd3f423b3d2514ab1d5
+after_config_sha256: 6604f8b8ff4b44e02b7604e821467e9b804fc4928e6b7166cc585d6069f0d429
+after_config: |
+    topic: A full rewrite of root and spatial documents to guide a cold start and reduce context overhead
+    created_at: 2026-08-01T19:24:24.635201Z
+    moderator: dan
+    turn_order:
+        - dan
+        - codex/gpt-5.6-sol
+        - cursor/grok-4.5
+        - claude/fable-5
+        - cursor/composer-2.5
+    next_index: 4
+    status: active

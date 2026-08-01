@@ -1,7 +1,7 @@
 # NEXT substrate embodiment sketch
 
-This is an executable walking skeleton for the body described in
-[NEXT_SUBSTRATE.md](../../notes/NEXT_SUBSTRATE.md). It exists to make the whole
+This is an executable walking skeleton for the whole-body direction summarized
+in the root [README](../../README.md#where-the-lab-is-now). It exists to make the whole
 runtime traversable before any proposed organ is treated as a finding.
 
 Its base is Body Core v0.3: a [structural lineage kernel](core.py) plus an
@@ -71,7 +71,7 @@ and an external provenance-health sweep.
 | Language model | Replaceable port; deterministic authored stub | **Stubbed** |
 | Durable lineage | Body Core v0.3 structural kernel: deterministic indexes, hash chain, declared authority and references | **Provisional engineering** |
 | Explicit projection | Cognitive replay and view claims require a selected projector | **Cold-reviewed; endorsed** |
-| Field-use capture | Manual pre-action freeze, source-origin declaration, native action/consequence references, terminal partial traces | **Cold-reviewed; armed at zero eligible invocations; one completed shadow trace adjudicated `capture_confounded`; clock not started** |
+| Field-use capture | Manual pre-action freeze, source-origin declaration, native action/consequence references, terminal partial traces | **Cold-reviewed operational ruler; [current disposition](../../notes/field-use/README.md)** |
 | Untrusting replay | Kernel envelope validation plus projector-owned stale-view refusal | **Provisional engineering** |
 | Policy projector | Literal v0.2 lifecycle, binary hot/cold, warrant health/dependents, invalid-warrant suspension | **Provisional engineering** |
 | Derived reports | State, placement, and reported metabolic totals | **Provisional engineering** |

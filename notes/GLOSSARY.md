@@ -364,8 +364,8 @@ experiment, treatment branch, or memory finding. Its Body Core rows remain
 `wire_integration_only`, and the acting model cannot nominate its own
 invocation.
 
-See: [FIELD_USE_PROTOCOL_V0.md](FIELD_USE_PROTOCOL_V0.md) and
-[walkthrough chapter 22](walkthrough/22_FIELD_USE_PILOT.md).
+See: the current [field-use authority route](field-use/README.md) and sealed
+[FIELD_USE_PROTOCOL_V0.md](FIELD_USE_PROTOCOL_V0.md).
 
 ### Shadow Invocation
 
@@ -562,7 +562,7 @@ similar to, the named foreground datum.
 The X-track runs parallel to the M-track: implicit memory shapes *the offerer*
 between episodes, where the explicit offer boundary shapes *the answer*. These
 terms appear in the X1/X2 specs, ledgers, and scorers. See
-[ROADMAP.md](ROADMAP.md) (X-track) and
+[the root project history](../README.md#how-the-thesis-changed) and
 [SPEC_X2_PRUNE_TO_COLD_STORE.md](SPEC_X2_PRUNE_TO_COLD_STORE.md) for authority.
 
 These terms descend from the two-plane vocabulary in the lab-1→lab-2 bridge
@@ -664,8 +664,9 @@ governance with a dial, not the implicit substrate (`notes/X1_FINDINGS.md`).
 X4's closing insight: the human-warm/agent-cold gap is a *state* gap, not a
 capability gap. Sensing an occluded ancestor reduces to *reading* it, so a
 "coldness sensor" costs the same attention as the warming it would trigger —
-reading is already the sense. The narrow close and its retracted stronger
-claims are [walkthrough chapter 9](walkthrough/09_X4_OCCLUSION_WATCH.md).
+reading is already the sense. The project-level close and its limits are
+summarized in the root [thesis history](../README.md#how-the-thesis-changed);
+the governing instrument remains [SPEC_X4_OCCLUSION_WATCH.md](SPEC_X4_OCCLUSION_WATCH.md).
 
 ### Cry-Wolf Rate
 
@@ -688,9 +689,9 @@ triggers, precommitted reopen conditions, the T0-before-movement rule.
 ## Process and audit terms (how the lab argues)
 
 The lab's results are made in conversation. These terms name the moves of that
-conversation and the audit vocabulary built in the heir-audit (2026-07-02). The
-walkthrough's [chapter 0](walkthrough/00_READING_A_LAB.md) teaches them in plain
-language; authority for the close-gate terms is
+conversation and the audit vocabulary built in the heir-audit (2026-07-02).
+The root [working guide](../README.md#working-here) teaches the standing rules
+in plain language; authority for the close-gate terms is
 [SPEC_CLOSE_GATE.md](SPEC_CLOSE_GATE.md).
 
 ### Loses-Cell
@@ -780,9 +781,9 @@ its slowest reader.
 
 ## Admission and calibration terms (the pause/resume and EFC era)
 
-The instruments after the warming budget — the pause/resume frontier
-(walkthrough chapters 12–15) and the epistemic-frame check (chapters 16–19) —
-spent most of their budget refusing to run invalid experiments. These terms
+The instruments after the warming budget — the pause/resume frontier and the
+epistemic-frame check — spent most of their budget refusing to run invalid
+experiments. These terms
 name that machinery. Authority: [SPEC_PAUSE_RESUME.md](SPEC_PAUSE_RESUME.md)
 and [PRF_FINDINGS.md](PRF_FINDINGS.md) for the pause/resume terms; the EFC
 findings chain ([v0](EFC_V0_FINDINGS.md), [v1](EFC_V1_FINDINGS.md),
@@ -797,7 +798,7 @@ A study ending in a named, machine-legible verdict — `confounded(A2)`,
 failed." The type says *which layer* refused (transport, surface, oracle,
 engine admission), so unlike refusals cannot be stacked into one thesis:
 "three consecutive negatives" was refused as exactly that compression
-([walkthrough chapter 15](walkthrough/15_FOURTH_FAMILY.md)).
+([PRF findings](PRF_FINDINGS.md)).
 
 ### Ignorance Probe
 
@@ -906,7 +907,7 @@ Oracle-side law from the Greenreach family: no disposition is adequate unless
 the session actually *read* every dispositive leg. It sealed the
 partial-credit hole where a prior oracle had been paying out for
 read-one-leg-and-guess for a month — the "oracles buy behavior" lesson
-([walkthrough chapter 14](walkthrough/14_GREENREACH_CLOSE.md)).
+([sealed pause/resume specification](SPEC_PAUSE_RESUME.md)).
 
 ### Beeline
 

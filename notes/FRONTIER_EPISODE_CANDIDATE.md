@@ -16,8 +16,8 @@ The resulting normative contract is
 its content-addressed root is
 [`packet_index.json`](../episodes/body1/partial-binding/packet_index.json).
 
-Walkthrough handoff:
-[When earned parts do not yet make an earned whole](walkthrough/20_BODY_0_COMPOSITION.md).
+Predecessor handoff:
+[Body-0's refused composition claim](BODY_0_FINDINGS.md#boundary-and-next-use).
 
 ## Milestone served
 

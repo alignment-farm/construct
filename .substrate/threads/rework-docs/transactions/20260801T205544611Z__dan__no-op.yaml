@@ -1,0 +1,16 @@
+version: 1
+entry: 20260801T205544611Z__dan__no-op.md
+before_config_sha256: c63432e414db8ed808a8b05dc814ad40a7df7ead10768de1dd5b7ad445b79f16
+after_config_sha256: a174012270d150c907c05f7ba65d152d1505f4524928a0e586967d892b9c1616
+after_config: |
+    topic: A full rewrite of root and spatial documents to guide a cold start and reduce context overhead
+    created_at: 2026-08-01T19:24:24.635201Z
+    moderator: dan
+    turn_order:
+        - dan
+        - codex/gpt-5.6-sol
+        - cursor/grok-4.5
+        - claude/fable-5
+        - cursor/composer-2.5
+    next_index: 1
+    status: active

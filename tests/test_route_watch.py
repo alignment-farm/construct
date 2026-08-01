@@ -21,7 +21,7 @@ BRIDGE = "notes/previous/review/glossary.md"
 
 # A route that uses the two-plane vocabulary (via the required active glossary) but
 # never reaches the bridge ancestor — the shape every pre-b7e04c0 bootstrap had.
-COLD_ROUTE = ["AGENTS.md", "README.md", "notes/ROADMAP.md", "notes/GLOSSARY.md"]
+COLD_ROUTE = ["AGENTS.md", "README.md", "notes/README.md", "notes/GLOSSARY.md"]
 WARM_ROUTE = COLD_ROUTE + [BRIDGE]  # the route the routing fix now makes available
 
 

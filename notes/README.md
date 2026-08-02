@@ -12,6 +12,7 @@ not a second project introduction. Start with the root [README](../README.md).
 | What vocabulary does the lab use? | [GLOSSARY.md](GLOSSARY.md) |
 | Why is frontier search paused? | [FRONTIER_PAUSE.md](FRONTIER_PAUSE.md) |
 | What ordinary observations can reopen it? | [ANOMALY_LOG.md](ANOMALY_LOG.md) |
+| What did the warranted GM cold pass decide? | [GM_CANONICAL_WORLD_COLD_PASS.md](GM_CANONICAL_WORLD_COLD_PASS.md) |
 | What is the current whole-body architecture? | Root [README](../README.md#where-the-lab-is-now), then [BODY_CORE_EXPLICIT_PROJECTION.md](BODY_CORE_EXPLICIT_PROJECTION.md) |
 | What is field use's current status and authority route? | [field-use/README.md](field-use/README.md) |
 | What came from the previous lab? | [previous/README.md](previous/README.md) |

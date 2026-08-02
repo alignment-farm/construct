@@ -37,9 +37,16 @@ Review the log:
 
 - once per calendar month, with the first scheduled review on or after
   2026-08-20; or
-- earlier when three materially similar observations have accumulated.
+- earlier when three materially similar observations have accumulated; or
+- earlier for one concrete episode supplied by a materially new engine class or
+  real partner problem, provided that episode already satisfies every reopening
+  gate below.
 
-A review classifies entries only:
+An engine name, new capability claim, funding source, or partner label is not
+an episode. The exceptional route exists for externally supplied reality, not
+for bypassing the ordinary three-observation threshold.
+
+An ordinary review classifies entries only:
 
 1. isolated noise;
 2. explained by an existing failure mode;
@@ -69,6 +76,35 @@ A materially new engine class or partner problem can trigger an early review,
 but it must still yield a concrete episode meeting those conditions. Reopening
 licenses one cold frontier pass, not a build or engine contact. Normal
 proposal, review-budget, admission, and evidence rules continue to apply.
+
+## Reopening funnel
+
+Every possible reopening follows the same five stages:
+
+1. **Capture eligibility.** The behavior arose during independently motivated
+   work, exact raw evidence exists, a consequential consumer is named, memory
+   is one plausible explanation, and at least one non-memory explanation is
+   visible. Authored probes, documentation QA, self-description tests, and
+   hypothetical fixtures stop here.
+2. **Observation description.** Record the seam, observed context condition,
+   and consequence without naming a mechanism or treatment.
+3. **Review classification.** Classify ordinary observations as
+   `isolated_noise`, `existing_failure_mode`, `repeated_insufficient`, or
+   `credible_cluster`. A qualifying new-engine or partner episode proceeds as
+   an `exceptional_episode` gate subject without being mislabeled a cluster.
+4. **Reopening gate.** A `credible_cluster` or `exceptional_episode` must supply
+   all five requirements above: exact evidence, consumer, external oracle,
+   competing explanation, and loses-condition. One missing leg means
+   `remain_paused`.
+5. **Decision.** The only outputs are `remain_paused` and
+   `cold_frontier_pass_warranted`.
+
+`cold_frontier_pass_warranted` licenses one bounded pass to reconstruct the
+episode, state the causal question, identify the oracle and competing
+explanation, name a loses-condition, and decide whether an isolation tool such
+as `materialize` could support later branches. The pass may produce a proposal
+for normal cold review. It may not build a candidate, author fixtures, contact
+an engine, assign treatment, or claim a finding.
 
 ## Non-claims
 

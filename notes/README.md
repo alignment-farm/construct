@@ -10,8 +10,13 @@ not a second project introduction. Start with the root [README](../README.md).
 | What is the harness contract? | [PLAN_V1_BRANCH_AND_OFFER.md](PLAN_V1_BRANCH_AND_OFFER.md) |
 | How are cells designed and scored? | [RUBRIC_V1.md](RUBRIC_V1.md) and the relevant scorer |
 | What vocabulary does the lab use? | [GLOSSARY.md](GLOSSARY.md) |
-| Why is frontier search paused? | [FRONTIER_PAUSE.md](FRONTIER_PAUSE.md) |
-| What ordinary observations can reopen it? | [ANOMALY_LOG.md](ANOMALY_LOG.md) |
+| What governs frontier exploration and claim promotion? | [FRONTIER_EXPLORATION.md](FRONTIER_EXPLORATION.md) |
+| Why was frontier search paused, and what did that policy decide? | Superseded [FRONTIER_PAUSE.md](FRONTIER_PAUSE.md) |
+| Where are passive observations recorded? | [ANOMALY_LOG.md](ANOMALY_LOG.md) |
+| What did the first exploration establish? | [GM_MEMORY_EXPLORATION.md](GM_MEMORY_EXPLORATION.md) (`exploratory_lead`, not a finding) |
+| What happened to the GM-memory experiment? | [GM_MEMORY_VALIDATION_RESULT.md](GM_MEMORY_VALIDATION_RESULT.md) (corrected exploratory replacement `supported`) |
+| What did the replacement teach us? | [GM_MEMORY_FINDING.md](GM_MEMORY_FINDING.md) (bounded exploratory finding and product implication) |
+| What was its frozen design? | [SPEC_GM_MEMORY_VALIDATION.md](SPEC_GM_MEMORY_VALIDATION.md) |
 | What did the warranted GM cold pass decide? | [GM_CANONICAL_WORLD_COLD_PASS.md](GM_CANONICAL_WORLD_COLD_PASS.md) |
 | What is the current whole-body architecture? | Root [README](../README.md#where-the-lab-is-now), then [BODY_CORE_EXPLICIT_PROJECTION.md](BODY_CORE_EXPLICIT_PROJECTION.md) |
 | What is field use's current status and authority route? | [field-use/README.md](field-use/README.md) |
@@ -46,6 +51,11 @@ Later frontier lines:
 - [Body-1](BODY_1_ADMISSION_FINDINGS.md) and the
   [frontier-obligation candidate](FRONTIER_OBLIGATION_ADMISSION_FINDINGS.md):
   admission lineages closed without scored treatment contact.
+
+Current frontier operation uses two lanes: permissive `exploratory_only`
+contact and strict prospective validation. The governing policy is
+[FRONTIER_EXPLORATION.md](FRONTIER_EXPLORATION.md); it changes admission and
+promotion, not any closed result above.
 
 ## Body Core
 

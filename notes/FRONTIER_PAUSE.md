@@ -1,6 +1,17 @@
 # Frontier search pause
 
-Status: **ACTIVE from 2026-07-20**.
+Status: **SUPERSEDED 2026-08-03 by
+[FRONTIER_EXPLORATION.md](FRONTIER_EXPLORATION.md)**.
+
+This document remains the authority for the pause that operated from
+2026-07-20 through 2026-08-03 and for decisions made under it. Its admission
+funnel and cadence are no longer the current route for new work. The successor
+separates permissive exploratory contact from strict claim promotion after the
+pause itself produced a selection effect: candidate questions had to arrive
+unusually observable, naturally occurring, externally gradable, and nearly
+isolatable before the lab would let an experiment help discover their shape.
+
+The historical policy follows unchanged.
 
 Active frontier search is paused. The frontier is not exhausted, and the pause
 is not a negative finding about any untested conjecture. The reason is

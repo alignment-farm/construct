@@ -2,12 +2,15 @@
 
 Status: **OPENED 2026-07-20 — append-only observational register**.
 
-Authority and cadence:
-[FRONTIER_PAUSE.md](FRONTIER_PAUSE.md).
+Current authority: [FRONTIER_EXPLORATION.md](FRONTIER_EXPLORATION.md).
+The superseded [frontier pause](FRONTIER_PAUSE.md) owns the historical cadence
+and reopening decisions recorded below.
 
 This log captures unplanned observations from ordinary work that may later
-justify a cold frontier pass. It is not a candidate queue, idea backlog,
-findings document, or substitute for an experiment ledger.
+motivate exploration or validation. It is not a candidate queue, idea backlog,
+findings document, or substitute for an experiment ledger. Authored exploratory
+fixtures remain in their own record and may not be entered here as passive
+observations.
 
 ## Capture instructions
 
@@ -263,3 +266,19 @@ must not be copied into the entry register.
   preserving its exact prompt and authority without this mismatch
 - note: no fixture, replay, engine invocation, treatment, or `mork-borg` change
   was made
+
+## 2026-08-03 — passive reopening gate superseded
+
+- kind: administration
+- authority: [Frontier exploration and claim promotion](FRONTIER_EXPLORATION.md)
+- decision: the passive register remains open for natural observations, but it
+  no longer gates authored fixtures, engine contact, or exploratory mechanism
+  work
+- historical_effect: none; the session 014 review and cold-pass closure retain
+  their original meaning and evidence boundary
+- scheduled_review: the former on-or-after-2026-08-20 reopening review is no
+  longer mandatory; future anomaly reviews may still classify natural entries
+  when useful
+- first_exploration: [GM memory exploration](GM_MEMORY_EXPLORATION.md)
+- claim_boundary: exploratory artifacts remain `exploratory_only`; promotion
+  requires a fresh prospective validation boundary

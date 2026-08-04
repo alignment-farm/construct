@@ -36,8 +36,10 @@ be retried or replaced.
    invocation facts. The
    [first adjudication](../FIELD_USE_INVOCATION_001_ADJUDICATION.md) is the
    current counting authority.
-4. [FRONTIER_PAUSE.md](../FRONTIER_PAUSE.md) alone owns scientific review and
-   reopening authority.
+4. [FRONTIER_EXPLORATION.md](../FRONTIER_EXPLORATION.md) owns the current
+   separation between exploration and scientific claim promotion. The
+   superseded [pause](../FRONTIER_PAUSE.md) remains authority for decisions
+   made while it operated.
 5. This page resolves those sources for readers. It does not amend them.
 
 Pilot counts, clock state, and eligible-invocation totals may change here only
@@ -51,9 +53,12 @@ crosses an admitted cold-reorientation or handoff seam, the authorized capture
 layer may record it under the protocol. Do not prefer, create, reshape, or time
 work to populate the pilot.
 
-Without such a seam, await the anomaly-review cadence or a genuine reopening
-trigger in [FRONTIER_PAUSE.md](../FRONTIER_PAUSE.md). Maintenance of provisional
-Body Core remains allowed when the engineering work itself warrants it.
+Without such a seam, do not manufacture one for this pilot. Deliberate
+exploration may proceed separately under
+[FRONTIER_EXPLORATION.md](../FRONTIER_EXPLORATION.md), but its fixtures, engine
+calls, consultations, and branches are ineligible field-use invocations.
+Maintenance of provisional Body Core remains allowed when the engineering work
+itself warrants it.
 
 Documentation maintenance, including repair of this route, is not a field-use
 invocation.

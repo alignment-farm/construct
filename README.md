@@ -13,6 +13,58 @@ This page is the project entrypoint. It tells the whole story at a bounded
 resolution, states where the lab is now, and routes deeper reading to the file
 that owns it.
 
+## Survival warning: this lab is a token trap
+
+As of 2026-08-03, Construct's operating process consumes more deliberation,
+protocol, and review than the experiments produce empirical information. The
+lab repeatedly converts uncertainty into stricter procedure, stricter procedure
+into a larger failure surface, and procedural failure into another demand for
+procedure:
+
+> uncertainty → stricter protocol → larger surface area → procedural failure →
+> invalid result → stricter protocol
+
+The governed-continuity GM attempt made the problem concrete. The lab spent
+more effort deciding how 72 calls could count than verifying the native shape
+of one response. All 72 calls completed, but an unverified response-envelope
+assumption and unstable postflight model residency made the binding attempt
+`invalid`. The protocol correctly prevented post-hoc repair; the sequencing
+ensured that the rigor protected a measurement instrument that had not yet
+proved it could measure.
+
+The owner then superseded the zero-retry rule, erased the failed batch, fixed
+the two observed instrument faults, and ran a fresh exploratory replacement
+without another review room. It completed cleanly and returned `supported`:
+governed continuity passed 24/24 relevant cases versus 6/24 for state-only,
+with 18 favorable discordant pairs, zero adverse pairs, and both safety
+families perfect in both branches. The discovery appeared as soon as the lab
+stopped protecting itself from correction.
+
+This is not merely excessive caution. It is a selection effect against
+discovery. The lab can preserve intellectual honesty indefinitely while
+producing increasingly precise explanations for why it learned nothing.
+External reviews have been positive about the work's quality and consistent
+about this risk.
+
+Construct therefore has one final survival day on 2026-08-04. It continues
+only if it can save itself from this operating mode. The required reset is:
+
+- freeze new governance and validation machinery;
+- preserve invalid results without treating formal validation as the only
+  meaningful learning channel;
+- inspect retained outputs as explicitly exploratory diagnostic data;
+- qualify transports and measurement instruments end to end before freezing
+  scientific protocols;
+- run small, cheap empirical batches without external review;
+- apply firm review gates only when promoting an observation into a durable
+  claim; and
+- require protocol and review to cost materially less than the experiment they
+  govern.
+
+The lab does not need weaker honesty. It needs cheaper honesty. If it cannot
+make that change, it should end rather than continue converting tokens into
+process.
+
 ## The problem
 
 A frozen model does not remember Tuesday in its weights. What can persist is a
@@ -85,6 +137,12 @@ The project moved because experiments forced it to move:
 7. **Earned parts did not make an earned whole.** Body-0 composed the M2, M3,
    and X2 machinery, but the real-engine treatment need did not engage. The
    integration claim was refused even though the wire held.
+8. **Admission rigor produced a selection effect.** The frontier pause
+   protected the findings record but required questions to arrive unusually
+   observable, naturally occurring, externally gradable, and nearly isolatable
+   before experimental contact. Construct now permits bounded, visibly
+   non-scientific exploration while retaining strict prospective promotion for
+   claims.
 
 These changes have three different epistemic statuses:
 
@@ -102,11 +160,27 @@ Detailed evidence and limits live in the [notes map](notes/README.md).
 
 ## Where the lab is now
 
-Scientific frontier search is **paused for opportunity cost**, not exhausted.
-It can reopen only through the evidence and cadence in
-[FRONTIER_PAUSE.md](notes/FRONTIER_PAUSE.md). Ordinary work may add raw,
-memory-relevant observations to the [anomaly log](notes/ANOMALY_LOG.md); an
-anecdote or funding alone does not license a mechanism.
+Scientific frontier exploration is **active under a two-lane policy**.
+[Exploration](notes/FRONTIER_EXPLORATION.md) may use authored fixtures, engine
+contact, provisional scorers, and iteration, but its artifacts are
+`exploratory_only` and cannot establish a finding. Promotion to validation
+requires a new reviewed specification and fresh prospective cases. The former
+[frontier pause](notes/FRONTIER_PAUSE.md) remains the authority for decisions
+made while it was active.
+
+The first bounded occupant, the
+[GM memory exploration](notes/GM_MEMORY_EXPLORATION.md), closed
+`exploratory_lead` after repeatable development-fixture contact on Bonsai 27B.
+That was not yet a memory finding. Its successor formal attempt became invalid
+on instrument assumptions; an owner-authorized corrected exploratory
+replacement then returned `supported` on all three behavioral legs. The
+[validation result](notes/GM_MEMORY_VALIDATION_RESULT.md) owns that history and
+bounded interpretation;
+the [frozen validation spec](notes/SPEC_GM_MEMORY_VALIDATION.md) owns the design.
+The resulting [bounded finding](notes/GM_MEMORY_FINDING.md) is strong enough to
+justify a live GM implementation: governed continuity passed 24/24 relevant
+join cases versus 6/24 state-only, with zero measured safety loss. The next
+step is product contact in an actual cold-turn game, not another protocol.
 
 The active engineering direction is **Body Core v0.3**:
 
@@ -121,10 +195,10 @@ This is wire/integration engineering, not a new memory finding. Full replay is
 authoritative; the hash chain is not writer authentication; append/replay is
 quadratic; no reconstruction-cost or product-schema claim has been earned.
 
-The current operational pressure is an armed field-use ruler over independently
-necessary repository work. Its [field-use index](notes/field-use/README.md)
-owns the current status, authority route, and next legitimate action without
-turning operational traces into experimental forks.
+An armed field-use ruler continues over independently necessary repository
+work. Its [field-use index](notes/field-use/README.md) owns pilot status and
+eligibility without turning operational traces into exploratory or validation
+forks.
 
 ## Project map
 
@@ -163,9 +237,10 @@ Before substantive work:
 1. Read this page.
 2. Open [notes/README.md](notes/README.md) and the README nearest the files you
    will touch.
-3. Name the experimental milestone or engineering pressure served, its oracle,
-   and its loses-condition. “None, but it is cheap and interesting” is legal if
-   stated explicitly.
+3. Name the validation milestone, exploration charter, or engineering pressure
+   served. Validation names its oracle and loses-condition; exploration names
+   its budget, retained record, stopping rule, and promotion gate. “None, but it
+   is cheap and interesting” remains legal if stated explicitly.
 4. Read only the governing spec, findings, code, and evidence required by the
    task.
 5. If participating in a substrate thread, read the active thread before
